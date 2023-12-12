@@ -1,3 +1,3 @@
-# Software Development Project 1
+# Ohjelmistoprojekti 2
 
-<https://software-development-project-1.github.io/>
+<https://hh-ohjelmistoprojekti-2.github.io/>
