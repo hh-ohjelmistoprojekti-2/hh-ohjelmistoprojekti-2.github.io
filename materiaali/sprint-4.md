@@ -37,5 +37,5 @@ Sprintin tavoitteet projektille:
     - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei kannata mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
     - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. feature branchit)? Miten käytitte jatkuvaa integraaiota?
     - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
-    - Mitä puutteita sovellukseen jäi?
+    - Mitä puutteita projektiin jäi?
 
