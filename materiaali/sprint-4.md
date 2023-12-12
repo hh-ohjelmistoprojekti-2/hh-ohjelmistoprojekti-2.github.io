@@ -9,7 +9,7 @@ nav_order: 7
 
 Sprintin tavoitteet projektille:
 
-- Samat vaatimukset kuin [edellisellä sprintillä](/sprint-3)
+- Samat tavoitteet kuin [edellisellä sprintillä](/sprint-3)
 - Uusien toiminallisuuksien sijaan on keskitytty olemassaolevien toiminallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen.
 - Projektille on valmisteltu esitys loppudemoa varten.
 

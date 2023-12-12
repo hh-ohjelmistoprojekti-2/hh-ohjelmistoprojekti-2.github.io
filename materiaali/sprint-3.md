@@ -9,7 +9,7 @@ nav_order: 6
 
 Sprintin tavoitteet projektille:
 
-- Samat vaatimukset kuin [edellisellä sprintillä](/sprint-2)
+- Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2)
 - Testausta on laajennettu ja testikattavuutta testikattavuustyökaluilla.
 - Projektin dokumentaatio on pidetty ajantasalla.
 
