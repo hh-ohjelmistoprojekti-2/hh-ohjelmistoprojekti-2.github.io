@@ -1,0 +1,23 @@
+title: Ohjelmistoprojekti 2
+email: kalle.ilves@haaga-helia.fi
+description: >-
+  Ohjelmistoprojekti 2 -kurssimateriaali
+baseurl: ""
+url: ""
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+callouts:
+  important:
+    title: Important
+    color: blue
+  warning:
+    title: Tärkeää!
+    color: red
+  highlight:
+    title: Huomio!
+    color: yellow
+  note:
+    title: Vinkki
+    color: purple
+
