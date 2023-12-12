@@ -10,7 +10,7 @@ nav_order: 6
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2)
-- Testausta on laajennettu ja testikattavuutta testikattavuustyökaluilla.
+- Testausta on laajennettu ja testikattavuutta tarkastellaan testikattavuustyökaluilla.
 - Projektin dokumentaatio on pidetty ajantasalla.
 
 ## Viikko 1
