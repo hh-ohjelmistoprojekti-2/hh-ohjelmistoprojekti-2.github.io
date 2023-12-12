@@ -11,6 +11,7 @@ Sprintin tavoitteet projektille:
 
 - Samat vaatimukset kuin [edellisellä sprintillä](/sprint-3)
 - Uusien toiminallisuuksien sijaan on keskitytty olemassaolevien toiminallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen.
+- Projektille on valmisteltu esitys loppudemoa varten.
 
 ## Viikko 1
 
@@ -30,4 +31,11 @@ Sprintin tavoitteet projektille:
 - Jatkakaa projektin edistämistä.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://software-development-project-1.github.io/sprint-1#github-release). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
 - Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminallisuuksia tuotantoympäristössä.
-- Valmistelkaa projektille esitys loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen.
+- Valmistelkaa projektille esitys loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen. Käsitelmää loppudemossa ainakin seuraavat asiat:
+    - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
+    - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
+    - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei kannata mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
+    - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. feature branchit)? Miten käytitte jatkuvaa integraaiota?
+    - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
+    - Mitä puutteita sovellukseen jäi?
+

@@ -24,7 +24,7 @@ Sprintin tavoitteet projektille:
 ## Viikko 2
 
 - Toteuttakaa sovelluksella lisää testejä ja tarkkailkaa [testikattavuutta](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage) testikattavuustyökaluilla, kuten [JaCoCo](https://www.baeldung.com/jacoco), tai [Jest](https://jestjs.io/).
-- Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla.
+- Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla. [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) GitHub Actions workflowssa on esimerkki, miten testikattavuusraportin saa lähetettyä Codecoviin.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
