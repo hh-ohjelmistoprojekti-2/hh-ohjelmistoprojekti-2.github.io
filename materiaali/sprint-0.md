@@ -12,6 +12,7 @@ Sprintin tavoitteet projektille:
 - Projektin aihe ja tärkeimmät toiminallisuudet on pääpirteittäin suunniteltu.
 - Projektilla on GitHub-repositorio.
 - Repositoriossa on `README.md`-tiedosto, jossa on projektin alustava kuvaus.
+- Projektille on tehty sprint ja product backlogit.
 - Ensimmäistä sprinttiä varten on muodostettu user storyt ja ne on lisätty _product backlogiin_.
 - User storyt on jaettu teknisiksi taskeiksi ja ne on lisätty _sprint backlogiin_.
 - Projektin koodirunko on alustettu.
@@ -33,17 +34,17 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-- [Projektin GitHub-repositorion luominen](https://docs.github.com/en/get-started/quickstart/create-a-repo) ja jakaminen opettajalle.
-- Projektin kuvaus GitHub-repositorion [README-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
+- Luokaa projektille [GitHub-repositorio](https://docs.github.com/en/get-started/quickstart/create-a-repo).
+- Lisätkää projektin kuvaus GitHub-repositorion [README.md-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
   - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
     - Projektin nimi.
     - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
-- Product ja sprint backlogien alustaminen. Backlogeihin suositellaan [GitHub projectsia](https://software-development-project-1.github.io/sprint-1#github-projects). User storyt ja taskit voi toteuttaa [GitHub issueina](https://software-development-project-1.github.io/sprint-1#github-issues).
-- User storyjen valinta ensimmäiselle sprintille ja niiden jakaminen teknisiin taskeihin
-- User storyjen lisääminen _product backlogille_ ja taskien lisääminen _sprint backlogille_
-- Linkki backlogeihin GitHub-reposiorion README-tiedostoon
+- Luokaa projektille product ja spring backlogit. Backlogeihin suositellaan [GitHub projectsia](https://software-development-project-1.github.io/sprint-1#github-projects). User storyt ja taskit voi toteuttaa [GitHub issueina](https://software-development-project-1.github.io/sprint-1#github-issues).
+- Valitkaa user storyt ensimmäiselle sprintille ja jakakaa ne teknisiin taskeihin
+- Lisätkää user storyt _product backlogille_ ja taskit _sprint backlogille_
+- Lisätkää linkki backlogeihin GitHub-reposiorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlogit ovat julkisia_, jotta opettaja voi tarkastella sitä.
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://start.spring.io/) avulla.

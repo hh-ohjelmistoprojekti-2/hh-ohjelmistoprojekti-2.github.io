@@ -9,15 +9,14 @@ nav_order: 5
 
 Sprintin tavoitteet projektille:
 
-- Sprintille on _oma sprint backlog_.
 - Sprintille on valittu user storyt, jotka löytyvät product backlogilta.
-- Valituille user storyille on tehty työmääräarviot story pointseina.
+- Valituille user storyille on tehty työmääräarviot story pointseina ja ne on jollain tavalla nähtävillä product backlogista.
 - Sprintille valitut user storyt on jaettu teknisiksi taskeiksi ja lisätty sprint backlogiin.
 - User storyjen tai taskien toteutus on tehty omissa haaroissaan ja ne on yhdistetty repositorion päähaaraan.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan jatkuvan integraation avulla.
 - Suunnitellut user storyt on toteutettu sprintin aikana.
 - Sovellus on julkaistu tuotantoympäristössä.
-- Projektin dokumentaatiota on edistetty. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti. REST API:en dokumentaatiossa voi hyödyntää [Swagger](https://software-development-project-1.github.io/sprint-2#rest-api-documentation-with-swagger)-työkalua.
+- Projektin dokumentaatiota on edistetty. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti. REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://software-development-project-1.github.io/sprint-2#rest-api-documentation-with-swagger)-työkalua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
@@ -43,6 +42,6 @@ Sprintin tavoitteet projektille:
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen koodikatselmoinnin edellisen viikon katselmointipyynnön pohjalta ja toimittavat sen _ennen seuraavaa opetuskertaa_. Lukekaa koodikatselmoinnin ohjeet [täältä](/koodikatselmointi).
 
 - Toteuttakaa sovelluksen joitain automatisoituja testejä. [Tästä](https://github.com/Kaltsoon/spring-boot-vite-example) projektista voi ottaa mallia REST API:en integraatiotestaukseen.
-- Ottakaa käyttöön jatkuva integraatio esim. [GitHub Actionsin](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JAR:in muodostus Maven-projektissa `/.mvnw package`-komennolla). [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) esimerkki workflow GitHub Actionsissa.
+- Ottakaa käyttöön jatkuva integraatio esim. [GitHub Actionsin](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JAR:in muodostus Maven-projektissa `/.mvnw package`-komennolla). [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) workflow-esimerkki GitHub Actionsissa.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://software-development-project-1.github.io/sprint-1#github-release). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
 - Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminallisuuksia tuotantoympäristössä.
