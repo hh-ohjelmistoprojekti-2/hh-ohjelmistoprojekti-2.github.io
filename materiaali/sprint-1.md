@@ -26,7 +26,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-- Pitäkää ensimmäinen [daily scrum]([https://software-development-project-1.github.io/sprint-1#daily-scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa sprint backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
+- Pitäkää ensimmäinen [daily scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa sprint backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
