@@ -24,6 +24,7 @@ Sprintin tavoitteet projektille:
 - Jakautuminen tiimeihin. Tiimin tavoitekoko on 4-5 henkilöä.
 - [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
 - Projektiaiheiden pohtiminen tiimin kesken. Pitäkää aiheen laajuus kurissa ja lähtekää liikkeelle [MVP](https://tuotejohtaminen.fi/mita-tarkoittaa-mvp-ja-mita-ei/)-toteutuksella. Kurssilla toteutetaan ohjelmistoa sillä ajatuksella, että se tulisi oikeasti käyttöön.
+- Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](avoimet-rajapinnat.md).
 - Jos projektin ideoita ei meinaa spontaanisti syntyä, niin kysykää opettajilta aiheideoita.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
