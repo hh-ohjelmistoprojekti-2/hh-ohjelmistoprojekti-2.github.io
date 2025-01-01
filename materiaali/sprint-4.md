@@ -27,7 +27,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 3
 
-- Jatkakaa projektin edistämistä.
+- Tehkää viimeisiä viimeistelyjä projektiin.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
 - Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminallisuuksia tuotantoympäristössä.
 - Valmistelkaa projektille esitys loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen. Käsitelmää loppudemossa ainakin seuraavat asiat:
