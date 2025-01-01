@@ -13,7 +13,7 @@ Sprintin tavoitteet projektille:
 - Valituille user storyille on tehty työmääräarviot story pointseina ja ne on jollain tavalla nähtävillä backlogista.
 - Sprintille valitut user storyt on jaettu teknisiksi taskeiksi.
 - Versionhallinnassa on käytetty päähaarasta erillistä kehityshaaraa. Valmis toiminallisuus on yhdistetty repositorion päähaaraan, eikä päähaarassa ole keskeneräistä koodia.
-- Sovellukselle on toteutettu joitain testejä ja ne suoritetaan jatkuvan integraation avulla.
+- Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Suunnitellut user storyt on pääosin toteutettu sprintin aikana.
 - Sovellus on julkaistu tuotantoympäristössä.
 - Projektin dokumentaatiota on edistetty.
