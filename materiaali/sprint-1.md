@@ -26,13 +26,12 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-- Pitäkää ensimmäinen [daily scrum](https://software-development-project-1.github.io/sprint-1#daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa sprint backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
+- Pitäkää ensimmäinen [daily scrum]([https://software-development-project-1.github.io/sprint-1#daily-scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa sprint backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
 
 - Lukekaa [Git branch](https://www.atlassian.com/git/tutorials/using-branches) (ja alaluvut) ja [Git feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) -materiaalit.
-- Tehkää ainakin joidenkin user storyjen tai taskien toteutukselle omat haarat. Pyrkikää pitämään haarojen muutokset pieninä ja yhdistämään ne päähaaraan mahdollisimman nopeasti. Feature branchin voi tehdä esimerkiksi yhdelle taskille, tai pienelle user storylle.
-- Yhdistäkää haarat repositorion päähaaraan [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti
-- Tehkää sprintin päätteeksi sprintille [GitHub release](https://software-development-project-1.github.io/sprint-1#github-release). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
+- Tehkää päähaarasta (`main`-haara) erillinen kehityshaara (esim. `dev`-haara), johon teette committeja (päähaaraan ei siis tehdä suoraan committeja). Yhdistäkää valmiit toiminallisuudet päähaaraan esimerkiksi [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti.
+- Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
 - Valmistelkaa lyhyt demo sprintin tuotoksista sprintin katselmointia varten. Kertokaa lyhyesti projektistanne ja esitelkää sprintin aikana toteutettu toiminallisuus.
