@@ -16,7 +16,7 @@ Sprintin tavoitteet projektille:
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan jatkuvan integraation avulla.
 - Suunnitellut user storyt on pääosin toteutettu sprintin aikana.
 - Sovellus on julkaistu tuotantoympäristössä.
-- Projektin dokumentaatiota on edistetty. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti. REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://software-development-project-1.github.io/sprint-2#rest-api-documentation-with-swagger)-työkalua.
+- Projektin dokumentaatiota on edistetty.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
@@ -34,6 +34,7 @@ Sprintin tavoitteet projektille:
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
 - Julkaiskaa sovellus tuotantoympäristössä, esim. [Render](https://render.com/)-alustalla.
+- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti. REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://software-development-project-1.github.io/sprint-2#rest-api-documentation-with-swagger)-työkalua.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
