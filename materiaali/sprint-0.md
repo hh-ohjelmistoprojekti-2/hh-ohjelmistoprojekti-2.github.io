@@ -18,7 +18,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
-- [Opetustilaisuuden kalvot](./kalvot/johdanto/johdanto.pdf)
+- [Opetustilaisuuden kalvot](../kalvot/johdanto/johdanto.pdf)
 - Kurssin käytäntöjen ja tavoitteiden käsittely
 - Ketterä ohjelmistokehitys ja Scrum
 - Jakautuminen tiimeihin. Tiimin tavoitekoko on 4-5 henkilöä.
