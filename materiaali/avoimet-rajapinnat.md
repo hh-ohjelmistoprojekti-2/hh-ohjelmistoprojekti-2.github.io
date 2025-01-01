@@ -1,5 +1,12 @@
-# Esimerkkejä avoimen rajapinnan tarjoavista palveluista
+---
+layout: page
+title: Esimerkkejä avoimen rajapinnan tarjoavista palveluista
+permalink: /avoimet-rajapinnat
+nav_exclude: true
+---
 
+
+# Esimerkkejä avoimen rajapinnan tarjoavista palveluista
 
 * https://www.avoindata.fi/fi
 
