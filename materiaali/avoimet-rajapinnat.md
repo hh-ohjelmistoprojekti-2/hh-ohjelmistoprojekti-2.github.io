@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Esimerkkejä avoimen rajapinnan tarjoavista palveluista
+title: Avoimen rajapinnan tarjoavia palveluita
 permalink: /avoimet-rajapinnat
-nav_exclude: true
+nav_order: 9
 ---
 
-
-# Esimerkkejä avoimen rajapinnan tarjoavista palveluista
+# Avoimen rajapinnan tarjoavia palveluita
 
 * https://www.avoindata.fi/fi
 
