@@ -12,7 +12,7 @@ Sprintin tavoitteet projektille:
 - Projektin aihe ja tärkeimmät toiminallisuudet on pääpirteittäin suunniteltu.
 - Projektilla on GitHub-repositorio.
 - Repositoriossa on `README.md`-tiedosto, jossa on projektin alustava kuvaus.
-- Projektille on tehty sprint ja product backlogit.
+- Projektille on tehty backlog.
 - Ensimmäistä sprinttiä varten on muodostettu user storyt ja ne on lisätty sprint backlogille.
 - Projektin koodirunko on alustettu.
 
@@ -38,8 +38,8 @@ Sprintin tavoitteet projektille:
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
-- Luokaa projektille product ja spring backlogit. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt ja taskit voi toteuttaa [GitHub issueina](https://github.com/features/issues).
+- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt ja taskit voi toteuttaa [GitHub issueina](https://github.com/features/issues).
 - Valitkaa user storyt ensimmäiselle sprintille ja jakakaa ne teknisiin taskeihin
-- Lisätkää linkki backlogeihin GitHub-reposiorion `README.md`-tiedostoon
+- Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella sitä.
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://start.spring.io/) avulla.
