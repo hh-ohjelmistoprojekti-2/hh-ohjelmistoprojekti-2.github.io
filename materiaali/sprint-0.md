@@ -41,7 +41,7 @@ Sprintin tavoitteet projektille:
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
 - Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt ja taskit voi toteuttaa [GitHub issueina](https://github.com/features/issues).
   - [Tämä](https://www.youtube.com/watch?v=fFrq28RY1SQ) video esittelee GitHub Projectsin ja Issueiden käyttöä.
-  - Projektin backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
+  - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
 - Valitkaa user storyt ensimmäiselle sprintille, jakakaa ne teknisiin taskeihin ja lisätkää ne sprint backlogille.
 - Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella sitä.
