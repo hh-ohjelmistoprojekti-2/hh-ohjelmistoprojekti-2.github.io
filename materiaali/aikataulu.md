@@ -24,7 +24,7 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | Viikko | Aihealueet                                                                                                 |
 | ------ | ---------------------------------------------------------------------------------------------------------- |
 | 21.8.  | 🏃‍♂️ [Sprint 0](/sprint-0): ketterä vaatimusmäärittely, tiimien muodostaminen, projektin käynnistys |
-| 28.8.  | GitHub repositorion luonti, backlogin perustaminen                                                        |
+| 28.8.  | GitHub repositorion luonti, projektin vaatimusmäärittelyn aloittaminen, backlogin perustaminen                                                        |
 | 4.9.   | 🏃‍♂️ [Sprint 1](/sprint-1): spritin 1 suunnittelu, versionhallinan kertausta                                               |
 | 11.9.  | Daily scrum, projektin edistämistä                                                                  |
 | 18.9.  | Git haarat, GitHub pull request                                                   |
