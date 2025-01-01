@@ -9,12 +9,12 @@ nav_order: 5
 
 Sprintin tavoitteet projektille:
 
-- Sprintille on valittu user storyt, jotka löytyvät product backlogilta.
-- Valituille user storyille on tehty työmääräarviot story pointseina ja ne on jollain tavalla nähtävillä product backlogista.
-- Sprintille valitut user storyt on jaettu teknisiksi taskeiksi ja lisätty sprint backlogiin.
-- User storyjen tai taskien toteutus on tehty omissa haaroissaan ja ne on yhdistetty repositorion päähaaraan.
+- Sprintille on määritelty ja valittu user storyt, jotka löytyvät sprint backlogista.
+- Valituille user storyille on tehty työmääräarviot story pointseina ja ne on jollain tavalla nähtävillä backlogista.
+- Sprintille valitut user storyt on jaettu teknisiksi taskeiksi.
+- Versionhallinnassa on käytetty päähaarasta erillistä kehityshaaraa. Valmis toiminallisuus on yhdistetty repositorion päähaaraan, eikä päähaarassa ole keskeneräistä koodia.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan jatkuvan integraation avulla.
-- Suunnitellut user storyt on toteutettu sprintin aikana.
+- Suunnitellut user storyt on pääosin toteutettu sprintin aikana.
 - Sovellus on julkaistu tuotantoympäristössä.
 - Projektin dokumentaatiota on edistetty. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti. REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://software-development-project-1.github.io/sprint-2#rest-api-documentation-with-swagger)-työkalua.
 - Sprintille on tehty GitHub release.
@@ -22,9 +22,9 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
-- Järjestäkää [retrospektiivi](https://software-development-project-1.github.io/sprint-2#retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
+- Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
 - Suunnitelkaa user storyt sprinttiä varten ja lisätkää ne product backlogille.
-- Muodostakaa user storyille [työmääräarviot](https://software-development-project-1.github.io/sprint-2#estimation) hyödyntämällä esim. [planning poker](https://software-development-project-1.github.io/sprint-2#planning-poker) -tekniikkaa. Käyttäkää arvioissa story pointseja ja merkatkaa työmääräarviot product backlogin user storyihin.
+- Muodostakaa user storyille [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker]([https://software-development-project-1.github.io/sprint-2#planning-poker](https://www.mountaingoatsoftware.com/agile/planning-poker)) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
 - Jakakaa user storyt taskeihin ja lisätkää ne sprint backlogille.
 - Alkakaa toteuttamaan sprint backlogin taskeja.
 
@@ -33,7 +33,7 @@ Sprintin tavoitteet projektille:
 {: .highlight }
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
-- Julkaiskaa sovellus tuotantoympäristössä, esim. [Render](https://render.com/)-alustalla. Ohjeita Spring Boot -sovelluksen tuotantonvientiin löytyy [täältä](https://software-development-project-1.github.io/sprint-1-todo#deployment).
+- Julkaiskaa sovellus tuotantoympäristössä, esim. [Render](https://render.com/)-alustalla.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
