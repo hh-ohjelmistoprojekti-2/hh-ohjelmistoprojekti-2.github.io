@@ -27,8 +27,8 @@ Sprintin tavoitteet projektille:
 
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
-- Toteuttakaa sovelluksella lisää testejä. Voitte halutessanna myös tarkkailla [testikattavuutta](https://www.simform.com/blog/test-coverage/) testikattavuustyökaluilla, kuten [JaCoCo](https://www.baeldung.com/jacoco), tai [Vitest](https://vitest.dev/).
-- Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla. [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) GitHub Actions workflowssa on esimerkki, miten testikattavuusraportin saa lähetettyä Codecoviin.
+- Toteuttakaa sovelluksella lisää testejä. Tarkastelkaa projektinne [testikattavuutta](https://www.simform.com/blog/test-coverage/) testikattavuustyökaluilla, kuten [JaCoCo](https://www.baeldung.com/jacoco), tai [Vitest]([https://vitest.dev/](https://vitest.dev/guide/coverage)).
+- Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla. [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) GitHub Actions -workflowssa on esimerkki, miten testikattavuusraportin saa lähetettyä Codecoviin.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
