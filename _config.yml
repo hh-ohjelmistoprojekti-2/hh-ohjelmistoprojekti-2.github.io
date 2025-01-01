@@ -7,6 +7,8 @@ url: ""
 theme: just-the-docs
 plugins:
   - jekyll-feed
+teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi) ja Jukka Juslin (jukka.juslin@haaga-helia.fi)"
+teaching_sessions_text: "TODO"
 callouts:
   important:
     title: Important
