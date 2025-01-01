@@ -7,7 +7,7 @@ nav_order: 2
 
 # Aikataulu
 
-Kurssilla on viikottaisia opetustilaisuuksia TODO luokassa TODO. Opetustilaisuuksiin osallistuminen on _pakollista_.
+Kurssilla on viikottaisia opetustilaisuuksia {{site.teaching_sessions_text}}. Opetustilaisuuksiin osallistuminen on _pakollista_.
 
 {: .highlight }
 
