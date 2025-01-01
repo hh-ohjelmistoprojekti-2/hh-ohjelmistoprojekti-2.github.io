@@ -38,4 +38,4 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | 13.11. | 🏃‍♂️ [Sprint 4](/sprint-4): sprintin 4 suunnittelu, sprintin 3 katselmointi ja retrospektiivi                               |
 | 20.11. | Projektin edistämistä                                                                                      |
 | 27.11. | Projektin viimeistelyä                                                                                     |
-| 4.12.  | Loppudemot                                                                                                 |
+| 4.12.  | Loppudemot ja projektin palautus                                                                                                 |
