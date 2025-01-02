@@ -34,12 +34,13 @@ Sprintin tavoitteet projektille:
 - Luokaa projektille [GitHub-repositorio](https://docs.github.com/en/get-started/quickstart/create-a-repo).
 - Lisätkää projektin kuvaus GitHub-repositorion [README.md-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
   - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
-    - Projektin nimi.
+    - Mikä on projektin nimi?
     - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
-- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt ja taskit voi toteuttaa [GitHub issueina](https://github.com/features/issues).
+- `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutusta tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
+- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt ja taskit voi toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
   - [Tämä](https://www.youtube.com/watch?v=fFrq28RY1SQ) video esittelee GitHub Projectsin ja Issueiden käyttöä.
   - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
 - Valitkaa user storyt ensimmäiselle sprintille, jakakaa ne teknisiin taskeihin ja lisätkää ne sprint backlogille.
