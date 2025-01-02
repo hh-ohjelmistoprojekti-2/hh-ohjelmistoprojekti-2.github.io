@@ -26,7 +26,7 @@ Sprintin tavoitteet projektille:
 - Projektiaiheiden pohtiminen tiimin kesken.
   - Pitäkää aiheen laajuus kurissa ja lähtekää liikkeelle [MVP](https://tuotejohtaminen.fi/mita-tarkoittaa-mvp-ja-mita-ei/)-toteutuksella. Kurssilla toteutetaan ohjelmistoa sillä ajatuksella, että se tulisi oikeasti käyttöön.
   - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat).
-  - Jos projektin ideoita ei meinaa spontaanisti syntyä, niin kysykää opettajilta aiheideoita.
+  - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita opettajan kanssa.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
 ## Viikko 2
