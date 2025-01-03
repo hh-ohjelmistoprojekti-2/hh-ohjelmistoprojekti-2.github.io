@@ -23,19 +23,20 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 
 | Viikko | Aihealueet                                                                                                 |
 | ------ | ---------------------------------------------------------------------------------------------------------- |
-| 21.8.  | 🏃‍♂️ [Sprint 0](/sprint-0): ketterä vaatimusmäärittely, tiimien muodostaminen, projektin käynnistys |
-| 28.8.  | GitHub repositorion luonti, projektin vaatimusmäärittelyn aloittaminen, backlogin perustaminen                                                        |
-| 4.9.   | 🏃‍♂️ [Sprint 1](/sprint-1): spritin 1 suunnittelu, versionhallinan kertausta                                               |
-| 11.9.  | Daily scrum, projektin edistämistä                                                                  |
-| 18.9.  | Git haarat, GitHub pull request                                                   |
-| 25.9.  | 🏃‍♂️ [Sprint 2](/sprint-2): sprintin 2 suunnittelu, sprintin 1 katselmointi ja retrospektiivi                               |
-| 2.10.  | Tuotantoonvienti, koodikatselmoinnin valmistelu                                                                   |
-| 9.10.  | Testaaminen, jatkuva integraatio, koodikatselmointi                                                                           |
-| 16.10. | 🏝️ _Intenssiiviviikko, ei opetusta_                                                                           |
-| 23.10. | 🏃‍♂️ [Sprint 3](/sprint-3): sprintin 3 suunnittelu, sprintin 2 katselmointi ja retrospektiivi              |
-| 30.10. | Projektin edistämistä, koodikatselmoinnin valmistelu                                                                                      |
-| 6.11.  | Projektin edistämistä, koodikatselmointi                                                                                      |
-| 13.11. | 🏃‍♂️ [Sprint 4](/sprint-4): sprintin 4 suunnittelu, sprintin 3 katselmointi ja retrospektiivi                               |
-| 20.11. | Projektin edistämistä                                                                                      |
-| 27.11. | Projektin viimeistelyä                                                                                     |
-| 4.12.  | Loppudemot ja projektin palautus                                                                                                 |
+| 13.1.  | 🏃‍♂️ [Sprint 0](/sprint-0): ketterä vaatimusmäärittely, tiimien muodostaminen, projektin käynnistys |
+| 20.1.  | GitHub repositorion luonti, projektin vaatimusmäärittelyn aloittaminen, backlogin perustaminen                                                        |
+| 27.1.   | 🏃‍♂️ [Sprint 1](/sprint-1): spritin 1 suunnittelu, versionhallinan kertausta                                               |
+| 3.2.  | Daily scrum, projektin edistämistä                                                                  |
+| 10.2.  | Git haarat, GitHub pull request                                                   |
+| 17.2. | 🏝️ _Intenssiiviviikko, ei opetusta_           
+| 24.2.  | 🏃‍♂️ [Sprint 2](/sprint-2): sprintin 2 suunnittelu, sprintin 1 katselmointi ja retrospektiivi                               |
+| 3.3.  | Tuotantoonvienti, koodikatselmoinnin valmistelu                                                                   |
+| 10.3.  | Testaaminen, jatkuva integraatio, koodikatselmointi                                                                           |                                                                |
+| 17.3. | 🏃‍♂️ [Sprint 3](/sprint-3): sprintin 3 suunnittelu, sprintin 2 katselmointi ja retrospektiivi              |
+| 24.3. | Projektin edistämistä, koodikatselmoinnin valmistelu                                                                                      |
+| 31.3.  | Projektin edistämistä, koodikatselmointi                                                                                      |
+| 7.4. | 🏃‍♂️ [Sprint 4](/sprint-4): sprintin 4 suunnittelu, sprintin 3 katselmointi ja retrospektiivi                               |
+| 14.4. | Projektin edistämistä                                                                                      |
+| 21.4. | Projektin viimeistelyä                                                                                     |
+| 28.4.  | Loppudemot                                                                                              |
+| 5.5. | Projektin palautus ja lopputoimenpiteet |
