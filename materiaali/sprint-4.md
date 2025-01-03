@@ -38,15 +38,15 @@ Sprintin tavoitteet projektille:
     - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
     - Mitä puutteita projektiin jäi?
 
-## Lopputoimenpiteet
+## Viikko 4 - lopputoimenpiteet
 
 Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraavat lopputoimenpiteet:
 
 - _Jokaisen tiimiläisen_ tulee kirjoittaa loppuraportti. Palauta [tähän Moodle palautukseen]({{site.final_report_submission_link}}) PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
   - Kuvaile tiiminne prosessia (Scrumin mukaiset tapahtumat, versionhallinnan ja jatkuvan integraation käyttö, backlogin hyödyntäminen, ym.) projektin kehittämisessä. Mitä hyviä ja huonoja puolia prosessissa mielestäsi oli? Mitä kehittäisit prosessianne?
+  - Mikä on projektinne tarkoitus? Miten hyvin toteutuksenne vastaa tätä tarkoitusta? Mitkä osat toteutuksesta on toteutettu mielestäsi erityisen hyvin? Entä missä on mahdollisesti puutteita?
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
   - Missa osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
-  - Jos aloittaisit projektin puhtaalta pöydältä, mitä tekisit toisin? Mistä asioista pitäisit kiinni?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
 - _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
 
