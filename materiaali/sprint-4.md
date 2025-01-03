@@ -37,11 +37,14 @@ Sprintin tavoitteet projektille:
     - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraaiota?
     - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
     - Mitä puutteita projektiin jäi?
-- Kurssin päätteeksi _jokaisen tiimiläisen_ tulee kirjoittaa loppuraportti. Palauta [tähän Moodle palautukseen]({{site.final_report_submission_link}}) PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
+- _Jokaisen tiimiläisen_ tulee kirjoittaa loppuraportti. Palauta [tähän Moodle palautukseen]({{site.final_report_submission_link}}) PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
   - Kuvaile tiiminne prosessia (Scrumin mukaiset tapahtumat, versionhallinnan ja jatkuvan integraation käyttö, backlogin hyödyntäminen, ym.) projektin kehittämisessä. Mitä hyviä ja huonoja puolia prosessissa mielestäsi oli? Mitä kehittäisit prosessianne?
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
   - Missa osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
+- _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
 
-  
+{: .highlight }
+> Loppuraportin ja vertaisarvioinnin deadline on {{site.final_deadline}}. Molemmat ovat pakollisia kurssin suorittamiseksi.
+
 
