@@ -49,5 +49,5 @@ Sprintin tavoitteet projektille:
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://start.spring.io/) avulla.
 
 {: .highlight }
-> Lisätkää [tähän Moodle palautukseen]({{site.project_repository_submission_link}}) linkki projektinne GitHub repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
+> Lisätkää [tähän Moodle palautukseen]({{site.project_repository_submission_link}}) linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
 
