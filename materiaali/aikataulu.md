@@ -31,7 +31,7 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | 17.2. | 🏝️ _Intenssiiviviikko, ei opetusta_           
 | 24.2.  | 🏃‍♂️ [Sprint 2](/sprint-2): sprintin 2 suunnittelu, sprintin 1 katselmointi ja retrospektiivi                               |
 | 3.3.  | Tuotantoonvienti, koodikatselmoinnin valmistelu                                                                   |
-| 10.3.  | Testaaminen, jatkuva integraatio, koodikatselmointi                                                                           |                                                                |
+| 10.3.  | Testaaminen, jatkuva integraatio, koodikatselmointi                                                                           |                                                                
 | 17.3. | 🏃‍♂️ [Sprint 3](/sprint-3): sprintin 3 suunnittelu, sprintin 2 katselmointi ja retrospektiivi              |
 | 24.3. | Projektin edistämistä, koodikatselmoinnin valmistelu                                                                                      |
 | 31.3.  | Projektin edistämistä, koodikatselmointi                                                                                      |
@@ -39,4 +39,4 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | 14.4. | Projektin edistämistä                                                                                      |
 | 21.4. | Projektin viimeistelyä                                                                                     |
 | 28.4.  | Loppudemot                                                                                              |
-| 5.5. | Projektin palautus ja lopputoimenpiteet |
+| 5.5. | Projektin palautus ja lopputoimenpiteet. ⚠️ Loppullinen deadline {{site.final_deadline}} |
