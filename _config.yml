@@ -9,8 +9,9 @@ plugins:
   - jekyll-feed
 teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi) ja Jukka Juslin (jukka.juslin@haaga-helia.fi)"
 teaching_sessions_text: "TODO"
-project_repository_submission_link: "#TODO",
-final_report_submission_link: "#TODO",
+project_repository_submission_link: "#TODO"
+final_report_submission_link: "#TODO"
+final_deadline: "TODO"
 callouts:
   important:
     title: Important
