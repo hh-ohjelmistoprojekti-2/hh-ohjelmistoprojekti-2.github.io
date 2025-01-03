@@ -10,7 +10,9 @@ nav_order: 7
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-3).
-- Uusien toiminallisuuksien sijaan on keskitytty olemassaolevien toiminallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen.
+- Uusien toiminallisuuksien sijaan on keskitytty olemassaolevien toiminallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen. 
+- Projektille on määritelty [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
+- Dokumentaatio on päivitetty vastaamaan projektin lopullista tilaa.
 - Projektille on valmisteltu esitys loppudemoa varten.
 
 ## Viikko 1
