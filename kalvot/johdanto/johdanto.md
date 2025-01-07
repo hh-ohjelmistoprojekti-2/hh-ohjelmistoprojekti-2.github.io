@@ -117,3 +117,5 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
 # Aiheen valinta ja rajaus
 
 > _"Keep it simple, stupid!"_
+>
+> ⎯ KISS-periaate

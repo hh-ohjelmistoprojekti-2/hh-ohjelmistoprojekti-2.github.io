@@ -19,8 +19,8 @@ Sprintin tavoitteet projektille:
 ## Viikko 1
 
 - [Opetustilaisuuden kalvot](../kalvot/johdanto/johdanto.pdf)
-- Kurssin käytäntöjen ja tavoitteiden käsittely
-- Ketterä ohjelmistokehitys ja Scrum
+- Kurssin käytäntöjen ja tavoitteiden käsittely.
+- Ketterä ohjelmistokehitys ja Scrum.
 - Jakautuminen tiimeihin. Tiimin tavoitekoko on 4-5 henkilöä.
 - [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
 - Projektiaiheiden pohtiminen tiimin kesken.
