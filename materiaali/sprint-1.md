@@ -9,19 +9,17 @@ nav_order: 4
 
 Sprintin tavoitteet projektille:
 
-- Versionhallintaa on käytetty järkevästi. Commitien muutokset ovat melko pieniä ja commit-viestit kuvaavat niissä tehtyjä muutoksia.
-- Sprint backlogin taskeista käy ilmi, kenen tiimiläisen vastuulla kukin taski on.
-- Sprint backlog on pidetty ajantasalla koko sprintin ajan.
+- Sprintille on määritelty ja valittu user storyt, jotka löytyvät sprint backlogista.
+- Sprint backlog on pidetty ajantasalla koko sprintin ajan ja sitä on hyödynnetty sprintin edistymisen seuraamiseen.
 - Versionhallinnassa on käytetty päähaarasta erillistä kehityshaaraa. Valmis toiminallisuus on yhdistetty repositorion päähaaraan, eikä päähaarassa ole keskeneräistä koodia.
-- Suunnitellut user storyt on toteutettu sprintin aikana.
+- Suunnitellut user storyt on pääosin toteutettu sprintin aikana.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
 ## Viikko 1
 
 - Viimeistelkää sprint backlog sprintin aloitusta varten.
-- Päättäkää sprint backlogin taskien työnjaosta ja alkakaa toteuttamaan niitä.
-- Pitäkää sprint backlog ajantasalla koko sprintin ajan.
+- Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Pitäkää sprint backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
 - Kerratkaa tarvittaessa versionhallinnan ja Git:in käyttöä [tämän](https://tkt-lapio.github.io/git/) materiaalin avulla.
 
 ## Viikko 2

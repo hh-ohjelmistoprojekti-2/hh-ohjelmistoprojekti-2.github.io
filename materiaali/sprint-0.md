@@ -40,10 +40,10 @@ Sprintin tavoitteet projektille:
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
 - `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutusta tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
-- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt ja taskit voi toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
+- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt voi toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
   - [Tämä](https://www.youtube.com/watch?v=fFrq28RY1SQ) video esittelee GitHub Projectsin ja Issueiden käyttöä.
   - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
-- Valitkaa user storyt ensimmäiselle sprintille, jakakaa ne teknisiin taskeihin ja lisätkää ne sprint backlogille.
+- Määritelkää ja valitkaa user storyt ensimmäiselle sprintille ja lisätkää ne sprint backlogille.
 - Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella sitä.
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://start.spring.io/) avulla.

@@ -9,24 +9,18 @@ nav_order: 5
 
 Sprintin tavoitteet projektille:
 
-- Sprintille on määritelty ja valittu user storyt, jotka löytyvät sprint backlogista.
-- Valituille user storyille on tehty työmääräarviot story pointseina ja ne on jollain tavalla nähtävillä backlogista.
-- Sprintille valitut user storyt on jaettu teknisiksi taskeiksi.
-- Versionhallinnassa on käytetty päähaarasta erillistä kehityshaaraa. Valmis toiminallisuus on yhdistetty repositorion päähaaraan, eikä päähaarassa ole keskeneräistä koodia.
+- Samat tavoitteet kuin [edellisellä sprintillä](/sprint-1).
+- Sprintin user storyille on tehty työmääräarviot ja ne on jollain tavalla nähtävillä backlogista.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
-- Suunnitellut user storyt on pääosin toteutettu sprintin aikana.
 - Sovellus on julkaistu tuotantoympäristössä.
 - Projektin dokumentaatiota on edistetty.
-- Sprintille on tehty GitHub release.
-- Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
 ## Viikko 1
 
 - Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
 - Suunnitelkaa user storyt sprinttiä varten ja lisätkää ne sprint backlogille.
 - Muodostakaa user storyille [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker](https://www.mountaingoatsoftware.com/agile/planning-poker) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
-- Jakakaa user storyt taskeihin ja lisätkää ne sprint backlogille.
-- Alkakaa toteuttamaan sprint backlogin taskeja.
+- Alkakaa toteuttamaan sprint backlogin user storyja.
 
 ![Pull request](/assets/planning.png){: width="500" }
 
