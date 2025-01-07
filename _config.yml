@@ -9,8 +9,6 @@ plugins:
   - jekyll-feed
 teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi) ja Jukka Juslin (jukka.juslin@haaga-helia.fi)"
 teaching_sessions_text: "tiistaisin klo 8:00 - 10:45 luokassa 5006"
-project_repository_submission_link: "https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=3124586"
-final_report_submission_link: "https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=3124803"
 final_deadline: "11.5. klo 23:59"
 callouts:
   important:
