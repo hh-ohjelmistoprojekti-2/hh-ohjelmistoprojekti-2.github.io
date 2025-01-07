@@ -1,6 +1,6 @@
 # Ohjelmistoprojekti 2
 
-Tervetuloa Ohjelmistoprojekti 2 kurssille!
+Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
 
 ---
 
@@ -20,7 +20,7 @@ Tervetuloa Ohjelmistoprojekti 2 kurssille!
 - Kurssin arviointi perustuu seuraaviin tekijöihin:
   - Ryhmätyöskentelyn sujuvuuteen
   - Ryhmän lopullisen tuloksen tarkoituksenmukaiseen toimivuuteen
-  - Kurssin lopuksi yksilötyönä tehtävään esseeseen, jossa arvioidaan omaa ja ryhmän toimintaa
+  - Kurssin lopuksi yksilötyönä tehtävään loppuraporttiin, jossa arvioidaan omaa ja ryhmän toimintaa
 - Arvioinnin tukena käytetään kurssin aikana tehtävää itseis- ja vertaisarviointia
 
 ---
@@ -92,10 +92,28 @@ Tervetuloa Ohjelmistoprojekti 2 kurssille!
 
 # Aloitetaan työskentely ryhmissä
 
-1. Jakaudutaan noin viiden hengen ryhmiin
+1. Jakaudutaan noin 4-5 hengen ryhmiin
 2. Tehkää ryhmän sisällä lyhyt esittelykierros. Jokainen voi kertoa vuorollaan esimerkiksi:
    - Minkälainen tausta on opinnoissa tai mahdollisesti työelämässä
    - Mitkä ovat omat kiinnostuksen kohteet ohjelmistokehityksessä?
    - Mitkä ovat omat vahvuusalueet ohjelmointikielissä, tai muissa toteutusteknologioissa?
    - Mitä odotuksia on kurssin suhteen?
-3. Alkakaa ideoimaan yhdessä ohjelmistoprojektin aihetta
+3. Valitkaa tiimillenne nimi
+4. Alkakaa ideoimaan yhdessä ohjelmistoprojektin aihetta
+
+---
+
+# Aiheen valinta ja rajaus
+
+- Projektissa ei välttämättä ole ulkoista tuoteomistajaa, vaan tiimi toimii itse tuoteomistajan roolissa
+- Tiimi joutuu tällöin itse määrittelemään projektin vaatimuksia ja priorisoimaan niitä
+- Aiheen ideoinnissa voi lähteä liikkeelle laajasta ideasta, kuten "kurssiarvostelu-sovellus", tai "sanaston harjoittelu -peli"
+- Tämän jälkeen laajasta ideasta voi muodostaa konkreettisia toiminallisuuksia priorisoiden käyttäjän kannalta tärkeimpiä toiminallisuuksia
+- Aluksi kannattaa tähdätä _Minimum Viable Product_ (MVP) -toteutukseen, josta toiminallisuutta voi lähteä laajentamaan
+- Yksinkertainen ja toimiva sovellus on käyttäjän kannalta mielekkäämpi kuin suuret ja yksityiskohtaiset suunnitelmat hienosta sovelluksesta, jota ei koskaan ehditty toteuttaa
+
+---
+
+# Aiheen valinta ja rajaus
+
+> _"Keep it simple, stupid!"_

@@ -45,8 +45,8 @@ Sprintin tavoitteet projektille:
   - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
 - Määritelkää ja valitkaa user storyt ensimmäiselle sprintille ja lisätkää ne sprint backlogille.
 - Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
-- Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella sitä.
-- Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://start.spring.io/) avulla.
+- Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella niitä.
+- Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://vite.dev/) avulla.
 
 {: .highlight }
 > Lisätkää [tähän Moodle palautukseen]({{site.project_repository_submission_link}}) linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
