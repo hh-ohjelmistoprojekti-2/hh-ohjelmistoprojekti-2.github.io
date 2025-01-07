@@ -44,6 +44,7 @@ Sprintin tavoitteet projektille:
   - [Tämä](https://www.youtube.com/watch?v=fFrq28RY1SQ) video esittelee GitHub Projectsin ja Issueiden käyttöä.
   - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
 - Määritelkää ja valitkaa user storyt ensimmäiselle sprintille ja lisätkää ne sprint backlogille.
+  - [User stories with examples and a template](https://www.atlassian.com/agile/project-management/user-stories)
 - Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella niitä.
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://vite.dev/) avulla.
