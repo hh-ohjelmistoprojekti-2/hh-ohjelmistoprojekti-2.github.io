@@ -39,7 +39,8 @@ Sprintin tavoitteet projektille:
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
-- `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutusta tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
+- `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutusta tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/)
+- [Awesome README](https://github.com/matiassingers/awesome-readme) on kuratoitu lista hyvistä `README.md`-tiedostoista GitHub-repositorioissa, jota voi käyttää inspiraationa
 - Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt voi toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
   - [Tämä](https://www.youtube.com/watch?v=fFrq28RY1SQ) video esittelee GitHub Projectsin ja Issueiden käyttöä.
   - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
@@ -51,4 +52,3 @@ Sprintin tavoitteet projektille:
 
 {: .highlight }
 > Lisätkää Moodlen "Projektin GitHub repositorio"-palautukseen linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
-
