@@ -30,9 +30,9 @@ Sprintin tavoitteet projektille:
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 - Tehkää alustava MVP-suunnitelma projektista:
   - Projektin tarkoitus tiivistettynä muutamaan virkkeeseen.
-  - Joitain oleellisimpia toiminallisuuksia listattuna ja mahdollisesti priorisoituna, esimerkiksi "Käyttäjänä haluan pystyä lisäämään arvostelun kurssista"
-  - Suunnitelma ei ole "sitova", se voi muuttua projektin edetessä
-  - Suunnitelmaa ei tarvitse palauttaa, mutta se käydään opettajan kanssa läpi ensi viikolla
+  - Joitain oleellisimpia toiminallisuuksia listattuna ja mahdollisesti priorisoituna, esimerkiksi "Käyttäjänä haluan pystyä lisäämään arvostelun kurssista".
+  - Suunnitelma ei ole "sitova", se voi muuttua projektin edetessä.
+  - Suunnitelmaa ei tarvitse palauttaa, mutta sitä käydään opettajan kanssa läpi ensi viikolla.
 
 ## Viikko 2
 
