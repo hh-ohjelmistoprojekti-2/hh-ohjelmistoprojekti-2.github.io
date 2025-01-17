@@ -31,7 +31,8 @@ Sprintin tavoitteet projektille:
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
 - Julkaiskaa sovellus tuotantoympäristössä, esim. [Render](https://render.com/)-alustalla.
-- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti. REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua.
+- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti
+  - REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisoveluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) lötyy esimerkkejä Swaggerin käytöstä.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
@@ -39,8 +40,8 @@ Sprintin tavoitteet projektille:
 {: .highlight }
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen koodikatselmoinnin edellisen viikon katselmointipyynnön pohjalta ja toimittavat sen _ennen seuraavaa opetuskertaa_. Lukekaa koodikatselmoinnin ohjeet [täältä](/koodikatselmointi).
 
-- Toteuttakaa sovelluksen joitain automatisoituja testejä. [Tästä](https://github.com/Kaltsoon/spring-boot-vite-example) projektista voi ottaa mallia REST API:en integraatiotestaukseen.
-- Ottakaa käyttöön jatkuva integraatio esim. [GitHub Actionsin](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JAR:in muodostus Maven-projektissa `./mvnw package`-komennolla). [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) workflow-esimerkki GitHub Actionsissa.
+- Toteuttakaa sovelluksen joitain automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) projektista voi ottaa mallia REST API:en integraatiotestaukseen.
+- Ottakaa käyttöön jatkuva integraatio esim. [GitHub Actionsin](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JAR:in muodostus Maven-projektissa `./mvnw package`-komennolla). [Esimerkkisovelluksessa](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) workflow-esimerkki GitHub Actionsissa.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
 - Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminallisuuksia tuotantoympäristössä.
 

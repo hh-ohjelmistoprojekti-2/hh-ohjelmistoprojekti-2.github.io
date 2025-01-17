@@ -12,7 +12,7 @@ Sprintin tavoitteet projektille:
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
 - Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti. Halutessanne voitte myös tarkastella projektin testikattavuutta testikattavuustyökaluilla.
 - Projektin dokumentaatio on pidetty ajantasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa kannattaa hyödyntää GitHubin tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
-- Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example) projektissa esimerkkejä frontend- ja backend-toteutuksesta.
+- Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Esimerkkisovelluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) löytyy esimerkki frontend- ja backend-toteutuksesta.
 
 ## Viikko 1
 
@@ -29,7 +29,7 @@ Sprintin tavoitteet projektille:
 
 - Toteuttakaa sovelluksella lisää testejä. Lukekaa [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa.
 - Voitte myös tarkastella projektinne [testikattavuutta](https://www.simform.com/blog/test-coverage/) testikattavuustyökaluilla, kuten [JaCoCo](https://www.baeldung.com/jacoco) (Java), tai [Vitest](https://vitest.dev/guide/coverage) (JavaScript).
-- Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla. [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) GitHub Actions -workflowssa on esimerkki, miten testikattavuusraportin saa lähetettyä Codecoviin.
+- Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla. [Esimerkkisovelluksen](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) GitHub Actions -workflowssa on esimerkki, miten testikattavuusraportin saa lähetettyä Codecoviin.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
