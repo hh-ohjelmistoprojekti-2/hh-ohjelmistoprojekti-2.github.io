@@ -10,7 +10,7 @@ nav_order: 6
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
-- Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti.
+- Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti. Halutessanne voitte myös tarkastella projektin testikattavuutta testikattavuustyökaluilla.
 - Projektin dokumentaatio on pidetty ajantasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa kannattaa hyödyntää GitHubin tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
 
 ## Viikko 1
@@ -27,7 +27,7 @@ Sprintin tavoitteet projektille:
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
 - Toteuttakaa sovelluksella lisää testejä. Lukekaa [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa.
-- Voitte myös tarkastella projektinne [testikattavuutta](https://www.simform.com/blog/test-coverage/) testikattavuustyökaluilla, kuten [JaCoCo](https://www.baeldung.com/jacoco), tai [Vitest](https://vitest.dev/guide/coverage).
+- Voitte myös tarkastella projektinne [testikattavuutta](https://www.simform.com/blog/test-coverage/) testikattavuustyökaluilla, kuten [JaCoCo](https://www.baeldung.com/jacoco) (Java), tai [Vitest](https://vitest.dev/guide/coverage) (JavaScript).
 - Testikattavuuden voi ottaa myös osaksi jatkuvaa integraatiota esim. [Codecov](https://docs.codecov.com/docs/quick-start)-alustan avulla. [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) GitHub Actions -workflowssa on esimerkki, miten testikattavuusraportin saa lähetettyä Codecoviin.
 - Jatkakaa projektin edistämistä.
 
