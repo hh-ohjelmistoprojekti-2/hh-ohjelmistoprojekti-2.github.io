@@ -12,6 +12,7 @@ Sprintin tavoitteet projektille:
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
 - Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti. Halutessanne voitte myös tarkastella projektin testikattavuutta testikattavuustyökaluilla.
 - Projektin dokumentaatio on pidetty ajantasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa kannattaa hyödyntää GitHubin tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
+- Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example) projektissa esimerkkejä frontend- ja backend-toteutuksesta.
 
 ## Viikko 1
 

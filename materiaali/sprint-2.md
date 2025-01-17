@@ -14,7 +14,6 @@ Sprintin tavoitteet projektille:
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Sovellus on julkaistu tuotantoympäristössä.
 - Projektin dokumentaatiota on edistetty.
-- Fullstack-projektissa (frontend kutsuu backendin REST API-rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Tässä](https://github.com/Kaltsoon/spring-boot-vite-example) projektissa esimerkkejä frontend- ja backend-toteutuksesta.
 
 ## Viikko 1
 
