@@ -18,6 +18,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
+- Valitkaa sprintille [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Viimeistelkää sprint backlog sprintin aloitusta varten.
 - Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Pitäkää sprint backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
 - Kerratkaa tarvittaessa versionhallinnan ja Git:in käyttöä esimerkiksi [tämän](https://tkt-lapio.github.io/git/) materiaalin avulla.
