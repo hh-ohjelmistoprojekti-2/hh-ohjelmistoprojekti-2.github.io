@@ -21,6 +21,7 @@ Sprintin tavoitteet projektille:
 - Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
 - Suunnitelkaa user storyt sprinttiä varten ja lisätkää ne sprint backlogille.
 - Muodostakaa user storyille [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker](https://www.mountaingoatsoftware.com/agile/planning-poker) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
+  - [Planning poker online](https://planningpokeronline.com/) on eräs työkalu planning poker -session järjestämiseen.
 - Alkakaa toteuttamaan sprint backlogin user storyja.
 
 ![Pull request](/assets/planning.png){: width="500" }
