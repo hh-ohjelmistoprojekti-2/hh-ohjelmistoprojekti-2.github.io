@@ -31,7 +31,7 @@ Sprintin tavoitteet projektille:
 {: .highlight }
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
-- Julkaiskaa sovellus tuotantoympäristössä, esim. [Render](https://render.com/)-alustalla.
+- Julkaiskaa sovellus tuotantoympäristössä, esim. [Render](https://render.com/)-alustalla (frontendin ja backendin julkaisu) ja [Aiven](https://aiven.io/)-alustalla (PostgreSQL-tietokanta).
 - Edistäkää projektin dokumentaatiota. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti
   - REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisoveluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) lötyy esimerkkejä Swaggerin käytöstä.
 - Toteuttakaa sovelluksen joitain automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) projektista voi ottaa mallia REST API:en integraatiotestaukseen.
