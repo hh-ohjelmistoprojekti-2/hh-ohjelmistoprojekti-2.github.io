@@ -39,5 +39,5 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | 15.4. | 🏃‍♂️ [Sprint 4](/sprint-4): sprintin 4 suunnittelu, sprintin 3 katselmointi ja retrospektiivi                               |
 | 22.4. | Projektin edistämistä                                                                                      |
 | 29.4. | Loppudemon valmistelut, projektin viimeistelyä                                                                                    |
-| 6.5.  | Loppudemot                                                                                              |
+| 6.5.  | 🚀 Loppudemot                                                                                              |
 | 13.5. | Projektin palautus ja lopputoimenpiteet. ⚠️ Loppullinen deadline {{site.final_deadline}} |
