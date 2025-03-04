@@ -43,8 +43,10 @@ Lisätkää katselmointipyyntöön linkki koodeihinne sekä selkeästi eriteltyn
 
 **Voitte koodin ohessa pyytää myös palautetta dokumentaatiostanne tai ohjeistanne**. Tarvittaessa antakaa lisäohjeet, kuten mistä branchista haluatte katselmoinnin tehtävän.
 
-
 ## Projektin katselmointi
+
+{: .highlight }
+> Löydätte kaltsemoitavan repositorion linkin Moodle-alueen etusivulta "Tiimit"-osiosta tiiminne kohdalta.
 
 Katselmointi suositellaan tehtäväksi koko tiimin voimin joko lähityöskentelynä tai hyödyntäen esimerkiksi Discordia tai ia ruudunjakoa. Katselmoinnin yhteydessä käytävä keskustelu on myös erinomainen tilaisuus oppia itse.
 
