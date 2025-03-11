@@ -31,10 +31,11 @@ Sprintin tavoitteet projektille:
 {: .highlight }
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
-- Julkaiskaa sovellus tuotantoympäristössä Tässä ilmaisia vaihtehtoja julkaisualustoista:
-  - [Rahti](https://haagahelia.github.io/hh-csc-docs/reseptit/spring_rahti/) (backend, frontend ja tietokanta).
-  - [Render](https://render.com/) (backend ja frontend) ja [Aiven](https://aiven.io/) (tietokanta).
-- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti
+- Julkaiskaa sovellus tuotantoympäristössä. Tässä ohjeite julkaisuun:
+  - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
+  - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
+- Lisätkää linkit sovelluksen julkaistuihin versioihin repositorion `README.md`-tiedostoon.
+- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti.
   - REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisoveluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) lötyy esimerkkejä Swaggerin käytöstä.
 - Toteuttakaa sovelluksen joitain automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/Kaltsoon/spring-boot-vite-example) projektista voi ottaa mallia REST API:en integraatiotestaukseen.
 - Jatkakaa projektin edistämistä.
