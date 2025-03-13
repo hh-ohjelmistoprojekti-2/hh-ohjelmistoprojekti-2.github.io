@@ -30,6 +30,24 @@ Sprintin tavoitteet projektille:
 - Tehkää päähaarasta (`main`-haara) erillinen kehityshaara (esim. `develop`-haara) keskeneräistä koodia varten, johon teette committeja (päähaaraan ei siis tehdä suoraan committeja). Yhdistäkää valmiit toiminallisuudet päähaaraan esimerkiksi [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti. Jatkossa, yhdistäkää kehityshaara päähaaraan mahdollisimman usein, _ei ainoastaan sprintin päätteeksi_.
 - Jatkakaa projektin edistämistä.
 
+```mermaid
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   checkout develop
+   commit
+   commit
+   commit
+   checkout main
+   merge develop
+```
+
 ![Pull request](/assets/pr.webp){: width="500" }
 
 ## Viikko 3
