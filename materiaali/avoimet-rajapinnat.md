@@ -9,22 +9,22 @@ nav_order: 9
 
 * <https://www.avoindata.fi/fi>
 
-    > "Kaikki Suomen avoin data yhdestä paikasta. Avoindata.fi on kaikille tarkoitettu palvelu avoimen datan julkaisemiseen ja hyödyntämiseen."
+    > "Kaikki Suomen avoin data yhdestä paikasta. Avoindata.fi on kaikille tarkoitettu palvelu avoimen datan julkaisemiseen ja hyödyntämiseen.
     >
-    > "Palvelusta vastaa Digi- ja väestötietovirasto."
+    > Palvelusta vastaa Digi- ja väestötietovirasto."
 
 
 * <https://www.avoindata.fi/data/fi/dataset/helsingin-hel-fi-sivuston-avoin-rajapinta-uutisille>
 
-    > "Helsingin kaupungin hel.fi-sivuston avoimen REST-rajapinnan kautta voi hakea hel.fi-sivuston uutisia avoimena datana XML-muodossa. Sivuston sisällöstä vastaa Helsingin kaupunginkanslian viestintä."
+    > "Helsingin kaupungin hel.fi-sivuston avoimen REST-rajapinnan kautta voi hakea hel.fi-sivuston uutisia avoimena datana XML-muodossa. Sivuston sisällöstä vastaa Helsingin kaupunginkanslian viestintä.
     >
-    > "Rajapinnasta voi hakea joko kaikki uutiset tai rajata hakua kielen (kieliversiot: suomi, ruotsi, englanti ja venäjä), aiheluokan, kaupunginosan, asukasryhmän tai tunnisteen (id) mukaan."
+    > Rajapinnasta voi hakea joko kaikki uutiset tai rajata hakua kielen (kieliversiot: suomi, ruotsi, englanti ja venäjä), aiheluokan, kaupunginosan, asukasryhmän tai tunnisteen (id) mukaan."
 
 * <https://www.fintraffic.fi/fi/fintraffic/digitraffic-ja-avoin-data>
 
-    > "Laki liikenteen palveluista (320/2017) määrittelee Fintrafficille tehtäväksi  seuraavien ajantasaisten tietojen avaamisen rajapinnan kautta koneluettavassa muodossa vapaasti käytettäväksi:"
+    > "Laki liikenteen palveluista (320/2017) määrittelee Fintrafficille tehtäväksi  seuraavien ajantasaisten tietojen avaamisen rajapinnan kautta koneluettavassa muodossa vapaasti käytettäväksi:
     >
-    > "liikenteen säätiedot ja -ennusteet; liikenteen olosuhdetiedot; liikennemäärien mittaustiedot; sujuvuus- ja matka-aikatiedot; häiriö- ja poikkeustilannetiedot; tiedot vaihtuvista nopeusrajoituksista sekä muista vaihtuvista liikennesäännöistä; tiedot liikennevälineiden sijainnista, jos tiedot ovat olemassa..."
+    > liikenteen säätiedot ja -ennusteet; liikenteen olosuhdetiedot; liikennemäärien mittaustiedot; sujuvuus- ja matka-aikatiedot; häiriö- ja poikkeustilannetiedot; tiedot vaihtuvista nopeusrajoituksista sekä muista vaihtuvista liikennesäännöistä; tiedot liikennevälineiden sijainnista, jos tiedot ovat olemassa..."
 
 * <https://www.stat.fi/org/avoindata/index.html>
 
@@ -64,7 +64,7 @@ nav_order: 9
 
 * <https://storage.googleapis.com/openimages/web/index.html>
 
-    > "Open Images is a dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives:"
+    > "Open Images is a dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives."
 
 * <https://imdb-api.com/API>
 
