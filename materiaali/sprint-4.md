@@ -31,20 +31,20 @@ Sprintin tavoitteet projektille:
 
 - Tehkää viimeisiä viimeistelyjä projektiin.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
-- Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminallisuuksia tuotantoympäristössä.
-- Valmistelkaa projektille _10-15 minuutin_ esitys loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen. Käsitelmää loppudemossa ainakin seuraavat asiat:
-    - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
-    - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
-    - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei kannata mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
-    - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraaiota?
-    - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
-    - Mitä puutteita projektiin jäi?
+- Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen loppudemoa. Esitelkää loppudemossa sovelluksen toiminallisuuksia tuotantoympäristössä.
+- ⚠️ Valmistelkaa projektille _10-15 minuutin_ esitys ensi viikon loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen. Käsitelmää loppudemossa ainakin seuraavat asiat:
+  - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
+  - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
+  - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei kannata mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
+  - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraaiota?
+  - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
+  - Mitä puutteita projektiin jäi?
 
 ## Viikko 4 - lopputoimenpiteet
 
 Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraavat lopputoimenpiteet:
 
-- _Jokaisen tiimiläisen_ tulee kirjoittaa loppuraportti. Palauta Moodlen "Loppuraportti"-palautukseen PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
+- _Jokaisen tiimiläisen_ tulee kirjoittaa loppuraportti, jossa reflektoit omaa ja tiimisi työskentelyä. Palauta Moodlen "Loppuraportti"-palautukseen PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
   - Kuvaile tiiminne prosessia (Scrumin mukaiset tapahtumat, versionhallinnan ja jatkuvan integraation käyttö, backlogin hyödyntäminen, ym.) projektin kehittämisessä. Mitä hyviä ja huonoja puolia prosessissa mielestäsi oli? Mitä kehittäisit prosessianne?
   - Mikä on projektinne tarkoitus? Miten hyvin toteutuksenne vastaa tätä tarkoitusta? Mitkä osat toteutuksesta on toteutettu mielestäsi erityisen hyvin? Entä missä on mahdollisesti puutteita?
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
