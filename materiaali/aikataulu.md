@@ -40,4 +40,4 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | 22.4. | Projektin edistämistä                                                                                      |
 | 29.4. | Loppudemon valmistelut, projektin viimeistelyä                                                                                    |
 | 6.5.  | 🚀 Loppudemot                                                                                              |
-| 13.5. | Projektin palautus ja lopputoimenpiteet. ⚠️ Loppullinen deadline {{site.final_deadline}} |
+| 13.5. | _Tällä viikolla ei ole opetusta._ Projektin palautus ja lopputoimenpiteet. ⚠️ Loppullinen deadline {{site.final_deadline}} |
