@@ -32,10 +32,10 @@ Sprintin tavoitteet projektille:
 - Tehkää viimeisiä viimeistelyjä projektiin.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminallisuuksista.
 - Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen loppudemoa. Esitelkää loppudemossa sovelluksen toiminallisuuksia tuotantoympäristössä.
-- ⚠️ Valmistelkaa projektille _10-15 minuutin_ esitys ensi viikon loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen. Käsitelmää loppudemossa ainakin seuraavat asiat:
+- ⚠️ Valmistelkaa projektille _10-15 minuutin_ esitys ensi viikon loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminallisuuksien esittelystä videonauhoite etukäteen. Käsitelkää loppudemossa ainakin seuraavat asiat:
   - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
   - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
-  - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei kannata mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
+  - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei tarvitse mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
   - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraaiota?
   - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
   - Mitä puutteita projektiin jäi?
