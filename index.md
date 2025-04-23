@@ -60,7 +60,7 @@ Projektin arviointi koostuu seuraavista tekijöistä:
 - Projektin laajuus: Toiminallisuuden määrä ja sen monimutkaisuus
 - Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikottain
 - Testaaminen: projektissa on automatisoitua testejä
-- Jatkuva integraatio: jatkuva integraatio tekee onnistuneesti käännöksen ja suorittaa testit
+- Jatkuva integraatio: jatkuva integraatio tekee vähintään onnistuneesti käännöksen ja suorittaa testit
 - Prosessin noudattaminen: tiimi järjestää Scrum-prosessin mukaisia tapahtumia tarkoituksenmukaisesti ja ylläpitää projektin vaatimuksia backlogin avulla
 - Dokumentaatio: projektista dokumentoidaan vähintään yleinen kuvaus, tekniset käyttöohjeet ja tietomalli. Projektin luonteesta riippuen opettaja voi myös esittää muita vaatimuksia dokumentaation suhteen
 - Aikataulun noudattaminen: projektin täytyy edetä jokaisessa sprintissä sprinttien tavoitteiden mukaisesti
