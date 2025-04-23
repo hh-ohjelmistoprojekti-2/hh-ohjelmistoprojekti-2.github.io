@@ -69,5 +69,5 @@ Jokaisen tiimiläisen arviointi koostuu seuraavista tekijöistä:
 
 - Läsnäolo opetustilaisuuksissa ja niissä työskentely tilaisuuden teeman mukaisesti
 - Projektiin liittyvä kommunikointi opetustilaisuuksien ulkopuolella
-- Tekniset kontribuutiot (toimivan koodin tuottaminen)
+- Tekniset kontribuutiot (toimivan koodin tuottaminen, tekninen suunnittelu, pariohjelmointi)
 - Projektinhallinnan ja dokumentaation kontribuutiot
