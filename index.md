@@ -50,3 +50,24 @@ Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään t
 Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kurssin aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
 Kurssin tarkempi aikataulu löytyy [Aikataulu](/aikataulu)-sivulta.
+
+## Arviointiperusteet
+
+Kurssin arviointi perustuu tiimissä toteuttevan projektin lopputulokseen ja yksittäisen tiimiläisen työskentelyyn. _Kaikki tiimiläiset eivät siis välttämättä saa samaa arvosanaa._
+
+Projektin arviointi koostuu seuraavista tekijöistä:
+
+- Projektin laajuus: Toiminallisuuden määrä ja sen monimutkaisuus
+- Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikottain
+- Testaaminen: projektissa on automatisoitua testejä
+- Jatkuva integraatio: jatkuva integraatio tekee onnistuneesti käännöksen ja suorittaa testit
+- Prosessin noudattaminen: tiimi järjestää Scrum-prosessin mukaisia tapahtumia tarkoituksenmukaisesti ja ylläpitää projektin vaatimuksia backlogin avulla
+- Dokumentaatio: projektista dokumentoidaan vähintään yleinen kuvaus, tekniset käyttöohjeet ja tietomalli. Projektin luonteesta riippuen opettaja voi myös esittää muita vaatimuksia dokumentaation suhteen
+- Aikataulun noudattaminen: projektin täytyy edetä jokaisessa sprintissä sprinttien tavoitteiden mukaisesti
+
+Jokaisen tiimiläisen arviointi koostuu seuraavista tekijöistä:
+
+- Läsnäolo opetustilaisuuksissa ja niissä työskentely tilaisuuden teeman mukaisesti
+- Projektiin liittyvä kommunikointi opetustilaisuuksien ulkopuolella
+- Tekniset kontribuutiot (toimivan koodin tuottaminen)
+- Projektin hallinnan ja dokumentaation kontribuutiot
