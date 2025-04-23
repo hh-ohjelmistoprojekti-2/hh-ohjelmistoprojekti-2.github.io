@@ -57,7 +57,7 @@ Kurssin arviointi perustuu tiimissä toteuttevan projektin lopputulokseen ja yks
 
 Projektin arviointi koostuu seuraavista tekijöistä:
 
-- Projektin laajuus: Toiminallisuuden määrä ja sen monimutkaisuus
+- Projektin laajuus: toiminallisuuden määrä ja sen monimutkaisuus
 - Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikottain
 - Testaaminen: projektissa on automatisoitua testejä
 - Jatkuva integraatio: jatkuva integraatio tekee vähintään onnistuneesti käännöksen ja suorittaa testit
