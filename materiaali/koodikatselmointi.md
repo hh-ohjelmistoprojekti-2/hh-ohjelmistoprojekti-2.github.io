@@ -2,7 +2,7 @@
 layout: page
 title: Koodikatselmointi
 permalink: /koodikatselmointi
-nav_order: 8
+nav_order: 9
 ---
 
 # Koodin katselmointi vertaisryhmittäin
