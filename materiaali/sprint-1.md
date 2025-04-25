@@ -27,25 +27,28 @@ Sprintin tavoitteet projektille:
 
 - Pitäkää ensimmäinen [daily scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa sprint backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
 - Lukekaa [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) ja [Git feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) -ohjeet.
-- Tehkää päähaarasta (`main`-haara) erillinen kehityshaara (esim. `develop`-haara) keskeneräistä koodia varten, johon teette committeja (päähaaraan ei siis tehdä suoraan committeja). Yhdistäkää valmiit toiminallisuudet päähaaraan esimerkiksi [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti. Jatkossa, yhdistäkää kehityshaara päähaaraan mahdollisimman usein, _ei ainoastaan sprintin päätteeksi_.
+- Toteuttakaa ainakin joitain toiminallisuuksia erillisissä feature-haaroissa. Yhdistäkää feature-haarat päähaaraan [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti. _Pitäkää feature-haarojen muutokset pieninä_ (max. yhden käyttäjätarinan toteutus) ja _yhdistäkää ne päähaaraan, kun toteutus on valmis_. Näin vältetään nk. ["Merge hell"](https://threkk.medium.com/escaping-a-git-merge-hell-e08f37511f37).
 - Jatkakaa projektin edistämistä.
 
 ```mermaid
 gitGraph
    commit
    commit
-   branch develop
-   checkout develop
+   branch user-registration
+   checkout user-registration
    commit
    commit
    checkout main
-   merge develop
-   checkout develop
    commit
+   branch message-list-search
+   checkout message-list-search
    commit
    commit
    checkout main
-   merge develop
+   merge message-list-search
+   commit
+   merge user-registration
+   commit
 ```
 
 ![Pull request](/assets/pr.webp){: width="500" }
