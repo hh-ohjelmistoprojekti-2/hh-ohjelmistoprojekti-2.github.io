@@ -10,7 +10,7 @@ nav_order: 7
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-3).
-- Uusien toiminallisuuksien sijaan on keskitytty olemassaolevien toiminallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen. 
+- Uusien toiminnallisuuksien sijaan on keskitytty olemassa olevien toiminnallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen. 
 - Projektille on määritelty [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 - Dokumentaatio on päivitetty vastaamaan projektin lopullista tilaa.
 - Projektille on valmisteltu esitys loppudemoa varten.
@@ -36,7 +36,7 @@ Sprintin tavoitteet projektille:
   - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
   - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
   - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei tarvitse mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).
-  - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraaiota?
+  - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraatiota?
   - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminallisuudet.
   - Mitä puutteita projektiin jäi?
 
@@ -48,7 +48,7 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
   - Kuvaile tiiminne prosessia (Scrumin mukaiset tapahtumat, versionhallinnan ja jatkuvan integraation käyttö, backlogin hyödyntäminen, ym.) projektin kehittämisessä. Mitä hyviä ja huonoja puolia prosessissa mielestäsi oli? Mitä kehittäisit prosessianne?
   - Mikä on projektinne tarkoitus? Miten hyvin toteutuksenne vastaa tätä tarkoitusta? Mitkä osat toteutuksesta on toteutettu mielestäsi erityisen hyvin? Entä missä on mahdollisesti puutteita?
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
-  - Missa osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
+  - Missä osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
 - _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
 
