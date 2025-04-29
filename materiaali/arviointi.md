@@ -7,13 +7,13 @@ nav_order: 8
 
 # Arviointiperusteet
 
-Kurssin arviointi perustuu tiimissä toteuttevan projektin lopputulokseen ja yksittäisen tiimiläisen työskentelyyn. _Kaikki tiimiläiset eivät siis välttämättä saa samaa arvosanaa._
+Kurssin arviointi perustuu tiimissä toteutettavan projektin lopputulokseen ja yksittäisen tiimiläisen työskentelyyn. _Kaikki tiimiläiset eivät siis välttämättä saa samaa arvosanaa._
 
 Projektin arviointi koostuu seuraavista tekijöistä:
 
-- Projektin laajuus: toiminallisuuden määrä ja sen monimutkaisuus.
+- Projektin laajuus: toiminnallisuuden määrä ja sen monimutkaisuus.
 - Versionhallinta: toteutuksessa on hyödynnetty versionhallintaa (Git ja GitHub). Päähaarasta erillisiä haaroja on hyödynnetty jonkin verran toiminallisuuksien toteutukseen. Sprinttien päätteeksi projektille on tehty GitHub release.
-- Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikottain.
+- Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikoittain.
 - Testaaminen: projektissa on automatisoitua testejä.
 - Jatkuva integraatio: jatkuva integraatio (GitHub Actions) tekee vähintään onnistuneesti käännöksen ja suorittaa testit.
 - [Koodikatselmoinnin](/koodikatselmointi) tekeminen
@@ -23,7 +23,7 @@ Projektin arviointi koostuu seuraavista tekijöistä:
 
 Jokaisen tiimiläisen arviointi koostuu seuraavista tekijöistä:
 
-- Läsnäolo opetustilaisuuksissa ja niissä työskentely tilaisuuden teeman mukaisesti. Erityisen tärkeää on osallistuminen Scrumin mukaisiin _sprint review ja retrospektiivi tapahtumiin_.
+- Läsnäolo opetustilaisuuksissa ja niissä työskentelytilaisuuden teeman mukaisesti. Erityisen tärkeää on osallistuminen Scrumin mukaisiin _sprint review ja retrospektiivitapahtumiin_.
 - Projektiin liittyvä kommunikointi opetustilaisuuksien ulkopuolella.
 - Tekniset kontribuutiot (toimivan koodin tuottaminen, tekninen suunnittelu, pariohjelmointi).
 - Projektinhallinnan ja dokumentaation kontribuutiot.
