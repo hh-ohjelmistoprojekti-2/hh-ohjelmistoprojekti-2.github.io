@@ -50,7 +50,7 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
   - Missä osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
-  - _forkkaa_ projekti omalle github tilillesi ja katso, että tilisi on hyvin edustettu omalla kuvalla yms
+  - _forkkaa_ projekti omalle github tilillesi ja katso, että tilisi on hyvin edustettu omalla kuvalla yms. Pinnaa projektisi kuten tässä ohjeessa [ohjeet pinnaamiseen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)
 - _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
 
 {: .highlight }
