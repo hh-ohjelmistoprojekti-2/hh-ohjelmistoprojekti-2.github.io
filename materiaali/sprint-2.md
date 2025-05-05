@@ -28,13 +28,6 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-<!--
-
-{: .highlight }
-> Tämän viikon aikana vertaisryhmät tekevät toisilleen katselmointipyynnöt _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
-
--->
-
 - Julkaiskaa sovellus tuotantoympäristössä. Tässä ohjeite julkaisuun:
   - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
   - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
@@ -45,13 +38,6 @@ Sprintin tavoitteet projektille:
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
-
-<!--
-
-{: .highlight }
-> Tämän viikon aikana vertaisryhmät tekevät toisilleen koodikatselmoinnin edellisen viikon katselmointipyynnön pohjalta ja toimittavat sen _ennen seuraavaa opetuskertaa_. Lukekaa koodikatselmoinnin ohjeet [täältä](/koodikatselmointi).
-
--->
 
 - Ottakaa käyttöön jatkuva integraatio esim. [GitHub Actionsin](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JAR:in muodostus Maven-projektissa `./mvnw package`-komennolla). [Esimerkkisovelluksessa](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) workflow-esimerkki GitHub Actionsissa.
 - Lisätkää GitHub Actions workflown [status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge) `README.md`-tiedoston alkuun.
