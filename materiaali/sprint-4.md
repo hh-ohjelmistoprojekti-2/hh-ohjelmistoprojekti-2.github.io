@@ -51,7 +51,7 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
   - Missä osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
 - _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
-- [Forkkaa](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) projektinne repositoritorio omalle GitHub-tilillesi ja katso, että tilisi on hyvin edustettu omalla kuvalla yms. Pinnaa repositorio profiiliisi, [tämän ohjeen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) mukaisesti.
+- [Forkkaa](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) projektinne repositorio omalle GitHub-tilillesi ja katso, että tilisi on hyvin edustettu omalla kuvalla yms. Pinnaa repositorio profiiliisi, [tämän ohjeen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) mukaisesti.
 
 {: .highlight }
 > Loppuraportin ja vertaisarvioinnin deadline on {{site.final_deadline}}. Molemmat ovat pakollisia kurssisuorituksen kannalta.
