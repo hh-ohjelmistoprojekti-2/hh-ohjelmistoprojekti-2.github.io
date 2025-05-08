@@ -11,8 +11,7 @@ Sprintin tavoitteet projektille:
 
 - Sprintille on määritelty ja valittu user storyt, jotka löytyvät sprint backlogista.
 - Sprint backlog on pidetty ajantasalla koko sprintin ajan ja sitä on hyödynnetty sprintin edistymisen seuraamiseen.
-- Versionhallinnassa on käytetty päähaarasta erillistä kehityshaaraa. Valmis toiminallisuus on yhdistetty repositorion päähaaraan, eikä päähaarassa ole keskeneräistä koodia.
-- Suunnitellut user storyt on pääosin toteutettu sprintin aikana.
+- Ainakin jotain toiminnallisuutta on kehitetty pääharasta erillään olevissa feature-haaroissa, jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
