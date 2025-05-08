@@ -49,7 +49,6 @@ Sprintin tavoitteet projektille:
 - Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt voi toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
   - [Tämä video](https://www.youtube.com/watch?v=fFrq28RY1SQ) esittelee GitHub Projectsin ja Issueiden käyttöä.
   - [Tämä video](https://www.youtube.com/watch?v=F42FN6cZmA4) esittelee GitHubin sub-issueiden käyttöä, joita voi hyödyntää mm. selkeyttämään user storien ja taskien hierarkiaa
-  - Backlogin lähtökohtana voi käyttää esimerkiksi [tämän](https://github.com/orgs/Team-417-Expectation-Failed/projects/1) mukaista backlogia.
 - Määritelkää ja valitkaa user storyt ensimmäiselle sprintille ja lisätkää ne sprint backlogille.
   - [User stories with examples and a template](https://www.atlassian.com/agile/project-management/user-stories)
 - Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
