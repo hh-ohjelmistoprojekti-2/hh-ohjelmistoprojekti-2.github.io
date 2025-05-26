@@ -56,4 +56,7 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
 {: .highlight }
 > Loppuraportin ja vertaisarvioinnin deadline on {{site.final_deadline}}. Molemmat ovat pakollisia kurssisuorituksen kannalta.
 
+### Loppuarviointi
+
+Opettaja lisää loppuarvioinnin tiedot Moodlen "Loppuarviointi"-palautukseen kurssin päätyttyä.
 
