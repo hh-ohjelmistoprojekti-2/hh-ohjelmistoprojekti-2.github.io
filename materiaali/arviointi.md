@@ -9,6 +9,10 @@ nav_order: 8
 
 Kurssin arviointi perustuu tiimissä toteutettavan projektin lopputulokseen ja yksittäisen tiimiläisen työskentelyyn. _Kaikki tiimiläiset eivät siis välttämättä saa samaa arvosanaa._
 
+{: .highlight }
+
+> Oman arvioinnin tiedot löytyvät Moodlen "Arviointi"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
+
 Projektin arviointi koostuu seuraavista tekijöistä:
 
 - Projektin laajuus: toiminnallisuuden määrä ja sen monimutkaisuus.
