@@ -58,4 +58,4 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
 
 ## Arviointi
 
-Oman arvioinnin tiedot löytyvät Moodlen "Arviointi"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
+Oman arvioinnin tiedot löytyvät Moodlen "Loppuarviointi"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
