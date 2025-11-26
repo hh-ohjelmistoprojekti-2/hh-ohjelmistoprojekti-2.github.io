@@ -29,7 +29,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-- Julkaiskaa sovellus tuotantoympäristössä. Tässä ohjeite julkaisuun:
+- Julkaiskaa sovellus tuotantoympäristössä. Tässä ohjeita julkaisuun:
   - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
   - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
 - Lisätkää linkit sovelluksen julkaistuihin versioihin repositorion `README.md`-tiedostoon.
