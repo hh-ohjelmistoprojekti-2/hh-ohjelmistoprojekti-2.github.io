@@ -29,8 +29,8 @@ Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintill�
 | 11.9.  | Daily scrum, Git haarat, GitHub pull request                                                                  |
 | 18.9.  | Sprint review -valmistelut, GitHub release                                                   |
 | 25.9.  | 🏃‍♂️ [Sprint 2](/sprint-2): sprintin 2 suunnittelu, sprintin 1 katselmointi ja retrospektiivi                               |
-| 2.10.  | Tuotantoonvienti, koodikatselmoinnin valmistelu                                                                   |
-| 9.10.  | Testaaminen, jatkuva integraatio, koodikatselmoinnit pull requesteissa                                                                         |                                 
+| 2.10.  | Tuotantoonvienti, testaaminen                                                                   |
+| 9.10.  | Jatkuva integraatio, koodikatselmoinnit pull requesteissa                                                                         |                                 
 | 16.10. | 🏝️ _Intenssiiviviikko, ei opetusta_           
 | 23.10. | 🏃‍♂️ [Sprint 3](/sprint-3): sprintin 3 suunnittelu, sprintin 2 katselmointi ja retrospektiivi              |
 | 30.10. | Tiimien välisten koodikatselmoinnin valmistelu                                                                                      |
