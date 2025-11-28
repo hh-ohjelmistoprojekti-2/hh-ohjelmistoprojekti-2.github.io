@@ -10,8 +10,8 @@ plugins:
 mermaid:
   version: "11.4.1"
 teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi) ja Jukka Juslin (jukka.juslin@haaga-helia.fi)"
-teaching_sessions_text: "tiistaisin klo 8:00 - 10:45 luokassa 5006"
-final_deadline: "13.12. klo 23:59"
+teaching_sessions_text: "torstaisin klo 11:00 - 13:45 luokassa 5006"
+final_deadline: "17.5. klo 23:59"
 callouts:
   important:
     title: Important
