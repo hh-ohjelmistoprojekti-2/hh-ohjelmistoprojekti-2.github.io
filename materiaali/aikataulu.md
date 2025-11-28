@@ -7,7 +7,7 @@ nav_order: 2
 
 # Aikataulu
 
-Kurssilla on viikottaisia opetustilaisuuksia {{site.teaching_sessions_text}}. Opetustilaisuuksiin osallistuminen on _pakollista_.
+Kurssilla on viikottaisia opetustilaisuuksia {{site.teaching_sessions_text}}. Läsnäolon suhteen noudatetaan Haaga-Helian käytänteitä, joten vähintään 50% läsnäoloa vaaditaan.
 
 {: .highlight }
 
