@@ -10,7 +10,7 @@ nav_order: 5
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-1).
-- Sprintin user storyille on tehty työmääräarviot ja ne on jollain tavalla nähtävillä backlogista.
+- Ainakin osalle Sprintin user storyista on tehty työmääräarviot ja ne on jollain tavalla nähtävillä backlogista.
 - Ainakin joissain feature-haarojen pull requesteissa on tehty [koodikatselmointeja](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) ja ne on mergattu päähaaraan vasta koodikatselmoinnin jälkeen. [How to Review a Pull Request in GitHub the RIGHT Way](https://www.youtube.com/watch?v=lSnbOtw4izI) -video esittelee GitHubin koodikatselmointiprosessia.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Sovellus on julkaistu tuotantoympäristössä.
@@ -20,10 +20,9 @@ Sprintin tavoitteet projektille:
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
-- Suunnitelkaa user storyt sprinttiä varten ja lisätkää ne sprint backlogille.
-- Muodostakaa user storyille [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker](https://www.mountaingoatsoftware.com/agile/planning-poker) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
-  - [Planning poker online](https://planningpokeronline.com/) on eräs työkalu planning poker -session järjestämiseen.
-- Alkakaa toteuttamaan sprint backlogin user storyja.
+- Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille.
+- Muodostakaa ainakin osalle user storyista [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker](https://www.mountaingoatsoftware.com/agile/planning-poker) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
+- Alkakaa toteuttamaan backlogin user storyja.
 
 ![Planning](/assets/planning.png){: width="500" }
 
@@ -33,9 +32,9 @@ Sprintin tavoitteet projektille:
   - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
   - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
 - Lisätkää linkit sovelluksen julkaistuihin versioihin repositorion `README.md`-tiedostoon.
-- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen tekinen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu tarkasti.
-  - REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisoveluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example) lötyy esimerkkejä Swaggerin käytöstä.
-- Toteuttakaa sovelluksen joitain automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example) projektista voi ottaa mallia REST API:en integraatiotestaukseen.
+- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen tekinen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu.
+  - REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisoveluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) lötyy esimerkkejä Swaggerin käytöstä.
+- Toteuttakaa sovelluksen joitain automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) projektista voi ottaa mallia REST API:n integraatiotestaukseen.
 - Jatkakaa projektin edistämistä.
 
 ## Viikko 3
