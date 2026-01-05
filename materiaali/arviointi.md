@@ -11,7 +11,7 @@ Kurssin arviointi perustuu tiimissä toteutettavan projektin lopputulokseen ja y
 
 {: .highlight }
 
-> Oman arvioinnin tiedot löytyvät Moodlen "Loppuarviointi"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
+> Oman arvioinnin tiedot löytyvät Moodlen "Loppuraportti"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
 
 Projektin arviointi koostuu seuraavista tekijöistä:
 
