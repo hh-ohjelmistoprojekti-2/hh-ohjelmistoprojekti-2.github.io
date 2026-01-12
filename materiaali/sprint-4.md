@@ -48,7 +48,6 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
   - Mikä on projektinne tarkoitus? Miten hyvin toteutuksenne vastaa tätä tarkoitusta? Mitkä osat toteutuksesta on toteutettu mielestäsi erityisen hyvin? Entä missä on mahdollisesti puutteita?
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
   - Missä osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
-  - Miten hyödynsit projektissa generatiivisen tekoälyn työkaluja (GitHub Copilot, ChatGPT, jne.)?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
 - _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
 - Jotta projekti päätyy GitHub-portfolioosi, [forkkaa](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) projektinne repositorio omalle GitHub-profiilillesi. Parhaat repositoriot kannattaa "pinnata" profiiliin [tämän ohjeen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) mukaisesti.
