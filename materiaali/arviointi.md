@@ -16,7 +16,7 @@ Kurssin arviointi perustuu tiimissä toteutettavan projektin lopputulokseen ja y
 Projektin arviointi koostuu seuraavista tekijöistä:
 
 - Projektin laajuus: toiminnallisuuden määrä ja sen monimutkaisuus.
-- Versionhallinta: toteutuksessa on hyödynnetty versionhallintaa (Git ja GitHub). Päähaarasta erillisiä feature-haaroja on hyödynnetty jonkin verran toiminallisuuksien toteutukseen. Feature-haarojen pull requesteissa on tehty jonkin verran koodikatselmointeja. Sprinttien päätteeksi projektille on tehty GitHub release.
+- Versionhallinta: toteutuksessa on hyödynnetty versionhallintaa (Git ja GitHub). Päähaarasta erillisiä feature-haaroja on hyödynnetty toiminallisuuksien toteutukseen. Feature-haarojen pull requesteissa on tehty koodikatselmointeja. Sprinttien päätteeksi projektille on tehty GitHub release.
 - Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikoittain.
 - Testaaminen: projektissa on automatisoitua testejä.
 - Jatkuva integraatio: jatkuva integraatio (GitHub Actions) tekee vähintään onnistuneesti käännöksen ja suorittaa testit.
