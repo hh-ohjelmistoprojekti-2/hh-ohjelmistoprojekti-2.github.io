@@ -11,15 +11,15 @@ Sprintin tavoitteet projektille:
 
 - Sprintille on määritelty ja valittu user storyt, jotka löytyvät backlogista. User storyista on myös jossain määrin lisätty backlogille taskeja, jotka kuvaavat teknistä toteutusta, kuten kuten _"REST API endpoint viestien listaamiselle"_. Työn alla olevista backlogin user storeista ja taskeista tulee käydä ilmi kenen vastuulla ne ovat.
 - Backlog on pidetty ajantasalla koko sprintin ajan ja sitä on hyödynnetty sprintin edistymisen seuraamiseen.
-- Ainakin jotain toiminnallisuutta on kehitetty pääharasta erillään olevissa feature-haaroissa, jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
+- Ainakin osa toiminnallisuudesta on kehitetty pääharasta erillään olevissa feature-haaroissa (enintään yhden user storyn laajuus haaraa kohden), jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
 ## Viikko 1
 
-- Valitkaa sprintille [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
+- Valitkaa sprintille [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master). Scrum master mm. valvoo, että projektin backlog pidetään ajan tasalla ja fasilitoi tiimin tapaamisia.
 - Viimeistelkää backlog sprintin aloitusta varten user storyjen ja taskien osalta.
-- Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Pitäkää backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
+- Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Merkatkaa backlogille työn alla olevien user storien ja taskien tekijä(t). Pitäkää backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
 - Kerratkaa tarvittaessa versionhallinnan ja Git:in käyttöä esimerkiksi [tämän](https://tkt-lapio.github.io/git/) materiaalin avulla.
 
 ## Viikko 2

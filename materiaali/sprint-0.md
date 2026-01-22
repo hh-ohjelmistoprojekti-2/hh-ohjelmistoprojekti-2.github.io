@@ -48,7 +48,7 @@ Sprintin tavoitteet projektille:
 - Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt kannattaa toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
   - [Tämä video](https://www.youtube.com/watch?v=fFrq28RY1SQ) esittelee GitHub Projectsin ja Issueiden käyttöä.
 - Muodostakaa [user storyja](https://www.atlassian.com/agile/project-management/user-stories) (käyttäjätarinoita) ensimmäiselle sprintille ja lisätkää ne backlogille. Tehkää user storeista backlogille myös sopivissa määrin [taskeja](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task), jotka ovat teknisen toteutuksen tehtäviä, kuten _"REST API blogien listaamiselle"_.
-  - User storyn formaation voi pitää lyhyenä, ilman perinteistä _"so that"_-osaa. Esimerkiksi _"Käyttäjänä haluan nähdä listan blogeja"_.
+  - User storyn formaation voi pitää lyhyenä, ilman perinteistä _"so that"_-osaa. Esimerkiksi _"Lukijana haluan nähdä listan blogeja"_.
   - [Tämä video](https://www.youtube.com/watch?v=F42FN6cZmA4) esittelee GitHubin sub-issueiden käyttöä, joita voi hyödyntää mm. selkeyttämään user storien ja taskien hierarkiaa. 
 - Lisätkää linkki backlogiin GitHub-reposiorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella niitä.
