@@ -10,7 +10,7 @@ nav_order: 6
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
-- Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti. Halutessanne voitte myös tarkastella projektin testikattavuutta testikattavuustyökaluilla.
+- Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti.
 - Projektin dokumentaatio on pidetty ajantasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa kannattaa hyödyntää GitHubin tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
 - Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example) löytyy esimerkki frontend- ja backend-toteutuksesta.
 
@@ -18,9 +18,8 @@ Sprintin tavoitteet projektille:
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Voitte halutessanne käyttää eri Retrospektiivi-tekniikkaa, kuten [Start, Stop, Continue](https://www.teamretro.com/retrospectives/start-stop-continue-retrospective). Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
-- Suunnitelkaa user storyt sprinttiä varten ja lisätkää ne sprint backlogille.
- Muodostakaa user storyille [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker](https://www.mountaingoatsoftware.com/agile/planning-poker) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
-- Alkakaa toteuttamaan sprint backlogin user storyja.
+- Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille. Muodostakaa ainakin osalle user storyista [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing) hyödyntämällä esim. [planning poker](https://www.mountaingoatsoftware.com/agile/planning-poker) -tekniikkaa. Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
+- Alkakaa toteuttamaan backlogin user storyja.
 
 ## Viikko 2
 

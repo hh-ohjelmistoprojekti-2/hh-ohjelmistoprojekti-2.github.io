@@ -9,24 +9,25 @@ nav_order: 4
 
 Sprintin tavoitteet projektille:
 
-- Sprintille on määritelty ja valittu user storyt, jotka löytyvät sprint backlogista.
-- Sprint backlog on pidetty ajantasalla koko sprintin ajan ja sitä on hyödynnetty sprintin edistymisen seuraamiseen.
-- Ainakin jotain toiminnallisuutta on kehitetty pääharasta erillään olevissa feature-haaroissa, jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
+- Sprintille on määritelty ja valittu user storyt, jotka löytyvät backlogista. User storyista on myös jossain määrin lisätty backlogille taskeja, jotka kuvaavat teknistä toteutusta, kuten kuten _"REST API endpoint viestien listaamiselle"_. Työn alla olevista backlogin user storeista ja taskeista tulee käydä ilmi kenen vastuulla ne ovat.
+- Backlog on pidetty ajantasalla koko sprintin ajan ja sitä on hyödynnetty sprintin edistymisen seuraamiseen.
+- Ainakin osa toiminnallisuudesta on kehitetty pääharasta erillään olevissa feature-haaroissa (enintään yhden user storyn laajuus haaraa kohden), jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
 
 ## Viikko 1
 
-- Valitkaa sprintille [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
-- Viimeistelkää sprint backlog sprintin aloitusta varten.
-- Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Pitäkää sprint backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
+- Valitkaa sprintille [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master). Scrum master mm. valvoo, että projektin backlog pidetään ajan tasalla ja fasilitoi tiimin tapaamisia.
+- Viimeistelkää backlog sprintin aloitusta varten user storyjen ja taskien osalta.
+- Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Merkatkaa backlogille työn alla olevien user storien ja taskien tekijä(t). Pitäkää backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
 - Kerratkaa tarvittaessa versionhallinnan ja Git:in käyttöä esimerkiksi [tämän](https://tkt-lapio.github.io/git/) materiaalin avulla.
 
 ## Viikko 2
 
-- Pitäkää ensimmäinen [daily scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa sprint backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
+- Pitäkää ensimmäinen [daily scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
 - Lukekaa [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) ja [Git feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) -ohjeet.
 - Toteuttakaa ainakin joitain toiminallisuuksia erillisissä feature-haaroissa. Yhdistäkää feature-haarat päähaaraan [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti. _Pitäkää feature-haarojen muutokset pieninä_ (max. yhden user storyn toteutus) ja _yhdistäkää ne päähaaraan, kun toteutus on valmis_. Näin vältetään nk. ["Merge hell"](https://threkk.medium.com/escaping-a-git-merge-hell-e08f37511f37).
+- Voitte halutessanne tehdä pull requesteissa jo [koodikatselmointeja](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews).
 - Jatkakaa projektin edistämistä.
 
 ```mermaid

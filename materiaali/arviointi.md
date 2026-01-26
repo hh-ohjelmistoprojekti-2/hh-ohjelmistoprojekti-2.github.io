@@ -11,12 +11,12 @@ Kurssin arviointi perustuu tiimissä toteutettavan projektin lopputulokseen ja y
 
 {: .highlight }
 
-> Oman arvioinnin tiedot löytyvät Moodlen "Loppuarviointi"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
+> Oman arvioinnin tiedot löytyvät Moodlen "Loppuraportti"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
 
 Projektin arviointi koostuu seuraavista tekijöistä:
 
 - Projektin laajuus: toiminnallisuuden määrä ja sen monimutkaisuus.
-- Versionhallinta: toteutuksessa on hyödynnetty versionhallintaa (Git ja GitHub). Päähaarasta erillisiä feature-haaroja on hyödynnetty jonkin verran toiminallisuuksien toteutukseen. Feature-haarojen pull requesteissa on tehty jonkin verran koodikatselmointeja. Sprinttien päätteeksi projektille on tehty GitHub release.
+- Versionhallinta: toteutuksessa on hyödynnetty versionhallintaa (Git ja GitHub). Päähaarasta erillisiä feature-haaroja on hyödynnetty toiminallisuuksien toteutukseen. Feature-haarojen pull requesteissa on tehty koodikatselmointeja. Sprinttien päätteeksi projektille on tehty GitHub release.
 - Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikoittain.
 - Testaaminen: projektissa on automatisoitua testejä.
 - Jatkuva integraatio: jatkuva integraatio (GitHub Actions) tekee vähintään onnistuneesti käännöksen ja suorittaa testit.
@@ -27,7 +27,7 @@ Projektin arviointi koostuu seuraavista tekijöistä:
 
 Jokaisen tiimiläisen arviointi koostuu seuraavista tekijöistä:
 
-- Läsnäolo opetustilaisuuksissa ja niissä työskentelytilaisuuden teeman mukaisesti. Erityisen tärkeää on osallistuminen Scrumin mukaisiin _sprint review ja retrospektiivitapahtumiin_.
+- Läsnäolo opetustilaisuuksissa ja niissä työskentely tilaisuuden teeman mukaisesti. Erityisen tärkeää on osallistuminen Scrumin mukaisiin _sprint review ja retrospektiivitapahtumiin_.
 - Projektiin liittyvä kommunikointi opetustilaisuuksien ulkopuolella.
 - Tekniset kontribuutiot (toimivan koodin tuottaminen, tekninen suunnittelu, pariohjelmointi).
 - Projektinhallinnan ja dokumentaation kontribuutiot.
