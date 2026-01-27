@@ -11,7 +11,8 @@ Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-1).
 - Ainakin osalle Sprintin user storyista on tehty työmääräarviot ja ne on jollain tavalla nähtävillä backlogista.
-- Ainakin joissain feature-haarojen pull requesteissa on tehty [koodikatselmointeja](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) ja ne on mergattu päähaaraan vasta koodikatselmoinnin jälkeen. [How to Review a Pull Request in GitHub the RIGHT Way](https://www.youtube.com/watch?v=lSnbOtw4izI) -video esittelee GitHubin koodikatselmointiprosessia.
+- Ainakin osassa feature-haarojen pull requesteissa on tehty [koodikatselmointeja](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) ja ne on mergattu päähaaraan vasta koodikatselmoinnin jälkeen. [How to Review a Pull Request in GitHub the RIGHT Way](https://www.youtube.com/watch?v=lSnbOtw4izI) -video esittelee GitHubin koodikatselmointiprosessia.
+- ⭐ Bonus: Voitte halutessanne hyödyntää joissain koodikatselmoinneissa [GitHubin Copilot-tekoälyagenttia](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review). Tämä vaatii [GitHub Education](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) -lisenssin aktivointia.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Sovellus on julkaistu tuotantoympäristössä.
 - Projektin dokumentaatiota on edistetty.
