@@ -7,6 +7,10 @@ nav_order: 4
 
 # Sprint 1
 
+{: .warning }
+
+> Koodin laajamittainen generointi generatiivisen tekoälyn työkaluilla (esim. ChatGPT, tai Copilot) on kiellettyä, ellei sen tekemistä erikseen ohjeisteta. Sprint review -tapaamisissa opettaja voi pyytää tiimiläisiä perustelemaan teknisiä ratkaisuja ja perustelujen laatu vaikuttaa arviointiin.  
+
 Sprintin tavoitteet projektille:
 
 - Sprintille on määritelty ja valittu user storyt, jotka löytyvät backlogista. User storyista on myös jossain määrin lisätty backlogille taskeja, jotka kuvaavat teknistä toteutusta, kuten kuten _"REST API endpoint viestien listaamiselle"_. Työn alla olevista backlogin user storeista ja taskeista tulee käydä ilmi kenen vastuulla ne ovat.
