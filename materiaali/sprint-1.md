@@ -7,6 +7,10 @@ nav_order: 4
 
 # Sprint 1
 
+{: .warning }
+
+> Koodin laajamittainen generointi generatiivisen tekoälyn työkaluilla (esim. ChatGPT, tai Copilot) on kiellettyä, ellei sen tekemistä erikseen ohjeisteta. Sprint review -tapaamisissa opettaja voi pyytää tiimiläisiä perustelemaan teknisiä ratkaisuja ja perustelujen laatu vaikuttaa arviointiin.  
+
 Sprintin tavoitteet projektille:
 
 - Sprintille on määritelty ja valittu user storyt, jotka löytyvät backlogista. User storyista on myös jossain määrin lisätty backlogille taskeja, jotka kuvaavat teknistä toteutusta, kuten kuten _"REST API endpoint viestien listaamiselle"_. Työn alla olevista backlogin user storeista ja taskeista tulee käydä ilmi kenen vastuulla ne ovat.
@@ -14,6 +18,7 @@ Sprintin tavoitteet projektille:
 - Ainakin osa toiminnallisuudesta on kehitetty pääharasta erillään olevissa feature-haaroissa (enintään yhden user storyn laajuus haaraa kohden), jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
+- Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example) löytyy esimerkki frontend- ja backend-toteutuksesta.
 
 ## Viikko 1
 
@@ -21,6 +26,7 @@ Sprintin tavoitteet projektille:
 - Viimeistelkää backlog sprintin aloitusta varten user storyjen ja taskien osalta.
 - Päättäkää sprintin alustavasta työnjaosta ja alkakaa toteuttamaan user storyja. Merkatkaa backlogille työn alla olevien user storien ja taskien tekijä(t). Pitäkää backlog ajantasalla koko sprintin ajan ja hyödyntäkää sitä sprintin edistymisen seuraamisessa.
 - Kerratkaa tarvittaessa versionhallinnan ja Git:in käyttöä esimerkiksi [tämän](https://tkt-lapio.github.io/git/) materiaalin avulla.
+- Alkakaa toteuttamaan backlogin user storyja.
 
 ## Viikko 2
 
@@ -28,7 +34,6 @@ Sprintin tavoitteet projektille:
 - Lukekaa [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) ja [Git feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) -ohjeet.
 - Toteuttakaa ainakin joitain toiminallisuuksia erillisissä feature-haaroissa. Yhdistäkää feature-haarat päähaaraan [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaraan kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti. _Pitäkää feature-haarojen muutokset pieninä_ (max. yhden user storyn toteutus) ja _yhdistäkää ne päähaaraan, kun toteutus on valmis_. Näin vältetään nk. ["Merge hell"](https://threkk.medium.com/escaping-a-git-merge-hell-e08f37511f37).
 - Voitte halutessanne tehdä pull requesteissa jo [koodikatselmointeja](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews).
-- Jatkakaa projektin edistämistä.
 
 ```mermaid
 gitGraph
@@ -70,4 +75,3 @@ gitGraph
    commit
    commit tag: "sprint2"
 ```
-

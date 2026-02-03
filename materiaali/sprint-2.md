@@ -15,7 +15,7 @@ Sprintin tavoitteet projektille:
 - ⭐ Bonus: Voitte halutessanne hyödyntää joissain koodikatselmoinneissa [GitHubin Copilot-tekoälyagenttia](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review). Tämä vaatii [GitHub Education](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) -lisenssin aktivointia.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Sovellus on julkaistu tuotantoympäristössä.
-- Projektin dokumentaatiota on edistetty.
+- Projektin dokumentaatioon on lisätty toteutusteknologiat (ohjelmointikielet ja niiden versiot sekä olennaisimmat kirjastot) ja tekniset käyttöohjeet (esim. sovelluksen käynnistäminen komentoriviltä).
 
 ## Viikko 1
 
@@ -36,7 +36,6 @@ Sprintin tavoitteet projektille:
 - Edistäkää projektin dokumentaatiota. Ainakin sovelluksen tekinen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentointu.
   - REST API:en dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisoveluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) lötyy esimerkkejä Swaggerin käytöstä.
 - Toteuttakaa sovelluksen joitain automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) projektista voi ottaa mallia REST API:n integraatiotestaukseen.
-- Jatkakaa projektin edistämistä.
 
 ## Viikko 3
 

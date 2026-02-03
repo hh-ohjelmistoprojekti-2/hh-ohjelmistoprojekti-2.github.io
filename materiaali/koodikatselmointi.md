@@ -13,16 +13,18 @@ Katselmoitte kurssilla itse vertaisryhmänne koodia ja saatte vastavuoroisesti v
 
 Katselmoinnit suoritetaan siten, että kukin ryhmä tekee GitHub-repositorioonsa [issuen](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) otsikolla "Katselmointipyyntö". Vertaisryhmä antaa palautteen issueseen kommentin muodossa.
 
-Alkuvaiheessa koodin tai katselmointien laadun ei tarvitse olla häikäisevää, vaan päätavoite on kehittyä kurssin aikana.
-
-
 ## TL;DR: tärkeimmät actionpointit
 
-1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö".
+Katselmointipyynnön tekeminen:
+
+1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö". [Pinnatkaa issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/pinning-an-issue-to-your-repository), jotta se on helppo löytää.
 2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
-4. Vertaisryhmä lukee katselmointipyynnön avamaalla "Katselmointipyyntö"-issuen repositorion "Issues"-tabilta, katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen kommenttina. Kommentin voi kirjoittaa lomakkeella issuen alaosassa.
-5. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä katselmoinnista vapaamuotoista keskustelua.
+
+Katselmoinnin tekeminen:
+
+1. Vertaisryhmä lukee katselmointipyynnön avamaalla "Katselmointipyyntö"-issuen repositorion "Issues"-tabilta, katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen kommenttina. Kommentin voi kirjoittaa lomakkeella issuen alaosassa. Kirjoittakaa palautteeseen koodin konkreettisia hyviä puolia ja mahdollisia haasteita. Onko koodissa virheitä? Onko sitä helppo ymmärtää? Voisiko jonkin osan koodista toteuttaa mahdollisesti paremmalla tavalla?
+2. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä katselmoinnista vapaamuotoista keskustelua.
 
 ## Käytännöt
 
@@ -33,7 +35,6 @@ Selkeän, luettavan ja ylläpidettävän koodin kehittämisestä on julkaistu mm
 Arvioikaa katselmointipyynnössä saamaanne kuvausta vertaisryhmän laadunvarmistuskäytännöistä. Oletteko luottavaisia tehtyyn laadunvarmistukseen, tai onko teillä kehitysehdotuksia esimerkiksi manuaalisen tai automatisoidun testauksen suhteen?
 
 Antamanne palautteen ei tarvitse välttämättä pohjautua annettuihin lähteisiin, vaan voitte hyvin kirjoittaa omin sanoin kokemuksestanne annetun koodin lukemisessa.
-
 
 ## Projektin valmistelu katselmoitavaksi
 
@@ -55,7 +56,6 @@ Google on dokumentoinut omia katselmointikäytäntöjään ["Best practices"](ht
 Tässä katselmoinnissa ei ole tarpeen puuttua kaikkiin mahdollisiin koodissa oleviin haasteisiin ja keskeneräisyyksiin, vaan **painottaa sellaisia asioita, joihin pystytte kontribuoimaan positiivisesti**.
 
 Nimeäminen, ymmärrettävyys, kommentointi ja koodin rakenne voivat olla hyviä ehdokkaita palautteelle. Jos jokin kohta koodissa vaikuttaa tarpeettoman monimutkaiselta, yrittäkää pohtia, miten sitä voitaisiin pilkkoa osiin tai yksinkertaistaa ja liittäkää ehdotus mukaan palautteeseenne.
-
 
 ## Muistakaa positiivinen henki
 
