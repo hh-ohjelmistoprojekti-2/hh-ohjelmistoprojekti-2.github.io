@@ -18,7 +18,7 @@ Sprintin tavoitteet projektille:
 - Ainakin osa toiminnallisuudesta on kehitetty pääharasta erillään olevissa feature-haaroissa (enintään yhden user storyn laajuus haaraa kohden), jotka on mergattu päähaaraan toiminallisuuden valmistuttua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminallisuuksista.
-- Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Esimerkkisovelluksesta](https://github.com/Kaltsoon/spring-boot-vite-example/blob/main/authentication-flow.md) löytyy esimerkki frontend- ja backend-toteutuksesta.
+- Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/authentication-flow.md) löytyy esimerkki frontend- ja backend-toteutuksesta.
 
 ## Viikko 1
 
