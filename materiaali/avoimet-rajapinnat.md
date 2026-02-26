@@ -54,9 +54,9 @@ nav_order: 10
 
     > "This page provides an overview of the MediaWiki Action API. This page is intended for technical contributors and software developers who wish to understand and use the MediaWiki Action API."
 
-* <https://developer.twitter.com/en/docs>
+* <https://developer.x.com/en/docs/twitter-api>
 
-    > "The Twitter API enables programmatic access to Twitter in unique and advanced ways. Tap into core elements of Twitter like: Tweets, Direct Messages, Spaces, Lists, users, and more."
+    > "The X (Twitter) API enables programmatic access to X in unique and advanced ways. Tap into core elements of X like: posts, Direct Messages, Spaces, Lists, users, and more."
 
 * <https://developer.spotify.com/documentation/web-api/reference/>
 
@@ -66,9 +66,9 @@ nav_order: 10
 
     > "Open Images is a dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives."
 
-* <https://imdb-api.com/API>
+* <https://developer.themoviedb.org/docs>
 
-    > Maailman suurimman elokuvien tietokannan API
+    > Elokuvien, TV-sarjojen ja muun viihteen tietokanta-API (The Movie Database)
 
 * <https://www.okf.fi/fi/>
 
@@ -82,11 +82,11 @@ nav_order: 10
 
     > FMI Open data
 
-* <https://developer.here.com/develop/rest-apis>
+* <https://developer.here.com/documentation>
 
     > HERE location and path interface
 
-* <https://developer-api.kone.com/>
+* <https://dev.kone.com/>
 
     > Kone lift and elevator data interface
 
