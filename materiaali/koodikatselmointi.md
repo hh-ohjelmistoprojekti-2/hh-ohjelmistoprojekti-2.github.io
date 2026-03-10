@@ -47,9 +47,9 @@ Lisätkää katselmointipyyntöön linkki koodeihinne sekä selkeästi eriteltyn
 ## Projektin katselmointi
 
 {: .highlight }
-> Löydätte kaltsemoitavan repositorion linkin Moodle-alueen etusivulta "Tiimit"-osiosta tiiminne kohdalta.
+> Löydätte katselmoitavan repositorion linkin Moodle-alueen etusivulta "Tiimit"-osiosta tiiminne kohdalta.
 
-Katselmointi suositellaan tehtäväksi koko tiimin voimin joko lähityöskentelynä tai hyödyntäen esimerkiksi Discordia tai ia ruudunjakoa. Katselmoinnin yhteydessä käytävä keskustelu on myös erinomainen tilaisuus oppia itse.
+Katselmointi suositellaan tehtäväksi koko tiimin voimin joko lähityöskentelynä tai hyödyntäen esimerkiksi Discordia tai ruudunjakoa. Katselmoinnin yhteydessä käytävä keskustelu on myös erinomainen tilaisuus oppia itse.
 
 Google on dokumentoinut omia katselmointikäytäntöjään ["Best practices"](https://github.com/google/eng-practices)-sivuilleen ja ["How to do a code review"](https://github.com/google/eng-practices/blob/master/review/reviewer/index.md)-dokumenttiin.
 
