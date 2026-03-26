@@ -18,12 +18,12 @@ Katselmoinnit suoritetaan siten, että kukin ryhmä tekee GitHub-repositorioonsa
 Katselmointipyynnön tekeminen:
 
 1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö". [Pinnatkaa issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/pinning-an-issue-to-your-repository), jotta se on helppo löytää.
-2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
+2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
 
 Katselmoinnin tekeminen:
 
-1. Vertaisryhmä lukee katselmointipyynnön avamaalla "Katselmointipyyntö"-issuen repositorion "Issues"-tabilta, katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen kommenttina. Kommentin voi kirjoittaa lomakkeella issuen alaosassa. Kirjoittakaa palautteeseen koodin konkreettisia hyviä puolia ja mahdollisia haasteita. Onko koodissa virheitä? Onko sitä helppo ymmärtää? Voisiko jonkin osan koodista toteuttaa mahdollisesti paremmalla tavalla?
+1. Vertaisryhmä lukee katselmointipyynnön avaamalla "Katselmointipyyntö"-issuen repositorion "Issues"-tabilta, katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen kommenttina. Kommentin voi kirjoittaa lomakkeella issuen alaosassa. Kirjoittakaa palautteeseen koodin konkreettisia hyviä puolia ja mahdollisia haasteita. Onko koodissa virheitä? Onko sitä helppo ymmärtää? Voisiko jonkin osan koodista toteuttaa mahdollisesti paremmalla tavalla?
 2. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä katselmoinnista vapaamuotoista keskustelua.
 
 ## Käytännöt

@@ -13,12 +13,12 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
 
 ## Käytänteet
 
-- Kurssilla toteutetaan tiimissiä ohjelmistoprojekti tiimin muodostamasta aiheesta
+- Kurssilla toteutetaan tiimissä ohjelmistoprojekti tiimin muodostamasta aiheesta
 - Projekti etenee kolmen viikon iteraatioissa kahden opetusperiodin ajan
-- Jokaisen iteraation aluksi tiimi suunnittelee iteraation aikana ohjelmistoon toteutettavat toiminallisuudet
-- Iteraation aikana tiimi toteuttaa suunnitteltuja toiminallisuuksia itsenäisesti sekä opettajan ohjauksessa
+- Jokaisen iteraation aluksi tiimi suunnittelee iteraation aikana ohjelmistoon toteutettavat toiminnallisuudet
+- Iteraation aikana tiimi toteuttaa suunniteltuja toiminnallisuuksia itsenäisesti sekä opettajan ohjauksessa
 - Iteraation päätteeksi tiimi esittää opettajalle projektin edistymistä ja saavat palautetta
-- Opetusta järjestetään viikottain ja **läsnäolossa noudatetaan Haaga-Helian läsnäolokäytänteitä**. Aktiivinen läsnäolo vaikuttaa arviointiin
+- Opetusta järjestetään viikoittain ja **läsnäolossa noudatetaan Haaga-Helian läsnäolokäytänteitä**. Aktiivinen läsnäolo vaikuttaa arviointiin
 
 ---
 
@@ -29,7 +29,7 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
   - Tiimin lopullisen tuloksen tarkoituksenmukaiseen toimivuuteen
   - Kurssin lopuksi yksilötyönä tehtävään loppuraporttiin, jossa arvioidaan omaa ja tiimin toimintaa
 - Arviointi koostuu tiimin tuotoksesta ja tiimin jäsenen omasta panoksesta projektin eteen. Jokainen tiimissä **ei siis välttämättä saa samaa arvosanaa**
-- Arvioinnin tukena käytetään kurssin aikana tehtävää itseis- ja vertaisarviointia
+- Arvioinnin tukena käytetään kurssin aikana tehtävää itse- ja vertaisarviointia
 - Tarkat arviointikriteerit löytyvät kurssisivulta
 
 ---
@@ -50,11 +50,11 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
 > _"When to use iterative development? You should use iterative development only on projects that you want to succeed."_
 > ⎯ Martin Fowler
 
-- Ohjelmistoprojekteissa toteutaan ohjelmistoja, jotka perustuvat johonkin tarpeeseen, jonka määrittelee ohjelmistoprojektin asiakas
+- Ohjelmistoprojekteissa toteutetaan ohjelmistoja, jotka perustuvat johonkin tarpeeseen, jonka määrittelee ohjelmistoprojektin asiakas
 - Ohjelmistokehittäjien tehtävä on muodostaa asiakkaan tarpeista toteuttamiskelpoisia teknisiä vaatimuksia ja toteuttaa ne sopivilla teknologioilla
 - Tarpeiden selvittäminen vaatii jatkuvaa suoraa viestintää asiakkaan kanssa. Tarpeilla on myös tapana muuttua ja tarkentua ohjelmistoprojektin edetessä
 - Ohjelmistotuotannossa sovelletaan nykyisin laajalti nk. **ketteriä menetelmiä**, jotka korostavat mm. suoraa viestintää sidosryhmien kanssa ja nopeaa muutoksiin reagointia
-- Ketterät menetelmät ovat **iteratiivinen** vaihtoehto perinteisille vaiheellisille ohjelmistotuotantoprosesesseille, kuten vesiputousmalli
+- Ketterät menetelmät ovat **iteratiivinen** vaihtoehto perinteisille vaiheellisille ohjelmistotuotantoprosesseille, kuten vesiputousmalli
 
 ---
 layout: image-left
@@ -73,7 +73,7 @@ image: agile-lifecycle.png
 - Kurssin ohjelmistoprojektin projektinhallinnassa noudatetaan suuren suosion saavuttanutta ketteriä menetelmiä soveltavaa **Scrum**-viitekehystä
 - Vuonna 2024 julkaistun 17th State of Agile Report -raportin mukaan 63% vastaajista käytti ohjelmistotuotannon prosessinaan Scrumia
 - Scrum määrittelee ohjelmistokehitykselle iteratiivisen prosessin, joka etenee tyypillisesti 1-4 viikon iteraatioissa, joita kutsutaan **sprinteiksi**
-- Sprintin aikana ohjelmistoon tuotetaan inkrementaalisesti uutta julkaisukelpoista toiminallisuutta
+- Sprintin aikana ohjelmistoon tuotetaan inkrementaalisesti uutta julkaisukelpoista toiminnallisuutta
 - Kurssilla sprintin pituus on kolme viikkoa
 
 ---
@@ -91,9 +91,9 @@ image: agile-lifecycle.png
 ## Scrumin tapahtumat
 
 - Scrumissa käytetään ennaltasovittuja tapahtumia, jotka toistuvat jokaisessa sprintissä
-- Sprintti alkaa **sprintin suunnittelulla** (sprint planning), jonka aikana päätetään mitä toiminallisuutta sprintin aikana toteutetaan
-- Sprintin aikana järjestetään lyhyitä kehittäjätiimin sisäisiä **päiväpalavereja** (daily scrum), joissa jokainen tiimin jäsen kertoo vuorallaan, miten kehitystyö etenee
-- Sprintti päättyy **sprinttikatselmukseen** (sprint review), jonka aikana kehittäjätiimi esittelee sprintin aikana toteutetut toiminallisuudet kaikille kehitettävästä tuotteesta kiinnostuneille sidosryhmille
+- Sprintti alkaa **sprintin suunnittelulla** (sprint planning), jonka aikana päätetään mitä toiminnallisuutta sprintin aikana toteutetaan
+- Sprintin aikana järjestetään lyhyitä kehittäjätiimin sisäisiä **päiväpalavereja** (daily scrum), joissa jokainen tiimin jäsen kertoo vuorollaan, miten kehitystyö etenee
+- Sprintti päättyy **sprinttikatselmukseen** (sprint review), jonka aikana kehittäjätiimi esittelee sprintin aikana toteutetut toiminnallisuudet kaikille kehitettävästä tuotteesta kiinnostuneille sidosryhmille
 - Sprintin päätteeksi järjestetään **retrospektiivi**, jossa kehittäjätiimi tarkastelee Scrum masterin johdolla omaa työskentelyprosessiaan ja pyrkivät kehittämään sitä
 
 ---
@@ -121,8 +121,8 @@ image: scrum-prosessi.png
 - Projektissa ei välttämättä ole ulkoista tuoteomistajaa, vaan **tiimi toimii itse tuoteomistajan roolissa**
 - Tiimi joutuu tällöin itse määrittelemään projektin vaatimuksia ja priorisoimaan niitä
 - Aiheen ideoinnissa voi lähteä liikkeelle laajasta ideasta, kuten "kurssiarvostelu-sovellus", tai "sanaston harjoittelu -peli"
-- Tämän jälkeen laajasta ideasta voi muodostaa konkreettisia toiminallisuuksia priorisoiden käyttäjän kannalta tärkeimpiä toiminallisuuksia
-- Aluksi kannattaa tähdätä **Minimum Viable Product** (MVP) -toteutukseen, josta toiminallisuutta voi lähteä laajentamaan
+- Tämän jälkeen laajasta ideasta voi muodostaa konkreettisia toiminnallisuuksia priorisoiden käyttäjän kannalta tärkeimpiä toiminnallisuuksia
+- Aluksi kannattaa tähdätä **Minimum Viable Product** (MVP) -toteutukseen, josta toiminnallisuutta voi lähteä laajentamaan
 - Näin vältetään nk. _"Scope creep"_-ilmiötä, jossa projektin laajuus leviää hallitsemattomasti, eikä projektin ydintoiminnallisuus valmistu järkevässä aikataulussa
 
 ---
