@@ -2,7 +2,7 @@
 layout: page
 title: Avoimen rajapinnan tarjoavia palveluita
 permalink: /avoimet-rajapinnat
-nav_order: 10
+nav_exclude: true
 ---
 
 # Avoimen rajapinnan tarjoavia palveluita
