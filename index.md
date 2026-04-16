@@ -39,11 +39,11 @@ Katso myös:
 
 Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit osoittaa osaamisesi tavanomaisen osallistumisen sijasta AHOT-menettelyllä. Osaamisen tunnistamiseksi ilmoittaudu tälle kurssille normaalisti, ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta _viimeistään kurssin ensimmäisen viikon aikana_.
 
-Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](ahot).
+Tarkemmat ohjeet AHOT-käytännöistä löydät [erilliseltä sivulta](ahot).
 
 ## Kurssin aikataulu 
 
-Kurssille varattuina ajankohtina työskennellään projektin parissa Scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
+Kurssille varattuina ajankohtina työskennellään projektin parissa Scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita mahtuu kurssille 4. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
 
 Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään toistuvasti samoina viikonpäivinä ja kellonaikoina, jolloin sprinttien pituudet pysyvät tasaisina.
 

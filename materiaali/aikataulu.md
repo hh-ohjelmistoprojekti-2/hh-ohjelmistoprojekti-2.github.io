@@ -7,7 +7,7 @@ nav_order: 2
 
 # Aikataulu
 
-Kurssilla on viikoittaisia opetustilaisuuksia {{site.teaching_sessions_text}}. Läsnäolon suhteen noudatetaan Haaga-Helian käytänteitä, joten vähintään 50% läsnäoloa vaaditaan.
+Kurssilla on viikoittaisia opetustilaisuuksia {{site.teaching_sessions_text}}. Läsnäolon suhteen noudatetaan Haaga-Helian käytänteitä, joten vähintään 50 % läsnäoloa vaaditaan.
 
 {: .highlight }
 
@@ -19,14 +19,14 @@ Kurssi etenee kolmen viikon sprinteissä. Sprinttien aikana järjestetään Scru
 - Sprintin aikana tiimiläiset pitävät päivittäispalavereja (Daily Scrum)
 - Sprintti päättyy sprintin katselmointiin (Sprint Review) ja retrospektiiviin (Retrospective)
 
-Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintillä käsitellään uusia aihealueita ja näihin liittyen projektille on sprintti-kohtaisia tavoitteita.
+Sprinttien aikana tiimit edistävät projektiaan. Lisäksi jokaisella sprintillä käsitellään uusia aihealueita ja näihin liittyen projektille on sprinttikohtaisia tavoitteita.
 
 | Viikko | Aihealueet                                                                                                                |
 | ------ | ------------------------------------------------------------------------------------------------------------------------- |
 | 15.1.  | 🏃‍♂️ [Sprint 0](/sprint-0): ketterä vaatimusmäärittely, tiimien muodostaminen, projektin käynnistys                          |
-| 22.1.  | GitHub repositorion luonti, projektin vaatimusmäärittelyn aloittaminen, backlogin perustaminen                            |
+| 22.1.  | GitHub-repositorion luonti, projektin vaatimusmäärittelyn aloittaminen, backlogin perustaminen                            |
 | 29.1.  | 🏃‍♂️ [Sprint 1](/sprint-1): sprintin 1 suunnittelu, versionhallinnan kertausta                                                 |
-| 5.2.   | Daily scrum, Git haarat, GitHub pull request                                                                              |
+| 5.2.   | Daily scrum, Git-haarat, GitHub pull request                                                                              |
 | 12.2.  | Sprint review -valmistelut, GitHub release                                                                                |
 | 19.2.  | 🏝️ _Intensiiviviikko, ei opetusta_                                                                                        |
 | 26.2.  | 🏃‍♂️ [Sprint 2](/sprint-2): sprintin 2 suunnittelu, sprintin 1 katselmointi ja retrospektiivi                                |

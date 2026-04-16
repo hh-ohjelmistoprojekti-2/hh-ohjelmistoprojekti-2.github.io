@@ -17,7 +17,7 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
 - Projekti etenee kolmen viikon iteraatioissa kahden opetusperiodin ajan
 - Jokaisen iteraation aluksi tiimi suunnittelee iteraation aikana ohjelmistoon toteutettavat toiminnallisuudet
 - Iteraation aikana tiimi toteuttaa suunniteltuja toiminnallisuuksia itsenäisesti sekä opettajan ohjauksessa
-- Iteraation päätteeksi tiimi esittää opettajalle projektin edistymistä ja saavat palautetta
+- Iteraation päätteeksi tiimi esittää opettajalle projektin edistymistä ja saa palautetta
 - Opetusta järjestetään viikoittain ja **läsnäolossa noudatetaan Haaga-Helian läsnäolokäytänteitä**. Aktiivinen läsnäolo vaikuttaa arviointiin
 
 ---
@@ -71,8 +71,8 @@ image: agile-lifecycle.png
 ## Scrum
 
 - Kurssin ohjelmistoprojektin projektinhallinnassa noudatetaan suuren suosion saavuttanutta ketteriä menetelmiä soveltavaa **Scrum**-viitekehystä
-- Vuonna 2024 julkaistun 17th State of Agile Report -raportin mukaan 63% vastaajista käytti ohjelmistotuotannon prosessinaan Scrumia
-- Scrum määrittelee ohjelmistokehitykselle iteratiivisen prosessin, joka etenee tyypillisesti 1-4 viikon iteraatioissa, joita kutsutaan **sprinteiksi**
+- Vuonna 2024 julkaistun 17th State of Agile Report -raportin mukaan 63 % vastaajista käytti ohjelmistotuotannon prosessinaan Scrumia
+- Scrum määrittelee ohjelmistokehitykselle iteratiivisen prosessin, joka etenee tyypillisesti 1–4 viikon iteraatioissa, joita kutsutaan **sprinteiksi**
 - Sprintin aikana ohjelmistoon tuotetaan inkrementaalisesti uutta julkaisukelpoista toiminnallisuutta
 - Kurssilla sprintin pituus on kolme viikkoa
 
@@ -94,7 +94,7 @@ image: agile-lifecycle.png
 - Sprintti alkaa **sprintin suunnittelulla** (sprint planning), jonka aikana päätetään mitä toiminnallisuutta sprintin aikana toteutetaan
 - Sprintin aikana järjestetään lyhyitä kehittäjätiimin sisäisiä **päiväpalavereja** (daily scrum), joissa jokainen tiimin jäsen kertoo vuorollaan, miten kehitystyö etenee
 - Sprintti päättyy **sprinttikatselmukseen** (sprint review), jonka aikana kehittäjätiimi esittelee sprintin aikana toteutetut toiminnallisuudet kaikille kehitettävästä tuotteesta kiinnostuneille sidosryhmille
-- Sprintin päätteeksi järjestetään **retrospektiivi**, jossa kehittäjätiimi tarkastelee Scrum masterin johdolla omaa työskentelyprosessiaan ja pyrkivät kehittämään sitä
+- Sprintin päätteeksi järjestetään **retrospektiivi**, jossa kehittäjätiimi tarkastelee Scrum masterin johdolla omaa työskentelyprosessiaan ja pyrkii kehittämään sitä
 
 ---
 layout: image
@@ -105,11 +105,11 @@ image: scrum-prosessi.png
 
 ## Tiimien muodostaminen ja aiheen ideointi
 
-1. Jakaudutaan noin 4-5 hengen tiimeihin
+1. Jakaudutaan noin 4–5 hengen tiimeihin
 2. Tehkää tiimin sisällä lyhyt esittelykierros. Jokainen voi kertoa vuorollaan esimerkiksi:
    - Minkälainen tausta on opinnoissa tai mahdollisesti työelämässä?
    - Mitkä ovat omat kiinnostuksen kohteet ohjelmistokehityksessä?
-   - Mitkä ovat omat vahvuusalueet ohjelmointikielissä, tai muissa toteutusteknologioissa?
+   - Mitkä ovat omat vahvuusalueet ohjelmointikielissä tai muissa toteutusteknologioissa?
    - Mitä odotuksia on kurssin suhteen?
 3. Valitkaa tiimillenne nimi
 4. Alkakaa ideoimaan yhdessä ohjelmistoprojektin aihetta
