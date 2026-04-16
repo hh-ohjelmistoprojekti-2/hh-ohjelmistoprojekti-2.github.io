@@ -4,7 +4,7 @@ title: Sprint 1
 permalink: /sprint-1
 nav_order: 4
 ---
-
+a
 # Sprint 1
 
 {: .warning }
@@ -15,7 +15,7 @@ Sprintin tavoitteet projektille:
 
 - Sprintille on määritelty ja valittu user storyt, jotka löytyvät backlogista. User storyista on myös jossain määrin lisätty backlogille taskeja, jotka kuvaavat teknistä toteutusta, kuten _"REST API endpoint viestien listaamiselle"_. Työn alla olevista backlogin user storyista ja taskeista tulee käydä ilmi, kenen vastuulla ne ovat.
 - Backlog on pidetty ajantasalla koko sprintin ajan ja sitä on hyödynnetty sprintin edistymisen seuraamiseen.
-- Ainakin osa toiminnallisuudesta on kehitetty pääharasta erillään olevissa feature-haaroissa (enintään yhden user storyn laajuus haaraa kohden), jotka on mergattu päähaaraan toiminnallisuuden valmistuttua.
+- Ainakin osa toiminnallisuudesta on kehitetty päähaarasta erillään olevissa feature-haaroissa (enintään yhden user storyn laajuus haaraa kohden), jotka on mergattu päähaaraan toiminnallisuuden valmistuttua.
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminnallisuuksista.
 - Fullstack-projektissa (frontend kutsuu backendin REST API -rajapintoja), voitte halutessanne toteuttaa [Token-pohjaisen autentikaation](https://medium.com/@extio/understanding-json-web-tokens-jwt-a-secure-approach-to-web-authentication-f551e8d66deb). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/authentication-flow.md) löytyy esimerkki frontend- ja backend-toteutuksesta.
