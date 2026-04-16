@@ -22,7 +22,7 @@ Projektin arviointi koostuu seuraavista tekijöistä:
 - Jatkuva integraatio: jatkuva integraatio (GitHub Actions) tekee vähintään onnistuneesti käännöksen ja suorittaa testit.
 - [Tiimien välisen koodikatselmoinnin](/koodikatselmointi) tekeminen
 - Prosessin noudattaminen: tiimi järjestää Scrum-prosessin mukaisia tapahtumia tarkoituksenmukaisesti ja ylläpitää projektin vaatimuksia backlogin avulla.
-- Dokumentaatio: projektista dokumentoidaan vähintään yleinen kuvaus (esim. projektin tarkoitus ja tavoitteet), toteutusteknologiat, tekniset käyttöohjeet ja tietomalli. Projektin luonteesta riippuen opettaja voi myös esittää muita vaatimuksia dokumentaation suhteen.
+- Dokumentaatio: projektista dokumentoidaan vähintään yleinen kuvaus (esim. projektin tarkoitus ja tavoitteet), toteutusteknologiat, tekniset käyttöohjeet (komentorivitoiminnot esim. suoritukseen ja testaamiseen) ja tietomalli. Projektin luonteesta riippuen opettaja voi myös esittää muita vaatimuksia dokumentaation suhteen.
 - Aikataulun noudattaminen: projektin täytyy edetä jokaisessa sprintissä sprinttien tavoitteiden mukaisesti.
 
 Jokaisen tiimiläisen arviointi koostuu seuraavista tekijöistä:
