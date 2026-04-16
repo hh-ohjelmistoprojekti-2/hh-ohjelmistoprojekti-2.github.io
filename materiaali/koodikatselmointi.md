@@ -17,8 +17,8 @@ Katselmoinnit suoritetaan siten, että kukin ryhmä tekee GitHub-repositorioonsa
 
 Katselmointipyynnön tekeminen:
 
-1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö". [Pinnatkaa issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/pinning-an-issue-to-your-repository), jotta se on helppo löytää.
-2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
+1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub-repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö". [Pinnatkaa issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/pinning-an-issue-to-your-repository), jotta se on helppo löytää.
+2. Katselmointipyynnössä tulee eritellä noin 100–200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
 
 Katselmoinnin tekeminen:
@@ -38,9 +38,9 @@ Antamanne palautteen ei tarvitse välttämättä pohjautua annettuihin lähteisi
 
 ## Projektin valmistelu katselmoitavaksi
 
-Osa projekteista koostuu useista eri osista, kuten front-endistä ja back-endistä. Projekteissa on myös merkittäviä osia valmiista tutoriaaleista tai malliprojekteista lainattuja osia, joiden katselmointi ei ole ryhmän kehittymisen kannalta kovin hyödyllistä. Siksi jokaisen ryhmän on rajattava omasta projektista "kourallinen" koodia, eli suuruusluokkaa 1-2 tiedostoa tai **100-200 riviä**, joista toivotte eniten saavanne palautetta.
+Osa projekteista koostuu useista eri osista, kuten front-endistä ja back-endistä. Projekteissa on myös merkittäviä osia valmiista tutoriaaleista tai malliprojekteista lainattuja osia, joiden katselmointi ei ole ryhmän kehittymisen kannalta kovin hyödyllistä. Siksi jokaisen ryhmän on rajattava omasta projektista "kourallinen" koodia, eli suuruusluokkaa 1-2 tiedostoa tai **100–200 riviä**, joista toivotte saavanne eniten palautetta.
 
-Lisätkää katselmointipyyntöön linkki koodeihinne sekä selkeästi eriteltynä ne tiedostot, luokat, funktiot tai muut yksiköt joista toivotte palautetta. Kertokaa katselmointipyynnössänne myös lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet katselmoitavan koodin toimivuuden.
+Lisätkää katselmointipyyntöön linkki koodeihinne sekä selkeästi eriteltynä ne tiedostot, luokat, funktiot tai muut yksiköt, joista toivotte palautetta. Kertokaa katselmointipyynnössänne myös lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet katselmoitavan koodin toimivuuden.
 
 **Voitte koodin ohessa pyytää myös palautetta dokumentaatiostanne tai ohjeistanne**. Tarvittaessa antakaa lisäohjeet, kuten mistä branchista haluatte katselmoinnin tehtävän.
 

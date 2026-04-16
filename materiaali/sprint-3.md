@@ -11,13 +11,13 @@ Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
 - Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti.
-- Projektin dokumentaatio on pidetty ajantasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
+- Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
 
 ## Viikko 1
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
-- Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille. Keskustelkaa tiimin kesken user storyjen [työmääräarvioista](https://activecollab.com/blog/project-management/t-shirt-sizing). Merkatkaa työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
+- Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille. Keskustelkaa tiimin kesken user storyjen [työmääräarvioista](https://activecollab.com/blog/project-management/t-shirt-sizing). Merkitkää työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
 - Alkakaa toteuttamaan backlogin user storyja.
 
 ## Viikko 2
@@ -26,7 +26,7 @@ Sprintin tavoitteet projektille:
 
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen **katselmointipyynnöt** _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
-- Toteuttakaa sovelluksella lisää testejä. Lukekaa [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa.
+- Toteuttakaa sovellukselle lisää testejä. Lukekaa [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa.
 
 ## Viikko 3
 

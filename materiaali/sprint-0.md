@@ -9,7 +9,7 @@ nav_order: 3
 
 Sprintin tavoitteet projektille:
 
-- Projektin aihe ja tärkeimmät toiminnallisuudet on pääpirteittäin suunniteltu.
+- Projektin aihe ja tärkeimmät toiminnallisuudet on pääpiirteittäin suunniteltu.
 - Projektilla on GitHub-repositorio.
 - Repositoriossa on `README.md`-tiedosto, jossa on projektin alustava kuvaus.
 - Projektille on tehty backlog.
@@ -36,24 +36,24 @@ Sprintin tavoitteet projektille:
 ## Viikko 2
 
 - Luokaa projektille [GitHub-repositorio](https://docs.github.com/en/get-started/quickstart/create-a-repo).
-- Lisätkää projektin kuvaus GitHub-repositorion [README.md-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
+- Lisätkää projektin kuvaus GitHub-repositorion [`README.md`-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
   - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
     - Mikä on projektin nimi?
     - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
-    - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
+    - Mitä toteutusteknologioita (esim. ohjelmointikieltä tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
 - `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutustua tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
 - [Awesome README](https://github.com/matiassingers/awesome-readme) on kuratoitu lista hyvistä `README.md`-tiedostoista GitHub-repositorioissa, jota voi käyttää inspiraationa.
 - Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt kannattaa toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
   - [Tämä video](https://www.youtube.com/watch?v=fFrq28RY1SQ) esittelee GitHub Projectsin ja Issueiden käyttöä.
 - Muodostakaa [user storyja](https://www.atlassian.com/agile/project-management/user-stories) (käyttäjätarinoita) ensimmäiselle sprintille ja lisätkää ne backlogille. Tehkää user storyista backlogille myös sopivissa määrin [taskeja](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task), jotka ovat teknisen toteutuksen tehtäviä, kuten _"REST API blogien listaamiselle"_.
-  - User storyn formaation voi pitää lyhyenä, ilman perinteistä _"so that"_-osaa. Esimerkiksi _"Lukijana haluan nähdä listan blogeja"_.
-  - [Tämä video](https://www.youtube.com/watch?v=F42FN6cZmA4) esittelee GitHubin sub-issueiden käyttöä, joita voi hyödyntää mm. selkeyttämään user storien ja taskien hierarkiaa. 
+  - User storyn formaation voi pitää lyhyenä, ilman perinteistä _"so that"_-osaa. Esimerkiksi _"Lukijana haluan nähdä listan blogeista"_.
+  - [Tämä video](https://www.youtube.com/watch?v=F42FN6cZmA4) esittelee GitHubin sub-issueiden käyttöä, joita voi hyödyntää mm. selkeyttämään user storyjen ja taskien hierarkiaa. 
 - Lisätkää linkki backlogiin GitHub-repositorion `README.md`-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella niitä.
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://vite.dev/) avulla.
 
 {: .highlight }
 
-> Lisätkää Moodlen "Projektin GitHub repositorio"-palautukseen linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
+> Lisätkää Moodlen "Projektin GitHub -repositorio"-palautukseen linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
