@@ -14,3 +14,4 @@ Tältä sivulta löydät projektin toteutukseen liittyviä ohjeita.
 - Tuotantoonvienti:
   - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
   - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
+- [Token-pohjaisen autentikaation toteutus](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/authentication-flow.md)
