@@ -2,7 +2,7 @@
 layout: page
 title: Ohjeita
 permalink: /ohjeita
-nav_order: 2
+nav_order: 10
 ---
 
 # Ohjeita
