@@ -33,15 +33,15 @@ Sprintin tavoitteet projektille:
   - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
   - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
 - Lisätkää linkit sovelluksen julkaistuihin versioihin repositorion `README.md`-tiedostoon.
-- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen tekninen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot on dokumentoitu.
-  - REST APIen dokumentaatiossa kannattaa hyödyntää [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) löytyy esimerkkejä Swaggerin käytöstä.
+- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen tekninen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot) on dokumentoitu.
+  - Hyödyntäkää REST API endpointtien dokumentoinnissa [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) löytyy esimerkkejä Swaggerin käytöstä. Lisätkää `README.md`-tiedostoon linkki Swagger dokumentaatioon (esim. <http://localhost:8080/swagger-ui/index.html> Spring Boot -sovelluksessa).
 - Toteuttakaa sovelluksen joitakin automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) voi ottaa mallia REST API:n integraatiotestaukseen.
 
 ## Viikko 3
 
+- **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**. Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Jos mahdollista, esitelkää katselmoinnissa sovelluksen toiminnallisuuksia tuotantoympäristössä.
 - _Jatkuva integraatio_ mahdollistaa automatisoidun laadunhallinnan ohjelmistoprojekteissa. Lukekaa GitHubin [Continuous integration](https://docs.github.com/en/actions/get-started/continuous-integration) -ohje ja ottakaa projektissanne käyttöön jatkuva integraatio [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) -palvelun avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JARin muodostus Maven-projektissa `./mvnw package`-komennolla). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) löytyy GitHub Actions workflow-esimerkki.
 - Lisätkää GitHub Actions workflow [status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge) `README.md`-tiedoston alkuun.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
-- Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Jos mahdollista, esitelkää katselmoinnissa sovelluksen toiminnallisuuksia tuotantoympäristössä.
 
 ![Pull request](/assets/compiling.png)

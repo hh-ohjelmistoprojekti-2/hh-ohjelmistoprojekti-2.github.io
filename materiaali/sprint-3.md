@@ -11,7 +11,7 @@ Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
 - Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti.
-- Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja arkkitehtuurin kuvaus. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
+- Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin ja toteutusteknoligoiden kuvaus. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
 
 ## Viikko 1
 
@@ -34,5 +34,5 @@ Sprintin tavoitteet projektille:
 
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen **koodikatselmoinnin** edellisen viikon katselmointipyynnön pohjalta ja toimittavat sen _ennen seuraavaa opetuskertaa_. Lukekaa koodikatselmoinnin ohjeet [täältä](/koodikatselmointi).
 
+- **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**. Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminnallisuuksia tuotantoympäristössä.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
-- Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminnallisuuksia tuotantoympäristössä.

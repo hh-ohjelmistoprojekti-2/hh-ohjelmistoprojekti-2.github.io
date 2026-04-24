@@ -28,9 +28,19 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 3
 
+{: .highlight }
+> Projektin deadline on {{site.project_deadline}}, jolloin pidetään loppudemot.
+
 - Tehkää viimeisiä viimeistelyjä projektiin.
+- Varmistakaa, että `README.md`-tiedostossa on dokumentoitu vähintään seuraavat:
+  - Projektin nimi ja kuvaus (mm. mikä on projektin tarkoitus ja mitä toiminallisuuksia siitä löytyy).
+  - Linkit sovelluksien (esim. backend ja frontend sovellukset) tuotantoympärisöön.
+  - Linkki [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-dokumentaation (Rahti-sovelluksessa muotoa <https://nameofyourrahtiapp.2.rahtiapp.fi/swagger-ui/index.html>), jos REST API endpointteja on toteutettu.
+  - Toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot).
+  - Tekniset käyttöohjeet (esim. sovelluksen käynnistys ja testien suoritus komentoriviltä).
+  - Tietomallin kuvaus, mielellään esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen.
+  - Projektin [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
-- Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen loppudemoa. Esitelkää loppudemossa sovelluksen toiminnallisuuksia tuotantoympäristössä.
 - ⚠️ Valmistelkaa projektille _10-15 minuutin_ esitys ensi viikon loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminnallisuuksien esittelystä videonauhoite etukäteen. Käsitelkää loppudemossa ainakin seuraavat asiat:
   - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
   - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
@@ -38,8 +48,12 @@ Sprintin tavoitteet projektille:
   - Minkälainen oli ohjelmistotuotantoprosessinne? Miten toteutitte backlogit? Miten käytitte versionhallintaa (esim. branchit)? Miten käytitte jatkuvaa integraatiota?
   - Mitä käyttäjä voi tehdä sovelluksella? Esitelkää tärkeimmät toiminnallisuudet.
   - Mitä puutteita projektiin jäi?
+- **Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen loppudemoa**. Esitelkää loppudemossa sovelluksen toiminnallisuuksia tuotantoympäristössä.
 
 ## Viikko 4 - lopputoimenpiteet
+
+{: .highlight }
+> Loppuraportin ja vertaisarvioinnin deadline on {{site.final_deadline}}. Molemmat ovat pakollisia kurssisuorituksen kannalta.
 
 Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraavat lopputoimenpiteet:
 
@@ -51,9 +65,6 @@ Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraa
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
 - _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
 - Jotta projekti päätyy GitHub-portfolioosi, [forkkaa](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) projektinne repositorio omalle GitHub-profiilillesi. Parhaat repositoriot kannattaa "pinnata" profiiliin [tämän ohjeen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) mukaisesti.
-
-{: .highlight }
-> Loppuraportin ja vertaisarvioinnin deadline on {{site.final_deadline}}. Molemmat ovat pakollisia kurssisuorituksen kannalta.
 
 ## Arviointi
 
