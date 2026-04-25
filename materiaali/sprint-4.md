@@ -34,9 +34,9 @@ Sprintin tavoitteet projektille:
 - Tehkää viimeisiä viimeistelyjä projektiin.
 - Varmistakaa, että `README.md`-tiedostossa on dokumentoitu vähintään seuraavat:
   - Projektin nimi ja kuvaus (mm. mikä on projektin tarkoitus ja mitä toiminallisuuksia siitä löytyy).
-  - Linkit sovelluksien (esim. backend ja frontend sovellukset) tuotantoympärisöön.
+  - Linkit tuotantoympäristöön julkaistuihin sovelluksiin (esim. backend ja frontend sovellukset).
   - Linkki [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-dokumentaation (Rahti-sovelluksessa muotoa <https://nameofyourrahtiapp.2.rahtiapp.fi/swagger-ui/index.html>), jos REST API endpointteja on toteutettu.
-  - Toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot).
+  - Toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja olennaisimmat kirjastot).
   - Tekniset käyttöohjeet (esim. sovelluksen käynnistys ja testien suoritus komentoriviltä).
   - Tietomallin kuvaus, mielellään esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen.
   - Projektin [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
