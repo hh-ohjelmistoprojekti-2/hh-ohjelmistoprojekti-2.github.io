@@ -42,7 +42,7 @@ Sprintin tavoitteet projektille:
     - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
-  - Tiimin jäsenten nimet ja linkit tiimiläisten GitHub-profiileihin.
+  - Tiimin jäsenten GitHub-käyttäjätunnukset ja linkit tiimiläisten GitHub-profiileihin.
 - `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutustua tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
 - [Awesome README](https://github.com/matiassingers/awesome-readme) on kuratoitu lista hyvistä `README.md`-tiedostoista GitHub-repositorioissa, jota voi käyttää inspiraationa.
 - Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)-alustaa. User storyt kannattaa toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
