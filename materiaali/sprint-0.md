@@ -35,13 +35,13 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-- Luokaa projektille [GitHub-repositorio](https://docs.github.com/en/get-started/quickstart/create-a-repo).
+- Luokaa tiimillenne [GitHub-organisaatio](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) ja organisaatioon projektille [GitHub-repositorio](https://docs.github.com/en/get-started/quickstart/create-a-repo). Lisätkää kaikki tiimiläiset [organisaation jäseniksi](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization).
 - Lisätkää projektin kuvaus GitHub-repositorion [`README.md`-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
   - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
     - Mikä on projektin nimi?
     - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
-    - Mitä toteutusteknologioita (esim. ohjelmointikieltä tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
+    - Mitä toteutusteknologioita (esim. ohjelmointikieltä tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään? Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten GitHub-käyttäjätunnukset ja linkit tiimiläisten GitHub-profiileihin.
 - `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutustua tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
 - [Awesome README](https://github.com/matiassingers/awesome-readme) on kuratoitu lista hyvistä `README.md`-tiedostoista GitHub-repositorioissa, jota voi käyttää inspiraationa.
