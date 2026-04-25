@@ -15,7 +15,7 @@ Sprintin tavoitteet projektille:
 - ⭐ Bonus: Voitte halutessanne hyödyntää joissakin koodikatselmoinneissa [GitHubin Copilot-tekoälyagenttia](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review). Tämä vaatii [GitHub Education](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) -lisenssin aktivointia.
 - Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Sovellus on julkaistu tuotantoympäristössä.
-- Projektin dokumentaatioon on lisätty toteutusteknologiat (ohjelmointikielet ja niiden versiot sekä olennaisimmat kirjastot) ja tekniset käyttöohjeet (esim. sovelluksen käynnistäminen komentoriviltä).
+- `README.md`-tiedostossa on dokumentoitu toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja olennaisimmat kirjastot) ja tekniset käyttöohjeet (esim. sovelluksen käynnistäminen komentoriviltä).
 
 ## Viikko 1
 
@@ -33,9 +33,9 @@ Sprintin tavoitteet projektille:
   - [Spring Boot backend sovelluksen julkaisu](https://software-development-project-1.github.io/backend-deployment)
   - [Vite frontend sovelluksen julkaisu](https://software-development-project-1.github.io/frontend-deployment)
 - Lisätkää linkit sovelluksen julkaistuihin versioihin repositorion `README.md`-tiedostoon.
-- Edistäkää projektin dokumentaatiota. Ainakin sovelluksen tekninen käyttöohje (sovelluksen käynnistäminen, testien suoritus, jne.) ja toteutuksessa käytetyt toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja tärkeät kirjastot) on dokumentoitu.
-  - Hyödyntäkää REST API endpointtien dokumentoinnissa [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) löytyy esimerkkejä Swaggerin käytöstä. Lisätkää `README.md`-tiedostoon linkki Swagger dokumentaatioon (esim. <http://localhost:8080/swagger-ui/index.html> Spring Boot -sovelluksessa).
-- Toteuttakaa sovelluksen joitakin automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) voi ottaa mallia REST API:n integraatiotestaukseen.
+- Dokumentoikaa `README.md`-tiedostossa toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja olennaisimmat kirjastot) ja tekniset käyttöohjeet (esim. sovelluksen käynnistäminen komentoriviltä).
+- Hyödyntäkää REST API endpointtien dokumentoinnissa [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) löytyy esimerkkejä Swaggerin käytöstä. Lisätkää `README.md`-tiedostoon linkki Swagger dokumentaatioon (esim. <http://localhost:8080/swagger-ui/index.html> Spring Boot -sovelluksessa).
+- Toteuttakaa sovelluksen joitakin automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) voi ottaa mallia REST API endpointtien integraatiotestaukseen.
 
 ## Viikko 3
 
