@@ -11,7 +11,7 @@ Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-3).
 - Uusien toiminnallisuuksien sijaan on keskitytty olemassa olevien toiminnallisuuksien viimeistelyyn ja mahdollisten bugien korjaamiseen.
-- Projektille on määritelty [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
+- Projektille on määritelty [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) ja linkki lisenssitiedostoon on lisätty `README.md`-tiedostoon esim. [esimerkkisovelluksen](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/README.md?plain=1) mukaisesti.
 - `README.md`-tiedoston dokumentaatio on päivitetty vastaamaan projektin lopullista tilaa.
 - Projektille on valmisteltu esitys loppudemoa varten.
 
@@ -40,7 +40,7 @@ Sprintin tavoitteet projektille:
   - Toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja olennaisimmat kirjastot).
   - Tekniset käyttöohjeet (esim. sovelluksen käynnistys ja testien suoritus komentoriviltä).
   - Tietomallin kuvaus, mielellään esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen.
-  - Projektin [lisenssi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
+  - Linkki [lisenssitiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) on lisätty `README.md`-tiedostoon esim. [esimerkkisovelluksen](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/README.md?plain=1) mukaisesti. 
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
 - ⚠️ Valmistelkaa projektille _10-15 minuutin_ esitys ensi viikon loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminnallisuuksien esittelystä videonauhoite etukäteen. Käsitelkää loppudemossa ainakin seuraavat asiat:
   - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
