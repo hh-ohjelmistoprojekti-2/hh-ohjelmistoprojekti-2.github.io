@@ -9,7 +9,7 @@ nav_order: 4
 
 {: .warning }
 
-> Koodin laajamittainen tuottaminen generatiivisen tekoälyn työkaluilla (esim. ChatGPT tai Copilot) on kiellettyä, ellei sen tekemistä erikseen ohjeisteta. Sprint review -tapaamisissa opettaja voi pyytää tiimiläisiä perustelemaan teknisiä ratkaisuja ja perustelujen laatu vaikuttaa arviointiin.
+> **Tiimin täytyy ymmärtää projektin koko tekninen toteutus**, joten käyttäkää generatiivisen tekoälyn työkaluja (esim. ChatGPT tai Copilot) harkiten. Sprintin katselmointi -tapaamisissa opettaja voi pyytää tiimiläisiä kuvailemaan ja perustelemaan teknisiä ratkaisuja, ja teknisen toteutuksen ymmärrys vaikuttaa arviointiin.
 
 Sprintin tavoitteet projektille:
 
