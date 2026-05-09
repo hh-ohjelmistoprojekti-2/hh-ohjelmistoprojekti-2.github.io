@@ -26,7 +26,7 @@ Sprintin tavoitteet projektille:
 
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen **katselmointipyynnöt** _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
-- Toteuttakaa sovellukselle lisää testejä. Lukekaa [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa.
+- Toteuttakaa sovellukselle lisää testejä. Lukekaa [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa. Varmistakaa, että kaikkia projektin osia (esim. frontend ja backend) on testattu jollain tasolla automatisoiduilla testeillä.
 
 ## Viikko 3
 
