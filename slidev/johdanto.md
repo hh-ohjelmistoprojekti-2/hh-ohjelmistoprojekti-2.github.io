@@ -18,7 +18,7 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
 - Jokaisen iteraation aluksi tiimi suunnittelee iteraation aikana ohjelmistoon toteutettavat toiminnallisuudet
 - Iteraation aikana tiimi toteuttaa suunniteltuja toiminnallisuuksia itsenäisesti sekä opettajan ohjauksessa
 - Iteraation päätteeksi tiimi esittää opettajalle projektin edistymistä ja saa palautetta
-- Opetusta järjestetään viikoittain ja **läsnäolossa noudatetaan Haaga-Helian läsnäolokäytänteitä**. Aktiivinen läsnäolo vaikuttaa arviointiin
+- Opetusta järjestetään viikoittain ja **hyväksyttyyn arvosanaan vaaditaan 50%:n läsnäoloa**. Aktiivinen läsnäolo vaikuttaa arviointiin
 
 ---
 
@@ -29,8 +29,8 @@ Tervetuloa Ohjelmistoprojekti 2 -kurssille! 👋
   - Tiimin lopullisen tuloksen tarkoituksenmukaiseen toimivuuteen
   - Kurssin lopuksi yksilötyönä tehtävään loppuraporttiin, jossa arvioidaan omaa ja tiimin toimintaa
 - Arviointi koostuu tiimin tuotoksesta ja tiimin jäsenen omasta panoksesta projektin eteen. Jokainen tiimissä **ei siis välttämättä saa samaa arvosanaa**
-- Arvioinnin tukena käytetään kurssin aikana tehtävää itse- ja vertaisarviointia
-- Tarkat arviointikriteerit löytyvät kurssisivulta
+- Arvioinnin tukena käytetään kurssin lopuksi tehtävää itse- ja vertaisarviointia
+- Tarkat arviointikriteerit löytyvät kurssimateriaalin "Arviointiperusteet"-sivulta
 
 ---
 

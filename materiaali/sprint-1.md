@@ -60,7 +60,7 @@ gitGraph
 
 ## Viikko 3
 
-- **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**. Katselmointi pidetään opettajille ja kurssin muille tiimeille. Esitelkää tiiminne jäsenet, kertokaa lyhyesti projektistanne (mm. projektin tarkoitus, tärkeimmät toiminnallisuudet, toteutuksessa hyödynnettävät teknologiat) ja esitelkää sprintin aikana toteutetut toiminnallisuudet.
+- **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**, johon osallistuu tiiminne ja opettaja. Kertokaa lyhyesti projektistanne (mm. projektin tarkoitus, tärkeimmät toiminnallisuudet, toteutuksessa hyödynnettävät teknologiat) ja esitelkää sprintin aikana toteutetut toiminnallisuudet.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Releasen voi nimetä sprintin numeron perusteella, esim. "Sprint 1". Tehkää releasen yhteydessä commit-historiaan uusi [tagi](https://git-scm.com/book/en/v2/Git-Basics-Tagging), esim. "sprint1". Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
 
 ```mermaid

@@ -18,7 +18,7 @@ Projektin arviointi koostuu seuraavista tekijöistä:
 - Projektin laajuus: toiminnallisuuden määrä ja sen monimutkaisuus.
 - Versionhallinta: toteutuksessa on hyödynnetty versionhallintaa (Git ja GitHub). Päähaarasta erillisiä feature-haaroja on hyödynnetty toiminnallisuuksien toteutukseen. Feature-haarojen pull requesteissa on tehty koodikatselmointeja. Sprinttien päätteeksi projektille on tehty GitHub release.
 - Tuotantoonvienti: kaikki projektin osat on viety tuotantoympäristöön. Ohjelmistoa viedään tuotantoon jatkuvasti, mielellään viikoittain.
-- Testaaminen: projektissa on automatisoituja testejä.
+- Testaaminen: kaikissa projektin osissa (esim. frontend ja backend) on jotain automatisoituja testejä.
 - Jatkuva integraatio: jatkuva integraatio (GitHub Actions) tekee vähintään onnistuneesti käännöksen ja suorittaa testit.
 - [Tiimien välisen koodikatselmoinnin](/koodikatselmointi) tekeminen
 - Prosessin noudattaminen: tiimi järjestää Scrum-prosessin mukaisia tapahtumia tarkoituksenmukaisesti ja ylläpitää projektin vaatimuksia backlogin avulla.
