@@ -9,10 +9,10 @@ plugins:
   - jekyll-feed
 mermaid:
   version: "11.4.1"
-teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi) ja Jukka Juslin (jukka.juslin@haaga-helia.fi)"
-teaching_sessions_text: "torstaisin klo 11:00 - 13:45 luokassa 5006 ja 5007 (sis. 40 min lounastauon)"
-final_deadline: "17.5. klo 23:59"
-project_deadline: "7.5. opetuskertaaan mennessä"
+teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi)"
+teaching_sessions_text: "maanantaisin klo 11:00 - 13:45 luokassa 5006 (sis. 40 min lounastauon)"
+final_deadline: "12.12. klo 23:59"
+project_deadline: "30.11. opetuskertaaan mennessä"
 callouts:
   important:
     title: Important

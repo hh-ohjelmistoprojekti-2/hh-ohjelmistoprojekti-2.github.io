@@ -22,3 +22,5 @@ Tältä sivulta löydät projektin toteutukseen liittyviä ohjeita.
   - [Include diagrams in your Markdown files with Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)
   - [Esimerkkisovelluksen tietomallin dokumentaatio](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/README.md?plain=1)
   - [Mermaid Playground](https://mermaid.live)
+- [Tekoälyagenttien ohjeistus repositoriossa AGENTS.md-tiedoston avulla](https://agents.md/)
+  - [Esimerkkisovelluksen AGENTS.md-tiedosto](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/AGENTS.md)
