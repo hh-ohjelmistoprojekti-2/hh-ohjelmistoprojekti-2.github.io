@@ -24,15 +24,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
-- Jatkakaa projektin edistämistä.
-
-## Viikko 3
-
-{: .highlight }
-> Projektin deadline on {{site.project_deadline}}, jolloin pidetään loppudemot.
-
-- Tehkää viimeisiä viimeistelyjä projektiin.
-- Varmistakaa, että `README.md`-tiedostossa on dokumentoitu vähintään seuraavat:
+- Viimeistelkää dokumentaatiota ja varmistakaa, että `README.md`-tiedostossa on dokumentoitu vähintään seuraavat:
   - Projektin nimi ja kuvaus (mm. mikä on projektin tarkoitus ja mitä toiminallisuuksia siitä löytyy).
   - Linkki backlogiin, esim. GitHub Projects -backlog.
   - Linkit tuotantoympäristöön julkaistuihin sovelluksiin (esim. backend ja frontend sovellukset).
@@ -41,8 +33,16 @@ Sprintin tavoitteet projektille:
   - Tekniset käyttöohjeet (esim. sovelluksen käynnistys ja testien suoritus komentoriviltä).
   - Tietomallin kuvaus, esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html), tai vastaavaa tietomallikaaviota hyödyntäen.
   - Linkki [lisenssitiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) on lisätty `README.md`-tiedostoon esim. [esimerkkisovelluksen](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/README.md?plain=1) mukaisesti. 
+- Jatkakaa projektin edistämistä.
+
+## Viikko 3
+
+{: .highlight }
+> Projektin deadline on {{site.project_deadline}}, jolloin pidetään loppudemot.
+
+- Tehkää viimeisiä viimeistelyjä projektiin.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
-- ⚠️ Valmistelkaa projektille _10-15 minuutin_ esitys ensi viikon loppudemoa varten. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminnallisuuksien esittelystä videonauhoite etukäteen. Käsitelkää loppudemossa ainakin seuraavat asiat:
+- ⚠️ **Valmistelkaa projektille 10-15 minuutin esitys ensi viikon loppudemoa varten**. "Demoefektien" välttämiseksi on suositeltavaa tehdä toiminnallisuuksien esittelystä videonauhoite etukäteen. Käsitelkää loppudemossa ainakin seuraavat asiat:
   - Minkä on sovelluksenne tarkoitus? Minkä ongelman se ratkaisee?
   - Millä toteutusteknologioilla (ohjelmointikielet, sovelluskehykset, tärkeät kirjastot) sovellus on toteutettu?
   - Mikä on sovelluksen arkkitehtuuri pääpiirteisesti (sovelluksen eri osien kommunikointi, esim. frontend, backend, tietokanta)? Tässä ei tarvitse mennä liiallisiin teknisiin yksityiskohtiin (esim. lähdekoodin näyttämiseen).

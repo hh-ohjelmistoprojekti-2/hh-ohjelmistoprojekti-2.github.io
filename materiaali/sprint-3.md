@@ -10,6 +10,7 @@ nav_order: 6
 Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
+- Ainakin osalle sprintin user storyista on tehty työmääräarviot ja ne on jollakin tavalla nähtävillä backlogissa.
 - Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti.
 - Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin kuvaus, jota havainnollistetaan esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
 
@@ -17,8 +18,11 @@ Sprintin tavoitteet projektille:
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
-- Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille. Keskustelkaa tiimin kesken user storyjen [työmääräarvioista](https://activecollab.com/blog/project-management/t-shirt-sizing). Merkitkää työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
+- Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille.
+- Keskustelkaa tiimin kesken user storyjen toteutuksen suhteellisesta työmäärästä ja muodostakaa ainakin osalle niistä [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing). Merkitkää työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
 - Alkakaa toteuttamaan backlogin user storyja.
+
+![Planning](/assets/planning.png){: width="500" }
 
 ## Viikko 2
 
