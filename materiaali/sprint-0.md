@@ -27,11 +27,16 @@ Sprintin tavoitteet projektille:
   - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat).
   - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita opettajan kanssa.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
-- Tehkää alustava MVP-suunnitelma projektista:
-  - Projektin tarkoitus tiivistettynä muutamaan virkkeeseen.
-  - Joitain oleellisimpia toiminnallisuuksia listattuna ja mahdollisesti priorisoituna, esimerkiksi "Käyttäjänä haluan pystyä lisäämään arvostelun kurssista".
-  - Suunnitelma ei ole "sitova", se voi muuttua projektin edetessä.
-  - Suunnitelmaa ei tarvitse palauttaa, mutta sitä käydään opettajan kanssa läpi ensi viikolla.
+- **Tehkää alustava MVP-suunnitelma projektista:**
+  - Lyhyt kuvaus (muutama virke), mikä ongelma tai tarve projektilla ratkaistaan, kenelle ratkaisu on tarkoitettu ja mitä projektissa ollaan tekemässä. Kuvailkaa myös, mikä on projektin tavoiteltu lopputulos.
+  - Listattuna vähintään viisi oleellista toiminallisuutta, esimerkiksi "Käyttäjänä haluan pystyä lisäämään arvostelun kurssista".
+  - Suunnitelma ei ole sitova, se voi muuttua projektin edetessä.
+  - Suunnitelmaa käydään läpi yhdessä tiimin ja opettajan kesken seuraavalla opetuskerralla.
+
+{: .highlight }
+
+> Lisätkää Moodlen "Projektin MVP-suunnitelma"-palautukseen edellä mainitun mukainen suunnitelma ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
+
 
 ## Viikko 2
 
@@ -56,4 +61,4 @@ Sprintin tavoitteet projektille:
 
 {: .highlight }
 
-> Lisätkää Moodlen "Projektin GitHub -repositorio"-palautukseen linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
+> Lisätkää Moodlen "Projektin GitHub-repositorio"-palautukseen linkki projektinne GitHub-repositorioon ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
