@@ -9,7 +9,7 @@ nav_order: 3
 
 Sprintin tavoitteet projektille:
 
-- Projektin aihe ja tärkeimmät toiminnallisuudet on pääpiirteittäin suunniteltu.
+- Projektin aihe ja tärkeimmät toiminnallisuudet ovat pääpiirteittäin suunniteltu.
 - Projektilla on GitHub-repositorio.
 - Repositoriossa on `README.md`-tiedosto, jossa on projektin alustava kuvaus.
 - Projektille on tehty backlog.
@@ -27,15 +27,15 @@ Sprintin tavoitteet projektille:
   - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat).
   - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita opettajan kanssa.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
-- **Tehkää alustava MVP-suunnitelma projektista:**
-  - Lyhyt kuvaus (muutama virke), mikä ongelma tai tarve projektilla ratkaistaan, kenelle ratkaisu on tarkoitettu ja mitä projektissa ollaan tekemässä. Kuvailkaa myös, mikä on projektin tavoiteltu lopputulos.
-  - Listattuna vähintään viisi oleellista toiminallisuutta, esimerkiksi "Käyttäjänä haluan pystyä lisäämään arvostelun kurssista".
-  - Suunnitelma ei ole sitova, se voi muuttua projektin edetessä.
+- **Tehkää alustava projektisuunnitelma projektistanne:**
+  - Kuvailkaa lyhyesti, mikä ongelma tai tarve projektilla ratkaistaan, kenelle ratkaisu on tarkoitettu ja mitä projektissa ollaan tekemässä. Kuvailkaa myös, mikä on projektin tavoiteltu lopputulos.
+  - Listatkaa lisäksi vähintään viisi oleellista toiminnallisuutta, esimerkiksi _"Käyttäjänä haluan pystyä lisäämään arvostelun kurssista"_.
+  - Suunnitelma ei ole sitova, vaan se voi muuttua projektin edetessä.
   - Suunnitelmaa käydään läpi yhdessä tiimin ja opettajan kesken seuraavalla opetuskerralla.
 
 {: .highlight }
 
-> Lisätkää Moodlen "Projektin MVP-suunnitelma"-palautukseen edellä mainitun mukainen suunnitelma ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
+> Lisätkää Moodlen "Projektisuunnitelma"-palautukseen edellä mainitun mukainen suunnitelma ennen seuraavan viikon opetuskertaa. Riittää, että yksi tiimiläisistä tekee palautuksen.
 
 
 ## Viikko 2
