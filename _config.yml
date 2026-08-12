@@ -10,9 +10,9 @@ plugins:
 mermaid:
   version: "11.4.1"
 teacher_text: "Kalle Ilves (kalle.ilves@haaga-helia.fi)"
-teaching_sessions_text: "maanantaisin klo 11:00 - 13:45 luokassa 5007 (sis. 40 min lounastauon)"
+teaching_sessions_text: "maanantaisin klo 11:00 - 13:45 luokassa 5007 (sis. 45 min lounastauon)"
 final_deadline: "12.12. klo 23:59"
-project_deadline: "30.11. opetuskertaaan mennessä"
+project_deadline: "30.11. opetuskertaan mennessä"
 callouts:
   important:
     title: Important
