@@ -18,14 +18,14 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
-- [Opetustilaisuuden kalvot](../kalvot/johdanto.pdf)
+- [Opetustilaisuuden kalvot](https://github.com/hh-ohjelmistoprojekti-2/hh-ohjelmistoprojekti-2.github.io/blob/main/kalvot/johdanto.pdf)
 - Kurssin käytäntöjen ja tavoitteiden käsittely.
 - Ketterä ohjelmistokehitys ja Scrum.
 - Jakautuminen tiimeihin. Tiimin tavoitekoko on 4-5 henkilöä.
 - Projektiaiheiden pohtiminen tiimin kesken.
   - Pitäkää aiheen laajuus kurissa ja lähtekää liikkeelle [MVP](https://tuotejohtaminen.fi/mita-tarkoittaa-mvp-ja-mita-ei/)-toteutuksella. Kurssilla toteutetaan ohjelmistoa sillä ajatuksella, että se tulisi oikeasti käyttöön.
   - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat).
-  - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita opettajan kanssa.
+  - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita yhdessä opettajan kanssa.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 - **Tehkää alustava projektisuunnitelma projektistanne:**
   - Kuvailkaa lyhyesti, mikä ongelma tai tarve projektilla ratkaistaan, kenelle ratkaisu on tarkoitettu ja mitä projektissa ollaan tekemässä. Kuvailkaa myös, mikä on projektin tavoiteltu lopputulos.
@@ -44,7 +44,7 @@ Sprintin tavoitteet projektille:
 - Lisätkää projektin kuvaus GitHub-repositorion [`README.md`-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
   - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
     - Mikä on projektin nimi?
-    - Mikä on toteuttavan sovelluksen tarkoitus?
+    - Mikä on toteutettavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään? Teknologioita ei tarvitse lukita tässä vaiheessa, ne voivat muuttua projektin edetessä.
   - Tiimin jäsenten GitHub-käyttäjätunnukset ja linkit tiimiläisten GitHub-profiileihin.
