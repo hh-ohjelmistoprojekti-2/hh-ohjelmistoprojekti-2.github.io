@@ -18,15 +18,14 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
-- [Opetustilaisuuden kalvot](https://github.com/hh-ohjelmistoprojekti-2/hh-ohjelmistoprojekti-2.github.io/blob/main/kalvot/johdanto.pdf)
-- Kurssin käytäntöjen ja tavoitteiden käsittely.
-- Ketterä ohjelmistokehitys ja Scrum.
-- Jakautuminen tiimeihin. Tiimin tavoitekoko on 4-5 henkilöä.
-- Projektiaiheiden pohtiminen tiimin kesken.
-  - Pitäkää aiheen laajuus kurissa ja lähtekää liikkeelle [MVP](https://tuotejohtaminen.fi/mita-tarkoittaa-mvp-ja-mita-ei/)-toteutuksella. Kurssilla toteutetaan ohjelmistoa sillä ajatuksella, että se tulisi oikeasti käyttöön.
-  - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat).
+- [Ensimmäisen opetuskerran kalvot](https://github.com/hh-ohjelmistoprojekti-2/hh-ohjelmistoprojekti-2.github.io/blob/main/kalvot/johdanto.pdf):
+  - Kurssin käytäntöjen ja tavoitteiden käsittely.
+  - Ketterä ohjelmistokehitys ja Scrum-viitekehys kurssin kontekstissa.
+- Jakaudutaan tiimeihin, jossa tiimi alkaa suunnittelemaan projektiaan. Tiimin tavoitekoko on 4-5 henkilöä.
+- Keskustelkaa tiimin kesken opettajan ohjauksessa projektinne aiheesta.
+  - Pitäkää aiheen laajuus kurissa ja lähtekää liikkeelle mahdollisimman karsitusta, [MVP](https://tuotejohtaminen.fi/mita-tarkoittaa-mvp-ja-mita-ei/)-toteutuksesta. Kurssilla toteutetaan ohjelmistoa sillä ajatuksella, että se tulisi oikeasti käyttöön.
+  - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat). Esimerkiksi GitHub-repositorioiden arvostelusovellus voi yhdistää [GitHub API:n](https://docs.github.com/en/rest) tarjoamaa dataa erillistä tietokantaa.
   - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita yhdessä opettajan kanssa.
-- Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 - **Tehkää alustava projektisuunnitelma projektistanne:**
   - Kuvailkaa lyhyesti, mikä ongelma tai tarve projektilla ratkaistaan, kenelle ratkaisu on tarkoitettu ja mitä projektissa ollaan tekemässä. Kuvailkaa myös, mikä on projektin tavoiteltu lopputulos.
   - Listatkaa lisäksi vähintään viisi oleellista toiminnallisuutta, esimerkiksi _"Käyttäjänä haluan pystyä lisäämään arvostelun kurssista"_.
