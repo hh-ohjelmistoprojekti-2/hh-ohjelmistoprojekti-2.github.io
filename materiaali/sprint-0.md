@@ -24,7 +24,7 @@ Sprintin tavoitteet projektille:
 - Jakaudutaan tiimeihin, jossa tiimi alkaa suunnittelemaan projektiaan. Tiimin tavoitekoko on 4-5 henkilöä.
 - Keskustelkaa tiimin kesken opettajan ohjauksessa projektinne aiheesta.
   - Pitäkää aiheen laajuus kurissa ja lähtekää liikkeelle mahdollisimman karsitusta, [MVP](https://tuotejohtaminen.fi/mita-tarkoittaa-mvp-ja-mita-ei/)-toteutuksesta. Kurssilla toteutetaan ohjelmistoa sillä ajatuksella, että se tulisi oikeasti käyttöön.
-  - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat). Esimerkiksi GitHub-repositorioiden arvostelusovellus voi yhdistää [GitHub API:n](https://docs.github.com/en/rest) tarjoamaa dataa erillistä tietokantaa.
+  - Projektissa voi hyödyntää oman tietokannan lisäksi [avoimen rajapinnan tarjoavia palveluita](/avoimet-rajapinnat). Esimerkiksi GitHub-repositorioiden arvostelusovellus voi yhdistää [GitHub API:n](https://docs.github.com/en/rest) tarjoamaa dataa ja erillistä tietokantaa.
   - Jos ette keksi aihetta tiimin kesken, ideoikaa aiheita yhdessä opettajan kanssa.
 - **Tehkää alustava projektisuunnitelma projektistanne:**
   - Kuvailkaa lyhyesti, mikä ongelma tai tarve projektilla ratkaistaan, kenelle ratkaisu on tarkoitettu ja mitä projektissa ollaan tekemässä. Kuvailkaa myös, mikä on projektin tavoiteltu lopputulos.
