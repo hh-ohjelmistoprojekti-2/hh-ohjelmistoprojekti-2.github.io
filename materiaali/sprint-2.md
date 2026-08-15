@@ -20,8 +20,8 @@ Sprintin tavoitteet projektille:
 ## Viikko 1
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
-- Järjestäkää retrospektiivi [Mad, sad, glad](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective) -formaatissa, jossa käsittelette edellisen sprintin onnistumisia ja haasteita.
-  - Kerätkää scrum masterin johdolla tiimiltä sprintin aikaisia kokemuksia ja keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
+- Järjestäkää scrum masterin johdolla retrospektiivi [Mad, sad, glad](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective) -formaatissa, jossa käsittelette edellisen sprintin onnistumisia ja haasteita.
+  - Kerätkää sprintin aikaisia kokemuksia ja keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
   - Hyödyntäkää jotain valkotaulusovellusta, kuten [Flinga](https://edu.flinga.fi/), retrospektiivin järjestämisessä.
 - Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille.
 - Alkakaa toteuttamaan backlogin user storyja.
