@@ -9,8 +9,8 @@ nav_order: 3
 
 Sprintin tavoitteet projektille:
 
-- Projektin aihe ja tärkeimmät toiminnallisuudet ovat pääpiirteittäin suunniteltu.
-- Projektilla on GitHub-repositorio.
+- Projektisuunnitelmaan on kirjattu projektin aiheen kuvaus ja tärkeimmät toiminallisuudet.
+- Tiimin jäsenet on lisätty GitHub organisaatioon ja projektille on tehty GitHub-repositorio.
 - Repositoriossa on `README.md`-tiedosto, jossa on projektin alustava kuvaus.
 - Projektille on tehty backlog.
 - Ensimmäistä sprinttiä varten on muodostettu user storyt ja ne on lisätty backlogille.

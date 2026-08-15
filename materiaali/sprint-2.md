@@ -19,6 +19,8 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
+> _"The mad sad glad retrospective frames discussion around the emotional journey of by your team during the previous sprint, and is a great way to identify opportunities to improve team morale and job satisfaction. The retrospective asks participants to share what made them feel frustrated or annoyed (mad), disappointed (sad) and what made them feel happy or proud (glad)."_ ⎯ [Mad Sad Glad Retrospective (TeamRetro)](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective)
+
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää scrum masterin johdolla retrospektiivi [Mad, sad, glad](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective) -formaatissa, jossa käsittelette edellisen sprintin onnistumisia ja haasteita.
   - Kerätkää sprintin aikaisia kokemuksia ja keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
@@ -41,8 +43,10 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 3
 
+> _"Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It’s a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run. Automated tools are used to assert the new code’s correctness before integration."_ ⎯  [What is continous integration? (Atlassian)](https://www.atlassian.com/continuous-delivery/continuous-integration)
+
 - **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**. Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Jos mahdollista, esitelkää katselmoinnissa sovelluksen toiminnallisuuksia tuotantoympäristössä.
-- _Jatkuva integraatio_ mahdollistaa automatisoidun laadunhallinnan ohjelmistoprojekteissa. Lukekaa GitHubin [Continuous integration](https://docs.github.com/en/actions/get-started/continuous-integration) -ohje ja ottakaa projektissanne käyttöön jatkuva integraatio [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) -palvelun avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JARin muodostus Maven-projektissa `./mvnw package`-komennolla). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) löytyy GitHub Actions workflow-esimerkki.
+- _Jatkuva integraatio_ (continuous integration) mahdollistaa automatisoidun laadunhallinnan ohjelmistoprojekteissa. Lukekaa GitHubin [Continuous integration](https://docs.github.com/en/actions/get-started/continuous-integration) -ohje ja ottakaa projektissanne käyttöön jatkuva integraatio [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) -palvelun avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja varmistaa, että ohjelma kääntyy (esim. JARin muodostus Maven-projektissa `./mvnw package`-komennolla). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/.github/workflows/ci.yml) löytyy GitHub Actions workflow-esimerkki.
 - Lisätkää GitHub Actions workflow [status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge) `README.md`-tiedoston alkuun.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
 

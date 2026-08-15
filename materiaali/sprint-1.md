@@ -30,6 +30,8 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
+> _"The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead of the main branch. This encapsulation makes it easy for multiple developers to work on a particular feature without disturbing the main codebase."_ ⎯ [Git feature branch workflow (Atlassian)](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+
 - Pitäkää ensimmäinen [daily scrum](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) -palaveri, jossa seuraatte sprintin edistymistä. Hyödyntäkää tapaamisessa backlogia. Aloittakaa jatkossa jokainen tiimin tapaaminen daily scrum -palaverilla.
 - Lukekaa [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) ja [Git feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) -ohjeet.
 - Toteuttakaa ainakin joitain toiminnallisuuksia erillisissä feature-haaroissa. Yhdistäkää feature-haarat päähaaraan [pull requestin](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) avulla. Jos haarassa on konflikteja päähaaran kanssa, ne voi ratkaista [tämän](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) ohjeen mukaisesti. _Pitäkää feature-haarojen muutokset pieninä_ (enintään yhden user storyn toteutus) ja _yhdistäkää ne päähaaraan, kun toteutus on valmis_. Näin vältetään nk. ["Merge hell"](https://threkk.medium.com/escaping-a-git-merge-hell-e08f37511f37).
@@ -59,6 +61,9 @@ gitGraph
 ![Pull request](/assets/pr.webp){: width="500" }
 
 ## Viikko 3
+
+> _"Releases are deployable software iterations you can package and make available for a wider audience to download and use."
+> ⎯ [About releases (GitHub)](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 
 - **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**, johon osallistuu tiiminne ja opettaja. Kertokaa lyhyesti projektistanne (mm. projektin tarkoitus, tärkeimmät toiminnallisuudet, toteutuksessa hyödynnettävät teknologiat) ja esitelkää sprintin aikana toteutetut toiminnallisuudet.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Releasen voi nimetä sprintin numeron perusteella, esim. "Sprint 1". Tehkää releasen yhteydessä commit-historiaan uusi [tagi](https://git-scm.com/book/en/v2/Git-Basics-Tagging), esim. "sprint1". Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
