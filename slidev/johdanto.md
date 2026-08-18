@@ -103,20 +103,7 @@ image: scrum-prosessi.png
 
 ---
 
-## Tiimien muodostaminen ja aiheen ideointi
-
-1. Jakaudutaan noin 4–5 hengen tiimeihin
-2. Tehkää tiimin sisällä lyhyt esittelykierros. Jokainen voi kertoa vuorollaan esimerkiksi:
-   - Minkälainen tausta on opinnoissa tai mahdollisesti työelämässä?
-   - Mitkä ovat omat kiinnostuksen kohteet ohjelmistokehityksessä?
-   - Mitkä ovat omat vahvuusalueet ohjelmointikielissä tai muissa toteutusteknologioissa?
-   - Mitä odotuksia on kurssin suhteen?
-3. Valitkaa tiimillenne nimi
-4. Alkakaa ideoimaan yhdessä ohjelmistoprojektin aihetta
-
----
-
-## Aiheen valinta ja rajaus
+## Projektin aiheen valinta ja rajaus
 
 - Projektissa ei välttämättä ole ulkoista tuoteomistajaa, vaan **tiimi toimii itse tuoteomistajan roolissa**
 - Tiimi joutuu tällöin itse määrittelemään projektin vaatimuksia ja priorisoimaan niitä
@@ -127,10 +114,26 @@ image: scrum-prosessi.png
 
 ---
 
-## Aiheen valinta ja rajaus
+## Projektin aiheen valinta ja rajaus
 
 > _"Keep it simple, stupid!"_
 >
 > ⎯ KISS-periaate
 
 - Yksinkertainen ja toimiva sovellus on käyttäjän kannalta mielekkäämpi kuin suuret ja yksityiskohtaiset suunnitelmat hienosta sovelluksesta, jota ei koskaan ehditty toteuttaa
+
+---
+
+## Tiimien muodostaminen ja aiheen ideointi
+
+1. Jakaudutaan noin 4–5 hengen tiimeihin
+2. Tehkää tiimin sisällä lyhyt esittelykierros. Jokainen voi kertoa vuorollaan esimerkiksi:
+   - Minkälainen tausta on opinnoissa tai mahdollisesti työelämässä?
+   - Mitkä ovat omat kiinnostuksen kohteet ohjelmistokehityksessä?
+   - Mitkä ovat omat vahvuusalueet ohjelmointikielissä tai muissa toteutusteknologioissa?
+   - Mitä odotuksia on kurssin suhteen?
+3. Valitkaa tiimillenne nimi
+4. Alkakaa ideoimaan yhdessä ohjelmistoprojektin aihetta
+5. Kun aihe alkaa hahmottua, tehkää projektisuunnitelma kurssimateriaalin Sprint 0 -sivun Viikko 1 -osion ohjeiden mukaisesti
+
+

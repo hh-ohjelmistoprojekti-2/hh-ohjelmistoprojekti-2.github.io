@@ -39,6 +39,7 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 2
 
+- Keskustelkaa tiimin kesken projektin toteutusteknologioista (esim. Spring Boot backend-toteutuksessa ja React frontend-toteutuksessa). Hyödyntäkää teknologiapäätöksissä tiimin osaamista, mutta on suositeltavaa myös kokeilla sopivissa määrin uusia teknologioita.
 - Luokaa tiimillenne [GitHub-organisaatio](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) ja organisaatioon projektille [GitHub-repositorio](https://docs.github.com/en/get-started/quickstart/create-a-repo). Lisätkää kaikki tiimiläiset [organisaation jäseniksi](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization).
 - Lisätkää projektin kuvaus GitHub-repositorion [`README.md`-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
   - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
@@ -49,13 +50,12 @@ Sprintin tavoitteet projektille:
   - Tiimin jäsenten GitHub-käyttäjätunnukset ja linkit tiimiläisten GitHub-profiileihin.
 - `README.md`-tiedostossa käytettävään Markdown-syntaksiin voi tutustua tarkemmin [täällä](https://www.markdownguide.org/basic-syntax/).
 - [Awesome README](https://github.com/matiassingers/awesome-readme) on kuratoitu lista hyvistä `README.md`-tiedostoista GitHub-repositorioissa, jota voi käyttää inspiraationa.
-- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)-alustaa. User storyt kannattaa toteuttaa [GitHub issueina](https://github.com/features/issues). Lisätkää linkki backlogiin `README.md`-tiedostoon.
+- Luokaa projektille backlog. Backlog-alustaksi suositellaan [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)-alustaa. User storyt kannattaa toteuttaa [GitHub issueina](https://github.com/features/issues). **Lisätkää linkki backlogiin GitHub-repositorion `README.md`-tiedostoon**.
   - [Tämä video](https://www.youtube.com/watch?v=fFrq28RY1SQ) esittelee GitHub Projectsin ja Issueiden käyttöä.
 - Muodostakaa [user storyja](https://www.atlassian.com/agile/project-management/user-stories) (käyttäjätarinoita) ensimmäiselle sprintille ja lisätkää ne backlogille. Tehkää user storyista backlogille myös sopivissa määrin [taskeja](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task), jotka ovat teknisen toteutuksen tehtäviä, kuten _"REST API blogien listaamiselle"_.
   - User storyn formaation voi pitää lyhyenä, ilman perinteistä _"so that"_-osaa. Esimerkiksi _"Lukijana haluan nähdä listan blogeista"_.
   - [Tämä video](https://www.youtube.com/watch?v=F42FN6cZmA4) esittelee GitHubin sub-issueiden käyttöä, joita voi hyödyntää mm. selkeyttämään user storyjen ja taskien hierarkiaa. 
-- Lisätkää linkki backlogiin GitHub-repositorion `README.md`-tiedostoon
-- Varmistakaa, että _GitHub-repositorio ja backlog ovat julkisia_, jotta opettaja voi tarkastella niitä.
+- Varmistakaa, että **GitHub-repositorio ja backlog ovat julkisia**, jotta opettaja voi tarkastella niitä.
 - Tehkää projektin koodille runko. Toteutusteknologioista riippuen voitte alustaa projektin esim. [Spring Initializerin](https://start.spring.io/), tai [Viten](https://vite.dev/) avulla.
 
 {: .highlight }
