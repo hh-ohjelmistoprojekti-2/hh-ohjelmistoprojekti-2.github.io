@@ -105,3 +105,8 @@ nav_exclude: true
 * <https://www.tradingview.com/widget/advanced-chart/>
 
     > Osakekurssien graafeja embedded moodissa
+
+* <https://fineli.fi/fineli/fi/index>
+
+    >Fineli on Terveyden ja hyvinvoinnin laitoksen ylläpitämä elintarvikkeiden kansallinen koostumustietokanta.
+  
