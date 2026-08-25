@@ -16,6 +16,8 @@ Sprintin tavoitteet projektille:
 
 ## Viikko 1
 
+> _"People are bad at "how long will this take?". They're good at "is this bigger than the one you already shipped". Relative estimation uses the second question, and that's the whole trick. Absolute estimation asks for a duration — and humans are predictably bad at it. We round optimistically, miss the compounding work, and forget the hidden parts. Relative estimation asks for a comparison instead, and we're surprisingly good at that: we can see sizes side by side without committing to any single number of hours."_ ⎯ [Relative vs absolute estimation (TeamRetro)](https://www.teamretro.com/guides/agile-estimation-guide/relative-vs-absolute-estimation/)
+
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää scrum masterin johdolla [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
 - Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille.
