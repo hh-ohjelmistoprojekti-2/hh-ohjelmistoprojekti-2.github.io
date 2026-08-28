@@ -23,8 +23,8 @@ Sprintin tavoitteet projektille:
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää scrum masterin johdolla retrospektiivi [Mad, sad, glad](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective) -formaatissa, jossa käsittelette edellisen sprintin onnistumisia ja haasteita.
-  - Kerätkää sprintin aikaisia kokemuksia ja keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
-  - Hyödyntäkää jotain valkotaulusovellusta, kuten [Flinga](https://edu.flinga.fi/), retrospektiivin järjestämisessä.
+  - Hyödyntäkää jotain valkotaulusovellusta, kuten [Flinga](https://edu.flinga.fi/), retrospektiivin järjestämisessä. [Tässä](https://edu.flinga.fi/s/E2L5YL9) esimerkki retrospektiivitaulusta Flingassa.
+  - Kerätkää retrospektiivitaululle sprintin aikaisia kokemuksia ja keksikää yhdessä _konkreettisia parannusehdotuksia_ prosessillenne tulevaa sprinttiä varten.
 - Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille.
 - Alkakaa toteuttamaan backlogin user storyja.
 
