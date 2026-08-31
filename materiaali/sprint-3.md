@@ -20,6 +20,7 @@ Sprintin tavoitteet projektille:
 
 - Valitkaa sprintille uusi [scrum master](https://www.scrum.org/resources/what-is-a-scrum-master).
 - Järjestäkää scrum masterin johdolla [retrospektiivi](https://www.teamretro.com/retrospectives/mad-sad-glad-retrospective), jossa käsittelette edellisen sprintin onnistumisia ja haasteita. Keksikää konkreettisia parannusehdotuksia prosessillenne tulevaa sprinttiä varten.
+  - Hyödyntäkää jotain valkotaulusovellusta, kuten [Flinga](https://edu.flinga.fi/), retrospektiivin järjestämisessä. [Tässä](https://edu.flinga.fi/s/E2L5YL9) esimerkki retrospektiivitaulusta Flingassa.
 - Muodostakaa sprinttiä varten user storyja sekä niihin liittyviä taskeja ja lisätkää ne backlogille.
 - Keskustelkaa tiimin kesken user storyjen toteutuksen suhteellisesta työmäärästä ja muodostakaa ainakin osalle niistä [työmääräarviot](https://activecollab.com/blog/project-management/t-shirt-sizing). Merkitkää työmääräarviot (esim. "t-shirt size"-skaalalla) backlogin user storyihin (esim. [labeleina](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)).
 - Alkakaa toteuttamaan backlogin user storyja.
