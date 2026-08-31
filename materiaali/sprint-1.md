@@ -19,6 +19,7 @@ Sprintin tavoitteet projektille:
 - Sprintille on tehty GitHub release.
 - Sprintin katselmointia varten on valmisteltu lyhyt demo sprintin aikana toteutetuista toiminnallisuuksista.
 - Fullstack-projektissa (frontend kutsuu backendin REST API endpointteja) kannattaa hyödyntää [token-pohjaista autentikaatiota](https://www.jwt.io/introduction). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/authentication-flow.md) löytyy esimerkki frontend- ja backend-toteutuksesta.
+   - On myös mahdollistaa toteuttaa autentikaatio hyödyntämällä palveluita, kuten [GitHub](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app) tai [Google](https://developers.google.com/identity/protocols/oauth2), jotka tarjoavat OAuth-protokollaan perustuvan autentikaation palvelun kautta.
 
 ## Viikko 1
 

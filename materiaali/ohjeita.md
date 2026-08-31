@@ -17,6 +17,7 @@ Tältä sivulta löydät projektin toteutukseen liittyviä ohjeita.
 - Token-pohjainen autentikaatio:
   - [Introduction to JSON Web Tokens](https://www.jwt.io/introduction)
   - [Esimerkkisovelluksen token-pohjaisen autentikaation toteutus](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/authentication-flow.md)
+- Esimerkkejä OAuth-protokollaan perustuvan autentikaation tarjoavista palveluista: [GitHub](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app) ja [Google](https://developers.google.com/identity/protocols/oauth2)
 - [Swagger REST API dokumentaatio](https://www.baeldung.com/spring-rest-openapi-documentation)
 - Kaaviot Markdown-tiedostoissa:
   - [Include diagrams in your Markdown files with Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)
