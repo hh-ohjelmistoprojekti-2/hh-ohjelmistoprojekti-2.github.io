@@ -11,7 +11,7 @@ Kurssilla on viikoittaisia opetustilaisuuksia {{site.teaching_sessions_text}}. L
 
 {: .highlight }
 
-> Etenkin ensimmäisen viikon opetustilaisuuteen osallistuminen on erityisen tärkeää, koska silloin muodostetaan projektien tiimit.
+> Kurssiosallistuminen vahvistetaan osallistumalla ensimmäisen viikon opetuskerralle. Ensimmäisen viikon opetustilaisuuden aikana muodostetaan projektien tiimit.
 
 Kurssi etenee kolmen viikon sprinteissä. Sprinttien aikana järjestetään Scrum-prosessin mukaisia tapahtumia:
 
