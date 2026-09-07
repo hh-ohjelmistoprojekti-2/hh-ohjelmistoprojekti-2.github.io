@@ -63,7 +63,7 @@ gitGraph
 
 ## Viikko 3
 
-> _"Releases are deployable software iterations you can package and make available for a wider audience to download and use."
+> _"Releases are deployable software iterations you can package and make available for a wider audience to download and use."_
 > ⎯ [About releases (GitHub)](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 
 - **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**, johon osallistuu tiiminne ja opettaja. Kertokaa lyhyesti projektistanne (mm. projektin tarkoitus, tärkeimmät toiminnallisuudet, toteutuksessa hyödynnettävät teknologiat) ja esitelkää sprintin aikana toteutetut toiminnallisuudet.
