@@ -27,7 +27,7 @@ Projektin arviointi koostuu seuraavista tekijöistä:
 
 Jokaisen tiimiläisen arviointi koostuu seuraavista tekijöistä:
 
-- Läsnäolo opetustilaisuuksissa ja niissä työskentely tilaisuuksien teemojen mukaisesti. Erityisen tärkeää on osallistuminen Scrumin mukaisiin _sprint review ja retrospektiivitapahtumiin_.
+- Läsnäolo opetustilaisuuksissa ja niissä työskentely tilaisuuksien teemojen mukaisesti. Erityisen tärkeää on osallistuminen jokaisen sprintin ensimmäisellä viikolla, jolloin järjestetään sprintin katselmointi, sprintin suunnittelu ja retrospektiivi.
 - Projektiin liittyvä kommunikointi opetustilaisuuksien ulkopuolella.
 - Tekniset kontribuutiot (toimivan koodin tuottaminen, tekninen suunnittelu, pariohjelmointi).
 - Projektinhallinnan ja dokumentaation kontribuutiot.
