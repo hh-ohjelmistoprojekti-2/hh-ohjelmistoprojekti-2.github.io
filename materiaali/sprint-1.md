@@ -66,7 +66,10 @@ gitGraph
 > _"Releases are deployable software iterations you can package and make available for a wider audience to download and use."_
 > ⎯ [About releases (GitHub)](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 
-- **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**, johon osallistuu tiiminne ja opettaja. Kertokaa lyhyesti projektistanne (mm. projektin tarkoitus, tärkeimmät toiminnallisuudet, toteutuksessa hyödynnettävät teknologiat) ja esitelkää sprintin aikana toteutetut toiminnallisuudet.
+- **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**, johon osallistuvat tiiminne ja opettaja. Kertokaa lyhyesti projektistanne (mm. projektin tarkoitus, tärkeimmät toiminnallisuudet, toteutuksessa hyödynnettävät teknologiat) ja esitelkää sprintin aikana toteutetut toiminnallisuudet.
+  - Pyrkikää saamaan projektissa valmiiksi jokin pieni toimiva kokonaisuus.
+  - Käyttäkää mielekästä testidataa, "Foobar", "Lorem ipsum", "Testi" ym. täytesanojen sijaan. Tekoälyn hyödyntäminen testidatan generoinnissa on erittäin suositeltavaa.
+  - Päättäkää etukäteen, kuka tiimiläisistä esittelee sovellusta. Varmistakaa, että hänellä on toimiva versio sovelluksesta ennen seuraavaa opetuskertaa.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Releasen voi nimetä sprintin numeron perusteella, esim. "Sprint 1". Tehkää releasen yhteydessä commit-historiaan uusi [tagi](https://git-scm.com/book/en/v2/Git-Basics-Tagging), esim. "sprint1". Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.
 
 ```mermaid
