@@ -59,15 +59,15 @@ Sprintin tavoitteet projektille:
 
 Ennen kurssin päättymistä jokaisen tiimiläisen tulee vielä suorittaa seuraavat lopputoimenpiteet:
 
-- _Jokaisen tiimiläisen_ tulee kirjoittaa loppuraportti, jossa reflektoit omaa ja tiimisi työskentelyä. Palauta Moodlen "Loppuraportti"-palautukseen PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
+- **Jokaisen tiimiläisen tulee kirjoittaa loppuraportti**, jossa reflektoit omaa ja tiimisi työskentelyä. Palauta Moodlen "Loppuraportti"-palautukseen PDF-muotoinen loppuraportti, jossa käsittelet seuraavia teemoja:
   - Kuvaile tiiminne prosessia projektin kehittämisessä (Scrumin mukaiset tapahtumat, versionhallinnan ja jatkuvan integraation käyttö, backlogin hyödyntäminen, ym.). Mitä hyviä ja huonoja puolia prosessissa mielestäsi oli? Mitä kehittäisit prosessianne?
   - Mikä on projektinne tarkoitus? Miten hyvin toteutuksenne vastaa tätä tarkoitusta? Mitkä osat toteutuksesta on toteutettu mielestäsi erityisen hyvin? Entä missä on mahdollisesti puutteita?
   - Missä osa-alueissa onnistuitte _tiiminä_? Missä osa-alueissa jäi parantamisen varaa?
   - Missä osa-alueissa onnistuit _henkilökohtaisesti_? Missä osa-alueissa jäi parantamisen varaa?
   - Mitä opit kurssilla? Mistä olisit halunnut oppia enemmän?
-- _Jokaisen tiimiläisen_ tulee tehdä itse- ja vertaisarviointi. Linkki arviointilomakkeeseen lähetetään sähköpostitse. Ota yhteyttä opettajaan, jos et saa linkkiä lomakkeeseen.
+- **Jokaisen tiimiläisen tulee tehdä itse- ja vertaisarviointi**. Linkki vertaisarviointilomakkeeseen löytyy Moodle-alueen etusivulta "Tiimisi keskustelualue"-osiosta. Ota yhteyttä opettajaan, jos et löydä linkkiä lomakkeeseen.
 - Jotta projekti päätyy GitHub-portfolioosi, [forkkaa](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) projektinne repositorio omalle GitHub-profiilillesi. Parhaat repositoriot kannattaa "pinnata" profiiliin [tämän ohjeen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) mukaisesti.
 
 ## Arviointi
 
-Oman arvioinnin tiedot löytyvät Moodlen "Loppuraportti"-palautuksesta arvioinnin valmistuttua kurssin päättymisen jälkeen.
+Tiimin projektin arviointi julkaistaan Moodle-alueen etusivulta löytyvään "Tiimisi keskustelualue"-osioon. Yksittäisen tiimiläisen arvioinnin tarkemmat tiedot lisätään Moodlen "Loppuraportti"-palautuksen palautteeseen.

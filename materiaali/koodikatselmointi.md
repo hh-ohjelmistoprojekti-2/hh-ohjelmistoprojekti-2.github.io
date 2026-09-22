@@ -47,7 +47,7 @@ Lisätkää katselmointipyyntöön linkki koodeihinne sekä selkeästi eriteltyn
 ## Projektin katselmointi
 
 {: .highlight }
-> Löydätte katselmoitavan repositorion linkin Moodle-alueen etusivulta "Tiimit"-osiosta tiiminne kohdalta.
+> Löydätte katselmoitavan repositorion linkin Moodle-alueen etusivulta "Tiimisi keskustelualue"-osiosta.
 
 Katselmointi suositellaan tehtäväksi koko tiimin voimin joko lähityöskentelynä tai hyödyntäen esimerkiksi Discordia tai ruudunjakoa. Katselmoinnin yhteydessä käytävä keskustelu on myös erinomainen tilaisuus oppia itse.
 

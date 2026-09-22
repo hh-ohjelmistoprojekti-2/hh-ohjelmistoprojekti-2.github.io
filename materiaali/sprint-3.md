@@ -11,7 +11,7 @@ Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
 - Ainakin osalle sprintin user storyista on tehty työmääräarviot ja ne on jollakin tavalla nähtävillä backlogissa.
-- Testausta on laajennettu. Jatkuva integraatio suorittaa testit onnistuneesti.
+- Testausta on laajennettu ja kaikkia projektin osia (esim. frontend ja backend) on testattu jollain tasolla automatisoiduilla testeillä. Jatkuva integraatio suorittaa testit onnistuneesti.
 - Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin kuvaus, jota havainnollistetaan esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
 
 ## Viikko 1
@@ -39,7 +39,7 @@ Sprintin tavoitteet projektille:
 
 {: .highlight }
 
-> Tämän viikon aikana vertaisryhmät tekevät toisilleen **koodikatselmoinnin** edellisen viikon katselmointipyynnön pohjalta ja toimittavat sen _ennen seuraavaa opetuskertaa_. Lukekaa koodikatselmoinnin ohjeet [täältä](/koodikatselmointi).
+> Tämän viikon aikana vertaisryhmät tekevät toisilleen **koodikatselmoinnin** edellisen viikon katselmointipyynnön pohjalta ja toimittavat sen _ennen seuraavaa opetuskertaa_. Lukekaa koodikatselmoinnin ohjeet [täältä](/koodikatselmointi). Löydätte katselmoitavan repositorion linkin Moodle-alueen etusivulta "Tiimisi keskustelualue"-osiosta.
 
 - **Valmistelkaa lyhyt demo sprintin tuotoksista seuraavan opetuskerran sprintin katselmointia varten**. Varmistakaa, että tuotantoympäristössä on sovelluksen toimiva versio ennen sprintin katselmointia. Esitelkää katselmoinnissa sovelluksen toiminnallisuuksia tuotantoympäristössä.
 - Tehkää sprintin päätteeksi sprintille [GitHub release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Lisätkää releasen kuvaukseen lyhyt kuvaus sprintin aikana toteutetuista toiminnallisuuksista.

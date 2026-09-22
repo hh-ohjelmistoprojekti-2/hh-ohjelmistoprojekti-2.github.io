@@ -11,8 +11,8 @@ Sprintin tavoitteet projektille:
 
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-1).
 - Ainakin osassa feature-haarojen pull requesteissa on tehty [koodikatselmointeja](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) ja ne on mergattu päähaaraan vasta koodikatselmoinnin jälkeen. [How to Review a Pull Request in GitHub the RIGHT Way](https://www.youtube.com/watch?v=lSnbOtw4izI) -video esittelee GitHubin koodikatselmointiprosessia.
-- ⭐ Bonus: Voitte halutessanne hyödyntää joissakin koodikatselmoinneissa [GitHubin Copilot-tekoälyagenttia](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review). Tämä vaatii [GitHub Education](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) -lisenssin aktivointia.
-- Sovellukselle on toteutettu joitain testejä ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
+  - ⭐ Bonus: Voitte halutessanne hyödyntää joissakin koodikatselmoinneissa [GitHubin Copilot-tekoälyagenttia](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review). Tämä vaatii [GitHub Education](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) -lisenssin aktivointia.
+- Sovellukselle on toteutettu joitain automatisoituja testejä (esim. yksikkötestejä) ja ne suoritetaan onnistuneesti jatkuvan integraation avulla.
 - Sovellus on julkaistu tuotantoympäristössä ja linkki julkaistuun sovellukseen on lisätty `README.md`-tiedostoon.
 - `README.md`-tiedostossa on dokumentoitu toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja olennaisimmat kirjastot) ja tekniset käyttöohjeet (esim. sovelluksen käynnistäminen ja testien suorittaminen komentoriviltä).
 - REST API endpointit (jos toteutettu) on dokumentoitu hyödyntäen esim. [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-työkalua.
@@ -39,7 +39,7 @@ Sprintin tavoitteet projektille:
   - [Tässä](https://petstore.swagger.io/) esimerkki, miltä Swaggerin avulla generoitu dokumentaatio näyttää.
   - [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/main/java/fi/haagahelia/messenger/controller/MessageRestController.java) löytyy esimerkkejä Swaggerin käytöstä.
   - Lisätkää `README.md`-tiedostoon linkki Swagger-dokumentaatioon (Rahti-sovelluksessa muotoa <https://nameofyourrahtiapp.2.rahtiapp.fi/swagger-ui/index.html>).
-- Toteuttakaa sovelluksen joitakin automatisoituja testejä. [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) voi ottaa mallia REST API endpointtien integraatiotestaukseen.
+- Toteuttakaa sovelluksen joitakin automatisoituja testejä (esim. yksikkötestejä). [Esimerkkisovelluksesta](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/src/test/java/fi/haagahelia/messenger/controller/MessageRestControllerTest.java) voi ottaa mallia REST API endpointtien integraatiotestaukseen.
 
 ## Viikko 3
 
