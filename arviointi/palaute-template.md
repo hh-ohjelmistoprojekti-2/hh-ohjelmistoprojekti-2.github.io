@@ -22,6 +22,8 @@ Tässä teille palautetta sprintin 1 työskentelystänne:
 - Sprintin katselmointi sujui hyvin. Kiitos demosta!
   - Sprintin katselmointiin voisi seuraavalla kerralla varautua paremmin. Päättäkää katselmoinnin pitäjä etukäteen ja varautukaa esittelemään projektia.
 
+Yt. Kalle
+
 ---
 
 ## Sprintin 2 palaute
@@ -63,6 +65,8 @@ Tässä teille palautetta sprintin 2 työskentelystänne:
   - Varmistakaa ennen seuraavaa demoa, että tuotantoympäristössä on sovelluksen toimiva versio ja esitelkää sitä demossanne.
   - Sprintin katselmointiin voisi seuraavalla kerralla varautua paremmin. Päättäkää katselmoinnin pitäjä etukäteen ja varautukaa esittelemään projektia.
 
+Yt. Kalle
+
 ---
 
 ## Sprintin 3 palaute
@@ -98,3 +102,5 @@ Tässä teille palautetta sprintin 3 työskentelystänne:
 - Sprintin katselmointi sujui hyvin. Kiitos demosta!
   - Varmistakaa ennen seuraavaa demoa, että tuotantoympäristössä on sovelluksen toimiva versio ja esitelkää sitä demossanne.
   - Sprintin katselmointiin voisi seuraavalla kerralla varautua paremmin. Päättäkää katselmoinnin pitäjä etukäteen ja varautukaa esittelemään projektia.
+
+Yt. Kalle

@@ -2,7 +2,7 @@
 
 Moi XXX-tiimin jäsenet,
 
-Tässä linkki tiiminne vertaisarviointilomakkeeseen: 
+Tässä linkki tiiminne vertaisarviointilomakkeeseen: XXX
 
 Muistakaa, että vertaisarviointi on pakollinen osa kurssia ja se täytyy tehdä XXX mennessä.
 
@@ -14,6 +14,8 @@ Yt. Kalle
 
 Moi XXX-tiimin jäsenet,
 
-Tehkää koodikatselmointinne tähän repositorioon ennen seuraavaa opetuskertaa: 
+Tehkää koodikatselmointinne tähän repositorioon ennen seuraavaa opetuskertaa: XXX
 
 Lukekaa ohjeet koodikatselmoinnin tekemiseen [täällä](https://hh-ohjelmistoprojekti-2.github.io/koodikatselmointi).
+
+Yt. Kalle
