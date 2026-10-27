@@ -34,6 +34,7 @@ Sprintin tavoitteet projektille:
 > Tämän viikon aikana vertaisryhmät tekevät toisilleen **katselmointipyynnöt** _ennen seuraavaa opetuskertaa_, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Lukekaa katselmointipyynnön ohjeet [täältä](/koodikatselmointi).
 
 - Toteuttakaa sovellukselle lisää testejä. Lukekaa [The testing pyramid: Strategic software testing for Agile teams](https://circleci.com/blog/testing-pyramid/) -artikkeli ja miettikää, minkälaisista erilaisista testeistä voisi olla hyötyä projektinne testauksessa. Varmistakaa, että kaikkia projektin osia (esim. frontend ja backend) on testattu jollain tasolla automatisoiduilla testeillä.
+- Lisätkää `README.md`-tiedostoon kuvaus, miten sovellustanne on testattu. Kuvauksen pitäisi käsitellä minkälaisia testejä projektissa on toteutettu (esim. yksikkö-, integraatio-, tai E2E-testejä), mitä teknologioita testien toteutuksessa on käytetty (esim. Vitest, jUnit, tai Playwright), sekä miten testit suoritetaan. Yksityiskohtaisemmille tiedoille, kuten yksittäisten testitiedostojen kuvauksille, ei ole tarvetta
 
 ## Viikko 3
 
