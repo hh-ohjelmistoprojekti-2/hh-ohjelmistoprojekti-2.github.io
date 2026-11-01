@@ -7,7 +7,7 @@ The following example simulates an online store that processes an order, calcula
 The code works, but it contains several code quality problems that make it difficult to understand, maintain, and extend.
 
 ```javascript
-function fn(u, p, d) {
+async function fn(u, p, d) {
     console.log("Processing order for " + u.name);
 
     let x = 0;
@@ -26,12 +26,11 @@ function fn(u, p, d) {
         x = x - d;
     }
 
-    console.log("Customer: " + u.name);
-    console.log("Total: " + x + " €");
+    x = x + calculateShipping(p):
 
-    console.log("Sending confirmation to " + u.name);
+await fetch("https://onlinestore.com/api/receipts", { method: "POST", body: JSON.stringify({ customerId: u.id, total: x }) });
 
-    return x;
+   return x;
 }
 
 function calculateShipping(p) {
@@ -47,17 +46,6 @@ function calculateShipping(p) {
         return 10;
     }
 }
-
-function printOrder(u, p) {
-    let total = 0;
-
-    for (let i = 0; i < p.length; i++) {
-        total += p[i].price * p[i].quantity;
-    }
-
-    console.log("Order for " + u.name);
-    console.log("Total: " + total + " €");
-}
 ```
 
 ## Problem 1: Violating the Single Responsibility Principle
@@ -72,8 +60,7 @@ The `fn` function performs several different tasks:
 
 - Calculates the order total.
 - Applies discounts.
-- Prints order information.
-- Sends an order confirmation.
+- Sends the receipt.
 
 **What does this cause?**
 
@@ -103,16 +90,15 @@ function applyDiscount(total, customer, discount) {
 
     if (customer.type === "MEMBER") {
         discountTotal *= 0.9;
-    } else if (u.type == "VIP") {
+    } else if (customer.type == "VIP") {
         discountTotal *= 0.75;
     }
 
     return discountTotal;
 }
 
-function printReceipt(customer, total) {
-    console.log("Customer: " + customer);
-    console.log("Total: " + total + " €");
+function sendReceipt(customer, total) {
+  return fetch("https://onlinestore.com/api/receipts", { method: "POST", body: JSON.stringify({ customerId: customer.id, total }) });
 }
 ```
 
@@ -126,7 +112,7 @@ Variable and function names should clearly communicate their purpose.
 
 **Problem:**
 
-The example uses unclear names:
+In the example uses unclear names:
 
 - `fn` does not describe what the function does.
 - `u` does not explain what information it contains.
@@ -147,18 +133,22 @@ Use meaningful names that describe the purpose of functions and variables.
 For example:
 
 ```javascript
-function calculateOrderTotal(products) {
+function processOrder(customer, products, discount) {
+    console.log("Processing order for " + customer.name);
+
     let totalPrice = 0;
 
     for (let i = 0; i < products.length; i++) {
         totalPrice += products[i].price * products[i].quantity;
     }
 
+    // ...
+
     return totalPrice;
 }
 ```
 
-The names `calculateOrderTotal`, `products`, and `totalPrice` communicate the purpose of the code much better.
+The names `processOrder`, `products`, and `totalPrice` communicate the purpose of the code much better.
 
 ## Problem 3: Repeating Code (DRY Principle)
 
@@ -168,13 +158,7 @@ Avoid repeating the same logic in multiple places. Instead, implement common fun
 
 **Problem:**
 
-The calculation of the total product price is repeated in three different functions:
-
-- `fn`
-- `calculateShipping`
-- `printOrder`
-
-All three functions contain essentially the same loop.
+The calculation of the total product price is repeated in two different functions `fn` and `calculateShipping`. Both functions contain essentially the same loop.
 
 **What does this cause?**
 
@@ -199,6 +183,16 @@ function calculateSubtotal(products) {
     return subtotal;
 }
 
+function processOrder(customer, products, discount) {
+    console.log("Processing order for " + customer.name);
+
+    let totalPrice = calculateSubTotal(products);
+
+    // ...
+
+    return totalPrice;
+}
+
 function calculateShipping(products) {
     const subtotal = calculateSubtotal(products);
 
@@ -207,13 +201,6 @@ function calculateShipping(products) {
     }
 
     return 10;
-}
-
-function printOrder(customer, products) {
-    const total = calculateSubtotal(products);
-
-    console.log("Order for " + customer);
-    console.log("Total: " + total + " €");
 }
 ```
 
