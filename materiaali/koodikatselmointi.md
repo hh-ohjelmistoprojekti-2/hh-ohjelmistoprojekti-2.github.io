@@ -30,7 +30,11 @@ Katselmoinnin tekeminen:
 
 **Koodin katselmoimiseksi ryhmän ei tarvitse kloonata itselleen toisen ryhmän koodia eikä suorittaa sitä**. Tällä vältetään monimutkaiset ympäristöjen pystyttämiset ja riippuvuuksien asentamiset, jotka vievät aikaa varsinaiselta katselmoinnilta ja kehitysehdotuksilta. Ohjelman testaamisen sijaan keskitytte siis lukemaan koodia ja arvioimaan sen selkeyttä ja luettavuutta.
 
-Selkeän, luettavan ja ylläpidettävän koodin kehittämisestä on julkaistu mm. laajaan suosioon noussut [Clean Code -kirja](https://www.google.com/search?q=robert+c+martin+clean+code). Kirjan lainaaminen ja sen lukeminen kokonaan ei ole välttämätöntä, mutta suosittelemme lukemaan esimerkiksi [kirjan tiivistelmän](https://www.google.com/search?q=robert+c+martin+clean+code+summary) tai samasta kirjasta erityisesti [JavaScriptiä varten sovelletun tyylioppaan](https://github.com/ryanmcdermott/clean-code-javascript).
+Ohjeita koodin laadun arvioimiseen:
+
+- [Luentoesimerkkejä koodin laadun arvioinnista](https://github.com/hh-ohjelmistoprojekti-2/hh-ohjelmistoprojekti-2.github.io/blob/main/esimerkit/koodin-laatu/koodin-laatu.md).
+- Selkeän, luettavan ja ylläpidettävän koodin kehittämisestä on julkaistu mm. laajaan suosioon noussut [Clean Code -kirja](https://www.google.com/search?q=robert+c+martin+clean+code). Kirjan lainaaminen ja sen lukeminen kokonaan ei ole välttämätöntä, mutta suosittelemme lukemaan esimerkiksi [kirjan tiivistelmän](https://www.google.com/search?q=robert+c+martin+clean+code+summary).
+- Samasta kirjasta erityisesti [JavaScriptiä varten koostettu tyyliopas](https://github.com/ryanmcdermott/clean-code-javascript).
 
 Arvioikaa katselmointipyynnössä saamaanne kuvausta vertaisryhmän laadunvarmistuskäytännöistä. Oletteko luottavaisia tehtyyn laadunvarmistukseen, tai onko teillä kehitysehdotuksia esimerkiksi manuaalisen tai automatisoidun testauksen suhteen?
 

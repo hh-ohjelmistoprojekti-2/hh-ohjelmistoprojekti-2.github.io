@@ -1,0 +1,15 @@
+{
+  "name": "koodin-laatu",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "oxlint": "^1.90.0"
+  }
+}
