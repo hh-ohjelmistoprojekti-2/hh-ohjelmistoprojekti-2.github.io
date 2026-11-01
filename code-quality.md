@@ -7,8 +7,8 @@ The following example simulates an online store that processes an order, calcula
 The code works, but it contains several code quality problems that make it difficult to understand, maintain, and extend.
 
 ```javascript
-function doStuff(u, p, d) {
-    console.log("Processing order for " + u);
+function fn(u, p, d) {
+    console.log("Processing order for " + u.name);
 
     let x = 0;
 
@@ -16,19 +16,20 @@ function doStuff(u, p, d) {
         x += p[i].price * p[i].quantity;
     }
 
-    if (u === "VIP") {
-        x = x * 0.8;
+    if (u.type === "MEMBER") {
+        x = x * 0.9;
+    } else if (u.type == "VIP") {
+        x = x * 0.75;
     }
 
     if (d > 0) {
         x = x - d;
     }
 
-    console.log("Customer: " + u);
+    console.log("Customer: " + u.name);
     console.log("Total: " + x + " €");
 
-    // Send order confirmation
-    console.log("Sending confirmation to " + u);
+    console.log("Sending confirmation to " + u.name);
 
     return x;
 }
@@ -54,7 +55,7 @@ function printOrder(u, p) {
         total += p[i].price * p[i].quantity;
     }
 
-    console.log("Order for " + u);
+    console.log("Order for " + u.name);
     console.log("Total: " + total + " €");
 }
 ```
@@ -67,7 +68,7 @@ A function should have one clear responsibility. It should focus on doing one pa
 
 **Problem:**
 
-The `doStuff()` function performs several different tasks:
+The `fn` function performs several different tasks:
 
 - Calculates the order total.
 - Applies discounts.
@@ -97,12 +98,16 @@ function calculateOrderTotal(products) {
     return total;
 }
 
-function applyDiscount(total, customerType, discount) {
-    if (customerType === "VIP") {
-        total *= 0.8;
+function applyDiscount(total, customer, discount) {
+    const discountTotal = total - discount;
+
+    if (customer.type === "MEMBER") {
+        discountTotal *= 0.9;
+    } else if (u.type == "VIP") {
+        discountTotal *= 0.75;
     }
 
-    return total - discount;
+    return discountTotal;
 }
 
 function printReceipt(customer, total) {
@@ -123,7 +128,7 @@ Variable and function names should clearly communicate their purpose.
 
 The example uses unclear names:
 
-- `doStuff()` does not describe what the function does.
+- `fn` does not describe what the function does.
 - `u` does not explain what information it contains.
 - `p` does not explain what information it contains.
 - `x` does not explain what value it represents.
@@ -165,9 +170,9 @@ Avoid repeating the same logic in multiple places. Instead, implement common fun
 
 The calculation of the total product price is repeated in three different functions:
 
-- `doStuff()`
-- `calculateShipping()`
-- `printOrder()`
+- `fn`
+- `calculateShipping`
+- `printOrder`
 
 All three functions contain essentially the same loop.
 
@@ -224,7 +229,8 @@ Important values should be given descriptive names that explain their purpose.
 
 The example contains several hardcoded numbers:
 
-- `0.8` represents the VIP discount multiplier.
+- `0.9` represents the member discount multiplier.
+- `0.75` represents the VIP discount multiplier.
 - `100` represents the free shipping threshold.
 - `10` represents the shipping cost.
 
@@ -243,7 +249,8 @@ Define constants with descriptive names.
 For example:
 
 ```javascript
-const VIP_DISCOUNT_RATE = 0.20;
+const VIP_DISCOUNT_RATE = 0.25;
+const MEMBER_DISCOUNT_RATE = 0.1;
 const FREE_SHIPPING_THRESHOLD = 100;
 const SHIPPING_COST = 10;
 
@@ -255,83 +262,17 @@ function calculateShipping(subtotal) {
     return SHIPPING_COST;
 }
 
-function applyVipDiscount(total) {
-    return total * (1 - VIP_DISCOUNT_RATE);
+function applyCustomerTypeDiscount(total, customerType) {
+    let discountRate = 0;
+
+    if (customerType === "MEMBER") {
+       discountRate = MEMBER_DISCOUNT_RATE;
+    } else if (customerType === "VIP") {
+       discountRate = VIP_DISCOUNT_RATE;
+    }
+
+    return total * (1 - discountRate);
 }
 ```
 
 Now the meaning of each value is clear, and changing the values is easier.
-
-## Problem 5: Mixing Business Logic and Output
-
-**Principle: Separation of Concerns**
-
-Different parts of a program should focus on different concerns. For example, business logic should be separated from displaying information to the user.
-
-**Problem:**
-
-The `doStuff()` function mixes order calculations with console output.
-
-For example:
-
-```javascript
-function doStuff(u, p, d) {
-    // Business logic
-    let x = 0;
-
-    for (let i = 0; i < p.length; i++) {
-        x += p[i].price * p[i].quantity;
-    }
-
-    // Output
-    console.log("Customer: " + u);
-    console.log("Total: " + x + " €");
-
-    return x;
-}
-```
-
-**What does this cause?**
-
-- Business logic becomes dependent on how information is displayed.
-- Reusing the calculation in another context becomes more difficult.
-- Changing the output mechanism may require modifying business logic.
-
-**How to fix it?**
-
-Keep calculations separate from displaying information.
-
-For example:
-
-```javascript
-function calculateOrderTotal(products) {
-    let total = 0;
-
-    for (let i = 0; i < products.length; i++) {
-        total += products[i].price * products[i].quantity;
-    }
-
-    return total;
-}
-
-function printReceipt(customer, total) {
-    console.log("Customer: " + customer);
-    console.log("Total: " + total + " €");
-}
-```
-
-The calculation function now returns a value without deciding how it should be displayed. The output function handles displaying the receipt.
-
----
-
-## Summary
-
-Good code quality makes software easier to understand, maintain, test, and extend.
-
-| Principle | Main idea |
-|---|---|
-| Single Responsibility Principle | Give each function one clear responsibility. |
-| Meaningful Naming | Use descriptive names for variables and functions. |
-| Don't Repeat Yourself (DRY) | Avoid implementing the same logic multiple times. |
-| Meaningful Constants | Replace unexplained hardcoded values with named constants. |
-| Separation of Concerns | Keep different responsibilities, such as business logic and output, separate. |
