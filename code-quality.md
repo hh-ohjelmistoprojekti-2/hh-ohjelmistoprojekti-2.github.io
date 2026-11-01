@@ -34,13 +34,13 @@ await fetch("https://onlinestore.com/api/receipts", { method: "POST", body: JSON
 }
 
 function calculateShipping(p) {
-    let total = 0;
+    let t = 0;
 
     for (let i = 0; i < p.length; i++) {
-        total += p[i].price * p[i].quantity;
+        t += p[i].price * p[i].quantity;
     }
 
-    if (total > 100) {
+    if (t > 100) {
         return 0;
     } else {
         return 10;
