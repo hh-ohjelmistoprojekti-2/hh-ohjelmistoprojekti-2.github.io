@@ -32,7 +32,7 @@ Sprintin tavoitteet projektille:
   - Linkki [Swagger](https://www.baeldung.com/spring-rest-openapi-documentation)-dokumentaation (Rahti-sovelluksessa muotoa <https://nameofyourrahtiapp.2.rahtiapp.fi/swagger-ui/index.html>), jos REST API endpointteja on toteutettu.
   - Toteutusteknologiat (ohjelmointikielet, sovelluskehykset ja olennaisimmat kirjastot).
   - Tekniset käyttöohjeet (esim. sovelluksen käynnistys ja testien suoritus komentoriviltä).
-  - Tietomallin kuvaus, esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html), tai vastaavaa tietomallikaaviota hyödyntäen.
+  - Tietomallin kuvaus, esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html), tai vastaavaa tietomallikaaviota hyödyntäen. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia, joka helpottaa kaavioden tekemistä ja ylläpitämistä.
   - Linkki [lisenssitiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) on lisätty `README.md`-tiedostoon esim. [esimerkkisovelluksen](https://github.com/hh-ohjelmistoprojekti-2/spring-boot-vite-example/blob/main/README.md?plain=1) mukaisesti. 
 - Jatkakaa projektin edistämistä.
 

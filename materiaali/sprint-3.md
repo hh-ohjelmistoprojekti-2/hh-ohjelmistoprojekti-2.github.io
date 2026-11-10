@@ -12,7 +12,7 @@ Sprintin tavoitteet projektille:
 - Samat tavoitteet kuin [edellisellä sprintillä](/sprint-2).
 - Ainakin osalle sprintin user storyista on tehty työmääräarviot ja ne on jollakin tavalla nähtävillä backlogissa.
 - Testausta on laajennettu ja kaikkia projektin osia (esim. frontend ja backend) on testattu jollain tasolla automatisoiduilla testeillä. Jatkuva integraatio suorittaa testit onnistuneesti.
-- Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin kuvaus, jota havainnollistetaan esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia.
+- Projektin dokumentaatio on pidetty ajan tasalla. Dokumentaatioon on lisätty sovelluksen tietomallin kuvaus, jota havainnollistetaan esim. [ER-kaaviota](https://mermaid.ai/open-source/syntax/entityRelationshipDiagram.html) hyödyntäen. Kaavioissa voi hyödyntää Markdown-tiedostojen tukemaa [Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)-syntaksia, joka helpottaa kaavioden tekemistä ja ylläpitämistä.
 
 ## Viikko 1
 

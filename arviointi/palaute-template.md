@@ -8,7 +8,6 @@ Tässä teille palautetta sprintin 1 työskentelystänne:
   - Projektissa on toteutettu jonkin verran uutta toiminnallisuutta, hyvä!
   - Projektissa on toteutettu hieman uutta toiminnallisuutta, mutta voisitte jatkossa edistää projektia aktiivisemmin.
 - Backlogissa on sekä user storyja että teknisiä tehtäviä, hyvä!
-  - En löytänyt backlogianne, onhan se julkinen?
   - Lisätkää `README.md`-tiedostoon linkki backlogiinne.
   - Muistakaa merkitä backlogiin jokaisen tehtävän tekijä(t). Muistakaa myös pitää backlog ajan tasalla, jotta se kuvastaa työn etenemistä.
   - Backlogissa on pääosin teknisiä tehtäviä, mutta voisitte määritellä vaatimuksia enemmän myös user storyina, jotta toiminnallisuus korostuu paremmin vaatimusten dokumentoinnissa ja seurannassa.
@@ -38,7 +37,6 @@ Tässä teille palautetta sprintin 2 työskentelystänne:
 - Projektin laajuus on kurssin tässä vaiheessa (erittäin hyvä | melko hyvä | kohtalainen). Tässä joitain kehitysideoita projektin laajentamiseksi:
   - XXX
 - Backlogissa on sekä user storyja että teknisiä tehtäviä, hyvä!
-  - En löytänyt backlogianne, onhan se julkinen?
   - Lisätkää `README.md`-tiedostoon linkki backlogiinne.
   - Backlogin tehtäviin ei ole merkitty tekijää.
   - Backlog ei vaikuta olevan ajan tasalla tehtävien tilan suhteen. Onko valmiit tehtävät siirretty asianmukaiseen tilaan backlogissa?
@@ -81,17 +79,18 @@ Tässä teille palautetta sprintin 3 työskentelystänne:
 - Projektin laajuus on kurssin tässä vaiheessa (erittäin hyvä | melko hyvä | kohtalainen). Tässä joitain kehitysideoita projektin laajentamiseksi:
   - XXX
 - Backlogissa on sekä user storyja että teknisiä tehtäviä, hyvä!
-  - En löytänyt backlogianne, onhan se julkinen?
   - Lisätkää `README.md`-tiedostoon linkki backlogiinne.
   - Backlogin tehtäviin ei ole merkitty tekijää.
   - Backlog ei vaikuta olevan ajan tasalla tehtävien tilan suhteen. Onko valmiit tehtävät siirretty asianmukaiseen tilaan backlogissa?
   - Backlogissa on pääosin teknisiä tehtäviä, mutta voisitte määritellä vaatimuksia enemmän myös user storyina, jotta toiminnallisuus korostuu paremmin vaatimusten dokumentoinnissa ja seurannassa.
 - `README.md`-tiedostossa on dokumentoitu sovelluksen tietomallin kuvaus, hyvä!
-  - Dokumentoikaa `README.md`-tiedostoon sovelluksen tietomallin kuvaus ja havainnollistakaa sitä esimerkiksi ER-kaavion avulla.
+  - Dokumentoikaa `README.md`-tiedostoon sovelluksen tietomallin kuvaus ja havainnollistakaa sitä esimerkiksi ER-kaavion avulla. GitHub tukee Markdown-tiedostoissa [Mermaid](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)-kaaviosyntaksia, joka tekee kaavioiden tekemisestä ja ylläpitämisestä helppoa.
+- `README.md`-tiedostossa on dokumentoitu testauksen komentorivitoiminnot ja testausteknologiat, hyvä!
+  - Dokumentoikaa `README.md`-tiedostossa testauksen komentorivitoiminnut, minkälaisia testejä projektissa on (esim. yksikkö-, integraatio- tai E2E-testejä) sekä mitä testausteknologioita olette hyödyntäneet (esim. JUnit, tai React Testing Library).
 - Projektissa testausta on laajennettu, hyvä!
   - Laajentakaa projektin testausta. Varmistakaa, että kaikkia projektin osia (esim. frontend ja backend) on testattu jollain tasolla automatisoiduilla testeillä.
 - Jatkuva integraatio suorittaa projektin testit ja ohjelman käännöksen, hyvä!
-  - Ottakaa jatkuva integraatio käyttöön GitHub Actions -palvelun avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja ohjelman käännös (esim. JAR-tiedoston muodostaminen Maven-projektissa `<code>./mvnw package</code>`-komennolla). Lukekaa tarvittaessa ohjeita kurssimateriaalin kohdasta "Sprint 2 > Viikko 3".
+  - Ottakaa jatkuva integraatio käyttöön GitHub Actions -palvelun avulla. Jatkuvan integraation tulee ainakin suorittaa testit ja ohjelman käännös (esim. JAR-tiedoston muodostaminen Maven-projektissa `./mvnw package`-komennolla). Lukekaa tarvittaessa ohjeita kurssimateriaalin kohdasta "Sprint 2 > Viikko 3".
 - Git-haaroja on hyödynnetty toiminnallisuuden toteutuksessa, hyvä!
   - Git-haaroja on hyödynnetty melko vähän toiminnallisuuden toteutuksessa. Toteuttakaa pieniä toiminnallisuuksia erillisissä feature-haaroissa. Lukekaa tarvittaessa ohjeita kurssimateriaalin kohdasta "Sprint 1 > Viikko 2".
   - Yhdistäkää feature-haaroja aktiivisesti päähaaraan (main-haaraan) pull requestien avulla. Haarojen muutokset kannattaa pitää mahdollisimman pieninä, esimerkiksi yhden user storyn tai teknisen tehtävän toteutuksena.

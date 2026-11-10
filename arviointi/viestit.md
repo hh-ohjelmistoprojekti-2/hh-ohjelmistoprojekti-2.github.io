@@ -10,7 +10,7 @@ Yt. Kalle
 
 ---
 
-## Koodikatselmoinnin repositorio
+## Koodikatselmointi
 
 Moi XXX-tiimin jäsenet,
 
